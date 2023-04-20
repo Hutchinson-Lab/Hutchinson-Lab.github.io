@@ -1,0 +1,10 @@
+@article{hopkins2022comparison,
+  title={A comparison of remotely sensed environmental predictors for avian distributions},
+  author={Hopkins, Laurel M and Hallman, Tyler A and Kilbride, John and Robinson, W Douglas and Hutchinson, Rebecca A},
+  journal={Landscape Ecology},
+  volume={37},
+  number={4},
+  pages={997--1016},
+  year={2022},
+  publisher={Springer}
+}

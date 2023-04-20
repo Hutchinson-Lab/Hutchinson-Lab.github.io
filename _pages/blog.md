@@ -6,5 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+Hi, this is blog!
 
-Hi Friends!
+{% include base_path %}
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}

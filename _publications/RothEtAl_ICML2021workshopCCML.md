@@ -1,5 +1,5 @@
 ---
-title: On the Role of Spatial Clustering Algorithms in Building Species Distribution Models from Community Science Data"
+title: "On the Role of Spatial Clustering Algorithms in Building Species Distribution Models from Community Science Data"
 collection: publications
 permalink: /publication/ICML_CCAI_Proposal_RothEtAl_2021
 date: 2021-07-23

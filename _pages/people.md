@@ -35,3 +35,8 @@ TBA
 ![bio-photo](/images/bio-photo.jpg)
 #### Bio
 TBA
+
+### Nahian Ahmed
+![bio-photo](/images/bio-photo.jpg)
+#### Bio
+Nahian is a PhD student of computer science. He studies machine learning, with a focus on evaluation, and applications in computational sustainability. He is interested in intuitive and engaging ways of learning about machine learning.

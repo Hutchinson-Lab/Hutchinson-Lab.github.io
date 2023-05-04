@@ -8,7 +8,7 @@ redirect_from:
 ---
   
 ### Rebecca Hutchinson
-![bio-photo](/images/bio-photo.jpg)
+![bio-photo](/images/profile/HutchinsonPhoto.jpg)
 #### Bio
 TBA
   
@@ -20,7 +20,7 @@ Laurel is a PhD student and NASA FINESST (Future Investigators in NASA Earth and
 
 ### Jing Wang
 
-![bio-photo](/images/bio-photo.jpg)
+![bio-photo](/images/profile/wangjing.jpg)
 #### Bio
 Jing is a PhD candidate in computer science, studying on model evaluation in machine learning, specifically developing cross-validation methods for geospatial problems and applying them on birds and housing datasets.
 
@@ -40,3 +40,8 @@ TBA
 ![bio-photo](/images/bio-photo.jpg)
 #### Bio
 Nahian is a PhD student of computer science. He studies machine learning, with a focus on evaluation, and applications in computational sustainability. He is interested in intuitive and engaging ways of learning about machine learning.
+
+### Jupiter
+![bio-photo](/images/profiles/jupiter.jpg)
+#### Bio
+

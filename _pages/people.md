@@ -8,7 +8,7 @@ redirect_from:
 ---
   
 ### Rebecca Hutchinson
-![bio-photo](/images/profiles/HutchinsonPhoto.jpg)
+<img src="/images/profiles/HutchinsonPhoto.jpg" width="200">
 #### Bio
 TBA
   

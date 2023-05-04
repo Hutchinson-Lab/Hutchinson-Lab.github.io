@@ -13,8 +13,7 @@ redirect_from:
 TBA
   
 ### Laurel Hopkins
-
-![bio-photo](/images/bio-photo.jpg)
+<img src="/images/profiles/laurel.jpg" width="200">
 #### Bio
 Laurel is a PhD student and NASA FINESST (Future Investigators in NASA Earth and Space Science Technology) recipient. Laurel's work is at the intersection of deep learning, remote sensing, and ecology. She studies deep learning architectures and various remote sensing products (i.e., satellite imagery datasets).
 
@@ -36,10 +35,12 @@ TBA
 TBA
 
 ### Nahian Ahmed
+<img src="/images/profiles/nahian.jpg" width="200">
 ![bio-photo](/images/bio-photo.jpg)
 #### Bio
 Nahian is a PhD student of computer science. He studies machine learning, with a focus on evaluation, and applications in computational sustainability. He is interested in intuitive and engaging ways of learning about machine learning.
 
+### Honorary Members
 ### Jupiter
 <img src="/images/profiles/jupiter.png" width="200">
 #### Bio

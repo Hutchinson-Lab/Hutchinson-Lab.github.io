@@ -19,4 +19,4 @@ The [eButterfly project](https://www.e-butterfly.org/)
 
 eButterfly Research Associate [Katy Prudic](https://profiles.arizona.edu/person/klprudic) at the University of Arizona
 
-
+The [AgAID Institute](https://agaid.org/), funded by NSF/USDA-NIFA

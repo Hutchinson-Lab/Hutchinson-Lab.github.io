@@ -1,0 +1,5 @@
+@article{roth2021role,
+  title={On the Role of Spatial Clustering Algorithms in Building Species Distribution Models from Community Science Data},
+  author={Roth, Mark},
+  year={2021}
+}

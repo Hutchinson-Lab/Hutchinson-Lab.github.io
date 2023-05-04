@@ -16,6 +16,8 @@ May 2022: Rebecca Hutchinson was promoted to Associate Professor with indefinite
 
 July 2021: Eugene Seo passed her PhD defense on Machine Learning Techniques to Model Species Interactions and Distributions Under Imperfect Detection. She will begin a postdoc at Brown University in the fall. 
 
+May 2021: Our paper, led by Mark Roth, won the Best Paper (proposals track) award at the [ICML 2021 Workshop on Tackling Climate Change with Machine Learning](https://www.climatechange.ai/events/icml2021).
+
 April 2021: Rebecca Hutchinson received an NSF CAREER award: Machine Learning Methods for Spatial Data with Applications in Ecology.
 
 June 2020: Laurel Hopkins was awarded a NASA FINESST Fellowship to support her PhD work: Developing Habitat Summaries with Deep Learning-Based Methods for Advancing Wildlife Conservation.

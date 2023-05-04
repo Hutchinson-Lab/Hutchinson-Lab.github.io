@@ -2,7 +2,7 @@
 title: "A comparison of remotely sensed environmental predictors for avian distributions"
 collection: teaching
 type: "Undergraduate course"
-permalink: 'https://link.springer.com/article/10.1007/s10980-022-01406-y'   #/teaching/2014-spring-teaching-1
+permalink:(https://link.springer.com/article/10.1007/s10980-022-01406-y)   #/teaching/2014-spring-teaching-1
 venue: "Landscape Ecology"
 date: 2022-02-16
 location: "City, Country"

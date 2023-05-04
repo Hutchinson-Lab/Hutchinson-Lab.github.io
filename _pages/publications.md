@@ -5,12 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## A comparison of remotely sensed environmental predictors for avian distributions(https://link.springer.com/article/10.1007/s10980-022-01406-y)
+Published in Landscape Ecology, 2022
+[Download paper here](http://Hutchinson-Lab.github.io/files/A comparison of remotely sensed environmental predictors for avian distributions.pdf)<br>
+[Bibtex citation](http://Hutchinson-Lab.github.io/files/HopkinsEtAl_LE2022.txt)

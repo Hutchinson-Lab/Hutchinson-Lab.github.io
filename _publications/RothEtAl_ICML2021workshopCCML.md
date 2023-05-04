@@ -1,10 +1,12 @@
 ---
 title: "On the Role of Spatial Clustering Algorithms in Building Species Distribution Models from Community Science Data"
-collection: publications
-permalink: /publication/ICML_CCAI_Proposal_RothEtAl_2021
+collection: teaching
+type: "Undergraduate course"
+permalink: '/publication/ICML_CCAI_Proposal_RothEtAl_2021'   #/teaching/2014-spring-teaching-1
+venue: "ICML workshop on Tackling Climate Change with Machine Learning"
 date: 2021-07-23
-venue: 'ICML workshop on Tackling Climate Change with Machine Learning'
-paperurl: 'http://academicpages.github.io/files/ICML_CCAI_Proposal_RothEtAl_2021.pdf'
+location: "City, Country"
 ---
 
-[Download paper here](http://Hutchinson-Lab.github.io/files/ICML_CCAI_Proposal_RothEtAl_2021.pdf)
+[Download paper here](http://Hutchinson-Lab.github.io/files/ICML_CCAI_Proposal_RothEtAl_2021.pdf)<br>
+[Bibtex citation](http://Hutchinson-Lab.github.io/files/ICML_CCAI_Proposal_RothEtAl_2021.txt)

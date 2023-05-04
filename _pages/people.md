@@ -13,7 +13,7 @@ redirect_from:
 TBA
   
 ### Laurel Hopkins
-<img src="/images/profiles/laurel.jpg" width="200">
+<img src="/images/profiles/laurel.png" width="200">
 #### Bio
 Laurel is a PhD student and NASA FINESST (Future Investigators in NASA Earth and Space Science Technology) recipient. Laurel's work is at the intersection of deep learning, remote sensing, and ecology. She studies deep learning architectures and various remote sensing products (i.e., satellite imagery datasets).
 
@@ -23,8 +23,7 @@ Laurel is a PhD student and NASA FINESST (Future Investigators in NASA Earth and
 Jing is a PhD candidate in computer science, studying on model evaluation in machine learning, specifically developing cross-validation methods for geospatial problems and applying them on birds and housing datasets.
 
 ### Andrew Droubay
-
-![bio-photo](/images/bio-photo.jpg)
+<img src="/images/profiles/andrew.png" width="200">
 #### Bio
 TBA
 
@@ -35,13 +34,27 @@ TBA
 TBA
 
 ### Nahian Ahmed
-<img src="/images/profiles/nahian.jpg" width="200">
+<img src="/images/profiles/nahian.jpeg" width="200">
 ![bio-photo](/images/bio-photo.jpg)
 #### Bio
 Nahian is a PhD student of computer science. He studies machine learning, with a focus on evaluation, and applications in computational sustainability. He is interested in intuitive and engaging ways of learning about machine learning.
 
-### Honorary Members
+## Honorary Members
 ### Jupiter
 <img src="/images/profiles/jupiter.png" width="200">
 #### Bio
+
+## Alumni
+
+### Eugene Seo
+<img src="/images/profiles/ES.png" width="200">
+
+### Mark Roth
+<img src="/images/profiles/MR.png" width="200">
+
+### Vishnupriya Nochikaduthekkedath Reghunathan
+<img src="/images/profiles/VNR.png" width="200">
+
+### Liqiang He
+<img src="/images/profiles/LHe.png" width="200">
 

@@ -19,8 +19,7 @@ TBA
 Laurel is a PhD student and NASA FINESST (Future Investigators in NASA Earth and Space Science Technology) recipient. Laurel's work is at the intersection of deep learning, remote sensing, and ecology. She studies deep learning architectures and various remote sensing products (i.e., satellite imagery datasets).
 
 ### Jing Wang
-
-![bio-photo](/images/profiles/wangjing.jpg)
+<img src="/images/profiles/wangjing.jpg" width="200">
 #### Bio
 Jing is a PhD candidate in computer science, studying on model evaluation in machine learning, specifically developing cross-validation methods for geospatial problems and applying them on birds and housing datasets.
 
@@ -42,6 +41,6 @@ TBA
 Nahian is a PhD student of computer science. He studies machine learning, with a focus on evaluation, and applications in computational sustainability. He is interested in intuitive and engaging ways of learning about machine learning.
 
 ### Jupiter
-![bio-photo](/images/profiles/jupiter.png)
+<img src="/images/profiles/jupiter.png" width="200">
 #### Bio
 

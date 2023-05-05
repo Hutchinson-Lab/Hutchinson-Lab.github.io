@@ -10,7 +10,7 @@ redirect_from:
 ### Rebecca Hutchinson
 <img src="/images/profiles/HutchinsonPhoto.jpg" width="200">
 Rebecca is the lead PI of the ML QuESt Lab. 
-She is an Associate Professor at OSU, with a joint appointment across the [School of Electrical Engineering and Computer Science](https://engineering.oregonstate.edu/EECS) and the [Department of Fisheries, Wildlife, and Conservation Sciences](https://fwcs.oregonstate.edu/). 
+She is an Associate Professor at [Oregon State University](https://oregonstate.edu/), with a joint appointment across the [School of Electrical Engineering and Computer Science](https://engineering.oregonstate.edu/EECS) and the [Department of Fisheries, Wildlife, and Conservation Sciences](https://fwcs.oregonstate.edu/). 
 She is also affiliated with the [Center for Quantitative Life Sciences](https://cqls.oregonstate.edu/) and the [Collaborative Robotics and Intelligent Systems (CoRIS) Institute](https://engineering.oregonstate.edu/CoRIS). 
 She became interested in interdisciplinary work in machine learning and quantitative ecology during her postdoctoral studies with the [Institute for Computational Sustainability](https://computational-sustainability.cis.cornell.edu/) and as an NSF SEES Fellow, advised by [Tom Dietterich](https://web.engr.oregonstate.edu/~tgd/) and [Matt Betts](https://flel.forestry.oregonstate.edu/) . 
 Prior to that, she completed her PhD at [Carnegie Mellon University](https://csd.cmu.edu/) with [Tom Mitchell](http://www.cs.cmu.edu/~tom/).

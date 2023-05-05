@@ -28,29 +28,28 @@ Jing is a PhD candidate in computer science, studying on model evaluation in mac
 TBA
 
 ### Louise Henderson
-
 ![bio-photo](/images/bio-photo.jpg)
 #### Bio
 TBA
 
 ### Nahian Ahmed
 <img src="/images/profiles/nahian.jpeg" width="200">
-![bio-photo](/images/bio-photo.jpg)
 #### Bio
 Nahian is a PhD student of computer science. He studies machine learning, with a focus on evaluation, and applications in computational sustainability. He is interested in intuitive and engaging ways of learning about machine learning.
+
 
 ## Honorary Members
 ### Jupiter
 <img src="/images/profiles/jupiter.png" width="200">
-#### Bio
+
 
 ## Alumni
 
-### Eugene Seo
-<img src="/images/profiles/ES.png" width="200">
-
 ### Mark Roth
 <img src="/images/profiles/MR.png" width="200">
+
+### Eugene Seo
+<img src="/images/profiles/ES.png" width="200">
 
 ### Vishnupriya Nochikaduthekkedath Reghunathan
 <img src="/images/profiles/VNR.png" width="200">

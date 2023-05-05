@@ -7,7 +7,7 @@ redirect_from:
  - /resources
 ---
 
-##Friends of the ML QuESt Lab
+## Friends of the ML QuESt Lab
 OSU collaborator and [Oregon 2020 Project](https://oregon2020.com/) Lead [Doug Robinson](https://wdouglasrobinson.com/)
 
 OSU collaborator and sometimes co-advisor [Weng-Keen Wong](https://web.engr.oregonstate.edu/~wongwe/)

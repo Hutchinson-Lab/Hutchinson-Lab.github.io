@@ -22,6 +22,11 @@ Laurel is a PhD student and NASA FINESST (Future Investigators in NASA Earth and
 #### Bio
 Jing is a PhD candidate in computer science, studying on model evaluation in machine learning, specifically developing cross-validation methods for geospatial problems and applying them on birds and housing datasets.
 
+### Nahian Ahmed
+<img src="/images/profiles/nahian.jpeg" width="200">
+#### Bio
+Nahian is a PhD student of computer science. He studies machine learning, with a focus on evaluation, and applications in computational sustainability. He is interested in intuitive and engaging ways of learning about machine learning.
+
 ### Andrew Droubay
 <img src="/images/profiles/andrew.png" width="200">
 #### Bio
@@ -31,11 +36,6 @@ TBA
 ![bio-photo](/images/bio-photo.jpg)
 #### Bio
 TBA
-
-### Nahian Ahmed
-<img src="/images/profiles/nahian.jpeg" width="200">
-#### Bio
-Nahian is a PhD student of computer science. He studies machine learning, with a focus on evaluation, and applications in computational sustainability. He is interested in intuitive and engaging ways of learning about machine learning.
 
 
 ## Honorary Members

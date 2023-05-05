@@ -5,7 +5,7 @@ permalink: /resources/
 author_profile: true
 redirect_from:
  - /resources
----Welcome - Cayuse Research Suite
+---
 
 Friends of the ML QuESt Lab
 =====

@@ -16,9 +16,7 @@ OSU collaborator and co-PI [Xiao Fu](https://web.engr.oregonstate.edu/~fuxia/)
 
 The [eBird project](https://ebird.org/home) at the Cornell Lab of Ornithology
 
-The [eButterfly project](https://www.e-butterfly.org/)
-
-eButterfly Research Associate [Katy Prudic](https://profiles.arizona.edu/person/klprudic) at the University of Arizona
+The [eButterfly project](https://www.e-butterfly.org/), and eButterfly Research Associate [Katy Prudic](https://profiles.arizona.edu/person/klprudic) at the University of Arizona
 
 The [AgAID Institute](https://agaid.org/), funded by NSF/USDA-NIFA
 

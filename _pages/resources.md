@@ -9,6 +9,8 @@ redirect_from:
 
 Friends of the ML QuESt Lab
 =====
+OSU collaborator and [Oregon 2020 Project](https://oregon2020.com/) Lead [Doug Robinson](https://wdouglasrobinson.com/)
+
 OSU collaborator and sometimes co-advisor [Weng-Keen Wong](https://web.engr.oregonstate.edu/~wongwe/)
 
 OSU collaborator and co-PI [Xiao Fu](https://web.engr.oregonstate.edu/~fuxia/)
@@ -19,4 +21,4 @@ The [eButterfly project](https://www.e-butterfly.org/)
 
 eButterfly Research Associate [Katy Prudic](https://profiles.arizona.edu/person/klprudic) at the University of Arizona
 
-
+The [AgAID Institute](https://agaid.org/), funded by NSF/USDA-NIFA

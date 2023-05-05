@@ -26,3 +26,9 @@ The [HJ Andrews Experimental Forest](https://andrewsforest.oregonstate.edu/), an
 ## Helpful Links
 [The National Center for Faculty Development and Diversity (NCFDD)](https://www.facultydiversity.org/)
 
+OSU EECS [Graduate Handbook](https://engineering.oregonstate.edu/EECS/MyEECS/graduate-advising/eecs-graduate-handbook)
+
+OSU's [AI Seminar Series](https://engineering.oregonstate.edu/EECS/research/AI-seminars)
+
+OSU's [Ecology, Evolution, and Conservation Biology (EECB) Seminar Series](https://fwcs.oregonstate.edu/fwcs/ecology-evolution-and-conservation-biology-seminar-series)
+

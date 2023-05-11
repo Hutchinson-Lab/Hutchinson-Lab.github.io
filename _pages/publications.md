@@ -37,113 +37,60 @@ Wilson, J.K., Casajus, N., **Hutchinson, R.A.**, McFarland, K.P., Kerr, J.T., Be
 *Proceedings of the Thirty-Fifth Conference on Artificial Intelligence (AAAI)*.<br> 
 [(pdf)](../files/Seo_AAAI_2021.pdf) [(supplement)](../files/AAAI21_Supplement.pdf) [(code)](https://github.com/Hutchinson-Lab/StatEcoNet-AAAI21)
 
-Below here is source copied from Rebecca's current page and needs reformatting.
-  
-  "<a
- href="https://ieeexplore.ieee.org/abstract/document/8943390">Link Prediction Under Imperfect Detection: Collaborative Filtering for Ecological Networks</a>" <a href="https://arxiv.org/abs/1910.03659">(arxiv)</a><br>
-  X. Fu, **E. Seo**, **J. Clarke**, and <b>R.A. Hutchinson</b>,<br>
-  <i>IEEE Transactions on Knowledge and Data Engineering (TKDE)</i>, 2019. 
-  
-  "<a href="papers/Seo.Hutchinson.2018.pdf">Predicting Links in Plant-Pollinator Interaction Networks using Latent Factor Models with Implicit Feedback</a>" (<a href="papers/Seo-Hutchinson_supplemental.pdf">supplement</a>) <br>
-  **E. Seo** and <b>R.A. Hutchinson</b>,<br>
-  <i>Proceedings of the Thirty-Second Conference on Artificial Intelligence</i> (AAAI), 2018. 
-  
-  "<a
- href="https://link.springer.com/article/10.1007/s10980-018-0740-y">Landscape patterns and diversity of meadow plants and flower-visitors in a mountain landscape</a>" <br>
-  J.A. Jones, <b>R.A. Hutchinson</b>, A.R. Moldenke, V.W. Pfeiffer, E. Helderop, E. Thomas, **J. Griffin**, and A. Reinholtz,<br>
-  <i>Landscape Ecology</i>, 2018.
-  
-  "<a
- href="http://www.mdpi.com/2075-4450/8/2/53">eButterfly: Leveraging Massive Online Citizen Science for Butterfly Conservation</a>" <br>
-  K.L. Prudic, K.P. McFarland, J.C. Oliver, <b>R.A. Hutchinson</b>, E.C. Long, J.T. Kerr, and M. Larrivee,<br>
-  <i>Insects</i>, 2017.
-  
-  "<a
- href="http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12840/abstract">Distinguishing distribution dynamics from temporary emigration using dynamic occupancy models</a>" <br>
-  J.J. Valente, <b>R.A. Hutchinson</b>, and M.G. Betts,<br>
-  <i>Methods
-  in Ecology and Evolution</i>, 2017.
-  
-  "<a href="http://onlinelibrary.wiley.com/doi/10.1111/ddi.12093/abstract"><span style="color:
- blue;"></span></a><a href="papers/Hutchinson_AAAI_2017.pdf">Species Distribution Modeling of Citizen Science Data as a Classification Problem with Class-conditional Noise</a>" (<a href="papers/Hutchinson_AAAI_2017_supplement.pdf">supplement</a>) <br> 
-  <b>R.A. Hutchinson</b>, **L. He**, and S.C. Emerson,<br>
-  <i>Proceedings of the Thirty-First Conference on Artificial
-  Intelligence</i>
-  (AAAI), 2017.
-  
-  "<a href="http://onlinelibrary.wiley.com/doi/10.1111/ddi.12093/abstract"><span
- style="color: blue;"></span></a><a
-				    href="http://onlinelibrary.wiley.com/doi/10.1111/ele.12644/abstract">The macroecology of infectious diseases: a new perspective on global-scale drivers of pathogen distributions and impacts</a>" <br>
-  P.R. Stephens, S. Altizer, K.F. Smith, A.A. Aguirre, J.H. Brown, S.A. Budischak, J.E. Byers, T.A. Dallas, T.J. Davies, J.M. Drake, V.O. Ezenwa, M.J. Farrell, J.L. Gittleman, B.A. Han, S. Huang, <b>R.A. Hutchinson</b>, P. Johnson, C.L. Nunn, D. Onstad, A. Park, G.M. Vazquez-Prokopec, J.P. Schmidt, and R. Poulin,<br>
-<i><span style="font-style: italic;"><span style="font-style: italic;"></span></span>Ecology Letters</i>, 2016.
+Fu, X., **Seo, E.**, **Clarke, J.**, and **Hutchinson, R.A.** (2021).<br>
+[Link Prediction Under Imperfect Detection: Collaborative Filtering for Ecological Networks](https://ieeexplore.ieee.org/abstract/document/8943390).<br>
+<i>IEEE Transactions on Knowledge and Data Engineering (TKDE)</i>, 33(8), 3117 - 3128.<br>
+[(arxiv)](https://arxiv.org/abs/1910.03659)
 
-"<a href="http://onlinelibrary.wiley.com/doi/10.1111/ddi.12093/abstract"><span
- style="color: blue;"></span></a><a
- href="http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12368/abstract">Penalized Likelihood Methods Improve Parameter Estimates in Occupancy Models</a>" <br>
-<b>R.A. Hutchinson</b>, J.J. Valente, S.C. Emerson, M.G. Betts, and
-T.G. Dietterich,<br>
-<i><span style="font-style: italic;"><span style="font-style: italic;"></span></span>Methods
-in Ecology and Evolution</i>, 2015. <br>
-**Code implementing the methods from this paper is available in the <a href="https://cran.r-project.org/web/packages/unmarked/index.html">unmarked</a> R package.** 
+**Seo, E.** and **Hutchinson, R.A.** (2018).<br>
+[Predicting Links in Plant-Pollinator Interaction Networks using Latent Factor Models with Implicit Feedback](https://ojs.aaai.org/index.php/AAAI/article/view/11345).<br>
+<i>Proceedings of the Thirty-Second Conference on Artificial Intelligence (AAAI)</i>.<br>
+[(pdf)](../files/Seo.Hutchinson.2018.pdf) [(supplement)] (../files/Seo-Hutchinson_supplemental.pdf)
 
-"<a
- href="papers/AAAI2014.MSOD.cameraready.pdf"><span style="color: blue;">A
-Latent Variable Model for Discovering Bird Species Commonly Misidentified by Citizen Scientists</span></a>," <br>
-J. Yu, <b>R.A. Hutchinson</b>, W-K.Wong, <br>
-<i>Proceedings of the Twenty-Eighth Conference on Artificial
-Intelligence</i>
-(AAAI), 2014.
+Jones, J.A., **Hutchinson, R.A.**, Moldenke, A.R., Pfeiffer, V.W., Helderop, E., Thomas, E., **Griffin, J.**, and Reinholtz, A. (2018).<br>
+[Landscape patterns and diversity of meadow plants and flower-visitors in a mountain landscape](https://link.springer.com/article/10.1007/s10980-018-0740-y)<br>
+<i>Landscape Ecology</i>, 34, 997–1014.
 
+Prudic, K.L., McFarland, K.P., Oliver, J.C., **Hutchinson, R.A.**, Long, E.C., Kerr, J.T., and Larrivee, M. (2017).<br> 
+[eButterfly: Leveraging Massive Online Citizen Science for Butterfly Conservation](http://www.mdpi.com/2075-4450/8/2/53)<br>
+<i>Insects</i>, 8(2).
 
-"<a href="http://onlinelibrary.wiley.com/doi/10.1111/ddi.12093/abstract"><span
- style="color: blue;">Species distribution modeling for the people:
-Unclassified
-landsat TM imagery predicts bird distributions at fine resolutions in
-forested
-landscapes</span></a>," <br>
-S. Shirley, Z. Yang, <b>R.A. Hutchinson</b>, J. Alexander, K.
-McGarigal, and
-M.G. Betts, <br>
-<i>Diversity and Distributions</i>, Vol. 19, Issue 7, pp. 855-866.
-&nbsp;2013.
+Valente, J.J., **Hutchinson, R.A.**, and Betts, M.G. (2017).<br>
+[Distinguishing distribution dynamics from temporary emigration using dynamic occupancy models](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12840/abstract)<br>
+<i>Methods in Ecology and Evolution</i>, 8(12), 1707-1716.
 
+**Hutchinson, R.A.**, **He, L.**, and Emerson, S.C. (2017).<br>
+[Species Distribution Modeling of Citizen Science Data as a Classification Problem with Class-conditional Noise](https://aaai.org/papers/04516-species-distribution-modeling-of-citizen-science-data-as-a-classification-problem-with-class-conditional-noise/)<br>
+<i>Proceedings of the Thirty-First Conference on Artificial Intelligence (AAAI)</i>.<br>
+[(pdf)](../files/Hutchinson_AAAI_2017.pdf) [(supplement)](../files/Hutchinson_AAAI_2017_supplement.pdf)
 
-"</span><span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><a
- href="http://www.sciencedirect.com/science/article/pii/S0169534711003296"><span
- style="font-family: &quot;Helvetica&quot;,&quot;sans-serif&quot;; color: blue;">Project
+**Hutchinson, R.A.**, Valente, J.J., Emerson, S.C., Betts, M.G., and Dietterich, T.G. (2015).<br>
+[Penalized Likelihood Methods Improve Parameter Estimates in Occupancy Models](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12368/abstract)<br>
+<i>Methods in Ecology and Evolution</i>, 6(8), 949-959.<br>
+[(code in unmarked R package)](https://cran.r-project.org/web/packages/unmarked/index.html)
+
+Yu, J., **Hutchinson, R.A.**, and Wong, W-K. (2014).<br>
+[A Latent Variable Model for Discovering Bird Species Commonly Misidentified by Citizen Scientists](https://ojs.aaai.org/index.php/AAAI/article/view/8763/8622)<br>
+<i>Proceedings of the Twenty-Eighth Conference on Artificial Intelligence (AAAI)</i>.<br>
+[(pdf)](../files/AAAI2014.MSOD.cameraready.pdf)
+
+Shirley, S., Yang, Z., **Hutchinson, R.A.**, Alexander, J., McGarigal, K., and Betts, M.G. (2013).<br>
+[Species distribution modeling for the people: Unclassified landsat TM imagery predicts bird distributions at fine resolutions in forested landscapes](https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.12093)<br>
+<i>Diversity and Distributions</i>, 19(7), 855-866.
+
+Hochachka, W., Fink, D., **Hutchinson, R.A.**, Sheldon, D., Wong, W-K., and Kelling, S. (2012).<br>
+[Project
 and Analysis
-Design for Broad-Scale Citizen Science</span></a></span><span
- style="font-size: 12pt; font-family: &quot;Helvetica&quot;,&quot;sans-serif&quot;;">,"
-<br>
-W. Hochachka, D. Fink, <b>R.A. Hutchinson</b>, D. Sheldon, W-K. Wong,
-and S.
-Kelling, <i><br>
-Trends in Ecology and Evolution</i>,&nbsp;Vol. 27, Issue 2, pp.
-130-137.
-&nbsp;2012.
-  
-  
-"</span><span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><a
- href="papers/AAAI11.pdf"><span
- style="font-family: &quot;Helvetica&quot;,&quot;sans-serif&quot;; color: blue;">Incorporating
-Boosted Regression Trees
-into Ecological Latent Variable Models</span></a></span><span
- style="font-size: 12pt; font-family: &quot;Helvetica&quot;,&quot;sans-serif&quot;;">,"
-<b><br>
-R.A. Hutchinson</b>, L-P. Liu, and T.G. Dietterich, <i><br>
-Proceedings of the Twenty-fifth Conference on Artificial Intelligence</i>
-(AAAI), 2011. &nbsp;
-  
-  
-"</span><span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><a
- href="papers/Yu.Wong.Hutchinson.pdf"><span
- style="font-family: &quot;Helvetica&quot;,&quot;sans-serif&quot;; color: blue;">Modeling
-Experts and
-Novices in Citizen Science data for Species Distribution Modeling</span></a></span><span
- style="font-size: 12pt; font-family: &quot;Helvetica&quot;,&quot;sans-serif&quot;;">," <br>
-J. Yu, W-K. Wong, and <b>R.A. Hutchinson</b>, <i><br>
-International Conference on Data Mining</i> (ICDM), 2010.&nbsp;<br>
-<br>
+Design for Broad-Scale Citizen Science](http://www.sciencedirect.com/science/article/pii/S0169534711003296)<br>
+<i>Trends in Ecology and Evolution</i>, 27(2), 130-137.
+
+**Hutchinson, R.A.**, Liu, L-P., and Dietterich, T.G. (2011).<br>
+[Incorporating Boosted Regression Trees into Ecological Latent Variable Models](https://ojs.aaai.org/index.php/AAAI/article/view/7801)<br>
+<i>Proceedings of the Twenty-fifth Conference on Artificial Intelligence (AAAI)</i>.<br>
+[(pdf)](../files/AAAI11.pdf)
+
+Yu, J., Wong, W-K., and **Hutchinson, R.A.** (2010).<br>
+[Modeling Experts and Novices in Citizen Science data for Species Distribution Modeling](https://ieeexplore.ieee.org/document/5694101)<br>
+<i>International Conference on Data Mining (ICDM)</i>.<br>
+[(pdf)](../files/Yu.Wong.Hutchinson.pdf)
+

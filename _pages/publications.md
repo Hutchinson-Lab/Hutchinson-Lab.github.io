@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Ibrahim, S., Fu, X., **Hutchinson, R.A.**, and **Seo, E.** (2023).<br> 
-[Under-counted tensor completion with neural incorporation of attributes](https://icml.cc/Conferences/2023),<br> 
+[Under-counted tensor completion with neural incorporation of attributes](https://icml.cc/Conferences/2023).<br> 
 *Proceedings of the 40th International Conference on Machine Learning (ICML 2023),* to appear.<br>
 
 **Hopkins, L.M.**, Hallman, T.A., Kilbride, J., Robinson, W.D., **Hutchinson, R.A.** (2022).<br>
@@ -53,50 +53,50 @@ Jones, J.A., **Hutchinson, R.A.**, Moldenke, A.R., Pfeiffer, V.W., Helderop, E.,
 <i>Landscape Ecology</i>, 34, 997–1014.
 
 Prudic, K.L., McFarland, K.P., Oliver, J.C., **Hutchinson, R.A.**, Long, E.C., Kerr, J.T., and Larrivee, M. (2017).<br> 
-[eButterfly: Leveraging Massive Online Citizen Science for Butterfly Conservation](http://www.mdpi.com/2075-4450/8/2/53)<br>
+[eButterfly: Leveraging Massive Online Citizen Science for Butterfly Conservation](http://www.mdpi.com/2075-4450/8/2/53).<br>
 <i>Insects</i>, 8(2).
 
 Valente, J.J., **Hutchinson, R.A.**, and Betts, M.G. (2017).<br>
-[Distinguishing distribution dynamics from temporary emigration using dynamic occupancy models](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12840/abstract)<br>
+[Distinguishing distribution dynamics from temporary emigration using dynamic occupancy models](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12840/abstract).<br>
 <i>Methods in Ecology and Evolution</i>, 8(12), 1707-1716.
 
 **Hutchinson, R.A.**, **He, L.**, and Emerson, S.C. (2017).<br>
-[Species Distribution Modeling of Citizen Science Data as a Classification Problem with Class-conditional Noise](https://aaai.org/papers/04516-species-distribution-modeling-of-citizen-science-data-as-a-classification-problem-with-class-conditional-noise/)<br>
+[Species Distribution Modeling of Citizen Science Data as a Classification Problem with Class-conditional Noise](https://aaai.org/papers/04516-species-distribution-modeling-of-citizen-science-data-as-a-classification-problem-with-class-conditional-noise/).<br>
 <i>Proceedings of the Thirty-First Conference on Artificial Intelligence (AAAI)</i>.<br>
 [(pdf)](../files/Hutchinson_AAAI_2017.pdf) [(supplement)](../files/Hutchinson_AAAI_2017_supplement.pdf)
 
 **Hutchinson, R.A.**, Valente, J.J., Emerson, S.C., Betts, M.G., and Dietterich, T.G. (2015).<br>
-[Penalized Likelihood Methods Improve Parameter Estimates in Occupancy Models](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12368/abstract)<br>
+[Penalized Likelihood Methods Improve Parameter Estimates in Occupancy Models](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12368/abstract).<br>
 <i>Methods in Ecology and Evolution</i>, 6(8), 949-959.<br>
 [(code in unmarked R package)](https://cran.r-project.org/web/packages/unmarked/index.html)
 
 Yu, J., **Hutchinson, R.A.**, and Wong, W-K. (2014).<br>
-[A Latent Variable Model for Discovering Bird Species Commonly Misidentified by Citizen Scientists](https://ojs.aaai.org/index.php/AAAI/article/view/8763/8622)<br>
+[A Latent Variable Model for Discovering Bird Species Commonly Misidentified by Citizen Scientists](https://ojs.aaai.org/index.php/AAAI/article/view/8763/8622).<br>
 <i>Proceedings of the Twenty-Eighth Conference on Artificial Intelligence (AAAI)</i>.<br>
 [(pdf)](../files/AAAI2014.MSOD.cameraready.pdf)
 
 Shirley, S., Yang, Z., **Hutchinson, R.A.**, Alexander, J., McGarigal, K., and Betts, M.G. (2013).<br>
-[Species distribution modeling for the people: Unclassified landsat TM imagery predicts bird distributions at fine resolutions in forested landscapes](https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.12093)<br>
+[Species distribution modeling for the people: Unclassified landsat TM imagery predicts bird distributions at fine resolutions in forested landscapes](https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.12093).<br>
 <i>Diversity and Distributions</i>, 19(7), 855-866.
 
 Hochachka, W., Fink, D., **Hutchinson, R.A.**, Sheldon, D., Wong, W-K., and Kelling, S. (2012).<br>
 [Project
 and Analysis
-Design for Broad-Scale Citizen Science](http://www.sciencedirect.com/science/article/pii/S0169534711003296)<br>
+Design for Broad-Scale Citizen Science](http://www.sciencedirect.com/science/article/pii/S0169534711003296).<br>
 <i>Trends in Ecology and Evolution</i>, 27(2), 130-137.
 
 Dietterich, T.G., Dereszynski, E., **Hutchinson, R.A.**, and Sheldon, D. (2012).<br>
-[Machine learning for computational sustainability](https://ieeexplore.ieee.org/document/6322258)<br>
+[Machine learning for computational sustainability](https://ieeexplore.ieee.org/document/6322258).<br>
 <i>2012 International Green Computing Conference (IGCC)</i>.<br>
 [(pdf)](../files/dietterich-dereszynski-hutchinson-sheldon-ml-for-comp-sust-igcc2012.pdf)
 
 **Hutchinson, R.A.**, Liu, L-P., and Dietterich, T.G. (2011).<br>
-[Incorporating Boosted Regression Trees into Ecological Latent Variable Models](https://ojs.aaai.org/index.php/AAAI/article/view/7801)<br>
+[Incorporating Boosted Regression Trees into Ecological Latent Variable Models](https://ojs.aaai.org/index.php/AAAI/article/view/7801).<br>
 <i>Proceedings of the Twenty-fifth Conference on Artificial Intelligence (AAAI)</i>.<br>
 [(pdf)](../files/AAAI11.pdf)
 
 Yu, J., Wong, W-K., and **Hutchinson, R.A.** (2010).<br>
-[Modeling Experts and Novices in Citizen Science data for Species Distribution Modeling](https://ieeexplore.ieee.org/document/5694101)<br>
+[Modeling Experts and Novices in Citizen Science data for Species Distribution Modeling](https://ieeexplore.ieee.org/document/5694101).<br>
 <i>International Conference on Data Mining (ICDM)</i>.<br>
 [(pdf)](../files/Yu.Wong.Hutchinson.pdf)
 

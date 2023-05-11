@@ -27,6 +27,7 @@ Barry, B.R., Moriarty, K., Green, D., **Hutchinson, R.A.**, and Levi, T. (2021).
 Robinson, W.D., Hallman, T.A., and **Hutchinson, R.A.** (2021).<br> 
 [Benchmark Bird Surveys Help Quantify Counting Accuracy in a Citizen-Science Database](https://www.frontiersin.org/articles/10.3389/fevo.2021.568278/full).<br> 
 *Frontiers in Ecology and Evolution*, 9. <br>
+[(bioRxiv)](https://www.biorxiv.org/content/10.1101/2020.12.09.418145v1)
 
 Wilson, J.K., Casajus, N., **Hutchinson, R.A.**, McFarland, K.P., Kerr, J.T., Berteaux, D., Larrivee, M., and Prudic, K.L. (2021).<br> 
 [Climate change and local host availability drive the northern range boundary in the rapid expansion of a specialist insect herbivore, <i>Papilio cresphontes</i>](https://www.frontiersin.org/articles/10.3389/fevo.2021.579230/full).<br> 
@@ -45,7 +46,7 @@ Fu, X., **Seo, E.**, **Clarke, J.**, and **Hutchinson, R.A.** (2021).<br>
 **Seo, E.** and **Hutchinson, R.A.** (2018).<br>
 [Predicting Links in Plant-Pollinator Interaction Networks using Latent Factor Models with Implicit Feedback](https://ojs.aaai.org/index.php/AAAI/article/view/11345).<br>
 <i>Proceedings of the Thirty-Second Conference on Artificial Intelligence (AAAI)</i>.<br>
-[(pdf)](../files/Seo.Hutchinson.2018.pdf) [(supplement)] (../files/Seo-Hutchinson_supplemental.pdf)
+[(pdf)](../files/Seo.Hutchinson.2018.pdf) [(supplement)](../files/Seo-Hutchinson_supplemental.pdf)
 
 Jones, J.A., **Hutchinson, R.A.**, Moldenke, A.R., Pfeiffer, V.W., Helderop, E., Thomas, E., **Griffin, J.**, and Reinholtz, A. (2018).<br>
 [Landscape patterns and diversity of meadow plants and flower-visitors in a mountain landscape](https://link.springer.com/article/10.1007/s10980-018-0740-y)<br>

@@ -13,7 +13,7 @@ Published in *Landscape Ecology*, 2022<br>
 </font>
 
 
-### [On the Role of Spatial Clustering Algorithms in Building Species Distribution Models from Community Science Data](https://www.climatechange.ai/papers/icml2021/83)</font><br>
+### [On the Role of Spatial Clustering Algorithms in Building Species Distribution Models from Community Science Data](https://www.climatechange.ai/papers/icml2021/83)<br>
 <font size="2">
 Published in *ICML workshop on Tackling Climate Change with Machine Learning*, 2021<br>
 [Download paper here](http://Hutchinson-Lab.github.io/files/ICML_CCAI_Proposal_RothEtAl_2021.pdf)<br>

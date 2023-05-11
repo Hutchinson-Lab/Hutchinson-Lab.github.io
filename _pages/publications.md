@@ -29,21 +29,21 @@ Below here is source copied from Rebecca's current page and needs reformatting.
   <i>Frontiers in Ecology and Evolution</i>, 2021. 
   
   "<a href="papers/Seo_AAAI_2021.pdf">StatEcoNet: Statistical Ecology Neural Network for Species Distribution Modeling</a>" (<a href="papers/AAAI21_Supplement.pdf">supplement</a>) <br>
-  E. Seo, <b>R.A. Hutchinson</b>, X. Fu, C. Li, T. Hallman, J. Kilbride, and W.D. Robinson<br>
+  **E. Seo**, <b>R.A. Hutchinson</b>, X. Fu, **C. Li**, T. Hallman, J. Kilbride, and W.D. Robinson<br>
   <i>Proceedings of the Thirty-Fifth Conference on Artificial Intelligence</i> (AAAI), 2021. 
   
   "<a
  href="https://ieeexplore.ieee.org/abstract/document/8943390">Link Prediction Under Imperfect Detection: Collaborative Filtering for Ecological Networks</a>" <a href="https://arxiv.org/abs/1910.03659">(arxiv)</a><br>
-  X. Fu, E. Seo, J. Clarke, and <b>R.A. Hutchinson</b>,<br>
+  X. Fu, **E. Seo**, J. Clarke, and <b>R.A. Hutchinson</b>,<br>
   <i>IEEE Transactions on Knowledge and Data Engineering (TKDE)</i>, 2019. 
   
   "<a href="papers/Seo.Hutchinson.2018.pdf">Predicting Links in Plant-Pollinator Interaction Networks using Latent Factor Models with Implicit Feedback</a>" (<a href="papers/Seo-Hutchinson_supplemental.pdf">supplement</a>) <br>
-  E. Seo and <b>R.A. Hutchinson</b>,<br>
+  **E. Seo** and <b>R.A. Hutchinson</b>,<br>
   <i>Proceedings of the Thirty-Second Conference on Artificial Intelligence</i> (AAAI), 2018. 
   
   "<a
  href="https://link.springer.com/article/10.1007/s10980-018-0740-y">Landscape patterns and diversity of meadow plants and flower-visitors in a mountain landscape</a>" <br>
-  J.A. Jones, <b>R.A. Hutchinson</b>, A.R. Moldenke, V.W. Pfeiffer, E. Helderop, E. Thomas, J. Griffin, and A. Reinholtz,<br>
+  J.A. Jones, <b>R.A. Hutchinson</b>, A.R. Moldenke, V.W. Pfeiffer, E. Helderop, E. Thomas, **J. Griffin**, and A. Reinholtz,<br>
   <i>Landscape Ecology</i>, 2018.
   
   "<a
@@ -59,7 +59,7 @@ Below here is source copied from Rebecca's current page and needs reformatting.
   
   "<a href="http://onlinelibrary.wiley.com/doi/10.1111/ddi.12093/abstract"><span style="color:
  blue;"></span></a><a href="papers/Hutchinson_AAAI_2017.pdf">Species Distribution Modeling of Citizen Science Data as a Classification Problem with Class-conditional Noise</a>" (<a href="papers/Hutchinson_AAAI_2017_supplement.pdf">supplement</a>) <br> 
-  <b>R.A. Hutchinson</b>, L. He, and S.C. Emerson,<br>
+  <b>R.A. Hutchinson</b>, **L. He**, and S.C. Emerson,<br>
   <i>Proceedings of the Thirty-First Conference on Artificial
   Intelligence</i>
   (AAAI), 2017.

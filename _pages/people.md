@@ -54,6 +54,12 @@ TBA
 ### Jupiter
 <img src="../images/profiles/jupiter.png" width="200">
 
+### Cosmo
+<img src="../images/profiles/Cosmo.jpg" width="200">
+
+### Benny
+<img src="../images/profiles/Benny.jpg" width="200">
+
 
 ## Alumni
 

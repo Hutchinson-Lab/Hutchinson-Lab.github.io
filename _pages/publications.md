@@ -34,7 +34,7 @@ Below here is source copied from Rebecca's current page and needs reformatting.
   
   "<a
  href="https://ieeexplore.ieee.org/abstract/document/8943390">Link Prediction Under Imperfect Detection: Collaborative Filtering for Ecological Networks</a>" <a href="https://arxiv.org/abs/1910.03659">(arxiv)</a><br>
-  X. Fu, **E. Seo**, J. Clarke, and <b>R.A. Hutchinson</b>,<br>
+  X. Fu, **E. Seo**, **J. Clarke**, and <b>R.A. Hutchinson</b>,<br>
   <i>IEEE Transactions on Knowledge and Data Engineering (TKDE)</i>, 2019. 
   
   "<a href="papers/Seo.Hutchinson.2018.pdf">Predicting Links in Plant-Pollinator Interaction Networks using Latent Factor Models with Implicit Feedback</a>" (<a href="papers/Seo-Hutchinson_supplemental.pdf">supplement</a>) <br>

@@ -27,7 +27,7 @@ Funded in part by the National Aeronautics and Space Administration (NASA) under
 ## Spatial Clustering for Species Distribution Modeling from Community Science Data
 <hr>
 <div style="text-align: left">
-<img style="float: left; padding: 10px 10px 10px 10px;" src="../images/clusterMap.png" width=450>
+<img style="float: left; padding: 10px 10px 10px 10px;" src="../images/clusterMap.png" width=350>
 This project explores how developments in spatial clustering methods may help leverage broad scale community science data for building species distribution models (SDMs). Community science data span spatial and temporal scales unachievable by expert surveys alone, but they lack the structure imposed in smaller scale studies to allow adjustments for observational biases. Spatial clustering approaches can construct the necessary structure after surveys have occurred, but we are working to ensure that they are effective for this purpose. 
 Funded in part by the National Science Foundation (NSF) under Grant No. III-2046678.
 </div>

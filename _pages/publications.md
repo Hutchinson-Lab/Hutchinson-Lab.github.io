@@ -10,7 +10,7 @@ author_profile: true
 Published in *Landscape Ecology*, 2022<br>
 [Download paper here](http://Hutchinson-Lab.github.io/files/A comparison of remotely sensed environmental predictors for avian distributions.pdf)<br>
 [Bibtex citation](http://Hutchinson-Lab.github.io/files/HopkinsEtAl_LE2022.txt)<br>
-</font>
+</font><br>.
 
 **Hopkins, L.M.**, Hallman, T.A., Kilbride, J., Robinson, W.D., **Hutchinson, R.A.** (2022). [A comparison of remotely sensed environmental predictors for avian distributions](http://Hutchinson-Lab.github.io/files/A comparison of remotely sensed environmental predictors for avian distributions.pdf). *Landscape Ecology*, 37(4), 997--1016. [Bibtex citation](http://Hutchinson-Lab.github.io/files/HopkinsEtAl_LE2022.txt)
 

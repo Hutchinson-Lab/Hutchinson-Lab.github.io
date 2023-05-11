@@ -34,6 +34,6 @@ Funded in part by the National Science Foundation (NSF) under Grant No. III-2046
 ## Machine Learning Tools for Ecological Network Link Prediction
 <hr>
 <div style="text-align: left">
-<img style="float: left; padding: 10px 10px 10px 10px;" src="../images/miniPlantPollNet.png" width=450>
+<img style="float: left; padding: 10px 10px 10px 10px;" src="../images/miniPlantPollNet.jpg" width=450>
 Funded in part by the National Science Foundation (NSF) under Grant No. III-1910118.
 </div>

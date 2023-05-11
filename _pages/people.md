@@ -16,6 +16,7 @@ She is an Associate Professor at [Oregon State University](https://oregonstate.e
 She is also affiliated with the [Center for Quantitative Life Sciences](https://cqls.oregonstate.edu/) and the [Collaborative Robotics and Intelligent Systems (CoRIS) Institute](https://engineering.oregonstate.edu/CoRIS). 
 She became interested in interdisciplinary work in machine learning and quantitative ecology during her postdoctoral studies with the [Institute for Computational Sustainability](https://computational-sustainability.cis.cornell.edu/) and as an NSF SEES Fellow, advised by [Tom Dietterich](https://web.engr.oregonstate.edu/~tgd/) and [Matt Betts](https://flel.forestry.oregonstate.edu/) . 
 Prior to that, she completed her PhD at [Carnegie Mellon University](https://csd.cmu.edu/) with [Tom Mitchell](http://www.cs.cmu.edu/~tom/).
+  </div>
 [Email](mailto:rah@oregonstate.edu) [Google Scholar](https://scholar.google.com/citations?user=1pnbx9QAAAAJ&hl=en) [LinkedIn](https://www.linkedin.com/in/rebecca-hutchinson-56567753/) 
 </div>
   

@@ -8,8 +8,6 @@ redirect_from:
 ---
   
 ### Rebecca Hutchinson
-
-
 <div style="text-align: left">
 <img style="float: left; padding: 10px 10px 10px 10px;" src="../s/profiles/HutchinsonPhoto.jpg" width=200>
 Rebecca is the lead PI of the ML QuESt Lab. 

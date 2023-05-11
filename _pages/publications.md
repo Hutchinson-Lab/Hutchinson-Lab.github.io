@@ -5,19 +5,37 @@ permalink: /publications/
 author_profile: true
 ---
 
-Ibrahim, S., Fu, X., **Hutchinson, R.A.**, and **Seo, E.** (2023). [Under-counted tensor completion with neural incorporation of attributes](https://icml.cc/Conferences/2023), *Proceedings of the 38th International Conference on Machine Learning (ICML 2023),* to appear.<br>
+Ibrahim, S., Fu, X., **Hutchinson, R.A.**, and **Seo, E.** (2023).<br> 
+[Under-counted tensor completion with neural incorporation of attributes](https://icml.cc/Conferences/2023),<br> 
+*Proceedings of the 38th International Conference on Machine Learning (ICML 2023),* to appear.<br>
 
-**Hopkins, L.M.**, Hallman, T.A., Kilbride, J., Robinson, W.D., **Hutchinson, R.A.** (2022). [A comparison of remotely sensed environmental predictors for avian distributions](https://link.springer.com/article/10.1007/s10980-022-01406-y). *Landscape Ecology*, 37(4), 997--1016. [(bibtex)](http://Hutchinson-Lab.github.io/files/HopkinsEtAl_LE2022.txt) [(pdf)](http://Hutchinson-Lab.github.io/files/A comparison of remotely sensed environmental predictors for avian distributions.pdf) [(code)](https://github.com/Hutchinson-Lab/Comparison-of-RS-Predictors-for-Avian-Distributions)<br>
+**Hopkins, L.M.**, Hallman, T.A., Kilbride, J., Robinson, W.D., **Hutchinson, R.A.** (2022).<br>
+[A comparison of remotely sensed environmental predictors for avian distributions](https://link.springer.com/article/10.1007/s10980-022-01406-y). <br>
+*Landscape Ecology*, 37(4), 997--1016.<br>
+[(bibtex)](http://Hutchinson-Lab.github.io/files/HopkinsEtAl_LE2022.txt) [(pdf)](http://Hutchinson-Lab.github.io/files/A comparison of remotely sensed environmental predictors for avian distributions.pdf) [(code)](https://github.com/Hutchinson-Lab/Comparison-of-RS-Predictors-for-Avian-Distributions)<br>
 
-**Roth, M.**, Hallman, T.A., Robinson, W.D., **Hutchinson, R.A.** (2021). [On the Role of Spatial Clustering Algorithms in Building Species Distribution Models from Community Science Data](https://www.climatechange.ai/papers/icml2021/83). *ICML workshop on Tackling Climate Change with Machine Learning*. [(bibtex)](http://Hutchinson-Lab.github.io/files/ICML_CCAI_Proposal_RothEtAl_2021.txt) [(pdf)](http://Hutchinson-Lab.github.io/files/ICML_CCAI_Proposal_RothEtAl_2021.pdf)<br>
+**Roth, M.**, Hallman, T.A., Robinson, W.D., **Hutchinson, R.A.** (2021).<br> 
+[On the Role of Spatial Clustering Algorithms in Building Species Distribution Models from Community Science Data](https://www.climatechange.ai/papers/icml2021/83).<br> 
+*ICML workshop on Tackling Climate Change with Machine Learning*.<br>
+[(bibtex)](http://Hutchinson-Lab.github.io/files/ICML_CCAI_Proposal_RothEtAl_2021.txt) [(pdf)](http://Hutchinson-Lab.github.io/files/ICML_CCAI_Proposal_RothEtAl_2021.pdf)<br>
+***Best Paper Award (proposals track)***<br> 
+ 
+Barry, B.R., Moriarty, K., Green, D., **Hutchinson, R.A.**, and Levi, T. (2021).<br> 
+[Integrating multi-method surveys and recovery trajectories into occupancy models](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.3886).<br> 
+*Ecosphere*, 12(12).<br>
 
-Barry, B.R., Moriarty, K., Green, D., **Hutchinson, R.A.**, and Levi, T. (2021). [Integrating multi-method surveys and recovery trajectories into occupancy models](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.3886). *Ecosphere*, 12(12).<br>
+Robinson, W.D., Hallman, T.A., and **Hutchinson, R.A.** (2021).<br> 
+[Benchmark Bird Surveys Help Quantify Counting Accuracy in a Citizen-Science Database](https://www.frontiersin.org/articles/10.3389/fevo.2021.568278/full).<br> 
+*Frontiers in Ecology and Evolution*, 9. <br>
 
-Robinson, W.D., Hallman, T.A., and **Hutchinson, R.A.** (2021). [Benchmark Bird Surveys Help Quantify Counting Accuracy in a Citizen-Science Database](https://www.frontiersin.org/articles/10.3389/fevo.2021.568278/full). *Frontiers in Ecology and Evolution*, 9. <br>
+Wilson, J.K., Casajus, N., **Hutchinson, R.A.**, McFarland, K.P., Kerr, J.T., Berteaux, D., Larrivee, M., and Prudic, K.L. (2021).<br> 
+[Climate change and local host availability drive the northern range boundary in the rapid expansion of a specialist insect herbivore, <i>Papilio cresphontes</i>](https://www.frontiersin.org/articles/10.3389/fevo.2021.579230/full).<br> 
+*Frontiers in Ecology and Evolution*, 9. <br>
 
-Wilson, J.K., Casajus, N., **Hutchinson, R.A.**, McFarland, K.P., Kerr, J.T., Berteaux, D., Larrivee, M., and Prudic, K.L. (2021). [Climate change and local host availability drive the northern range boundary in the rapid expansion of a specialist insect herbivore, <i>Papilio cresphontes</i>](https://www.frontiersin.org/articles/10.3389/fevo.2021.579230/full). *Frontiers in Ecology and Evolution*, 9. <br>
-
-**Seo, E.**, **Hutchinson, R.A.**, Fu, X., **Li, C.**, Hallman, T.A., Kilbride, J., and Robinson, W.D. (2021). [StatEcoNet: Statistical Ecology Neural Network for Species Distribution Modeling](https://ojs.aaai.org/index.php/AAAI/article/view/16129).  *Proceedings of the Thirty-Fifth Conference on Artificial Intelligence (AAAI)*. [(pdf)](../files/Seo_AAAI_2021.pdf) [(supplement)](../files/AAAI21_Supplement.pdf) [(code)](https://github.com/Hutchinson-Lab/StatEcoNet-AAAI21)
+**Seo, E.**, **Hutchinson, R.A.**, Fu, X., **Li, C.**, Hallman, T.A., Kilbride, J., and Robinson, W.D. (2021).<br> 
+[StatEcoNet: Statistical Ecology Neural Network for Species Distribution Modeling](https://ojs.aaai.org/index.php/AAAI/article/view/16129).<br>
+*Proceedings of the Thirty-Fifth Conference on Artificial Intelligence (AAAI)*.<br> 
+[(pdf)](../files/Seo_AAAI_2021.pdf) [(supplement)](../files/AAAI21_Supplement.pdf) [(code)](https://github.com/Hutchinson-Lab/StatEcoNet-AAAI21)
 
 Below here is source copied from Rebecca's current page and needs reformatting.
   

@@ -85,6 +85,11 @@ and Analysis
 Design for Broad-Scale Citizen Science](http://www.sciencedirect.com/science/article/pii/S0169534711003296)<br>
 <i>Trends in Ecology and Evolution</i>, 27(2), 130-137.
 
+Dietterich, T.G., Dereszynski, E., **Hutchinson, R.A.**, and Sheldon, D. (2012).<br>
+[Machine learning for computational sustainability](https://ieeexplore.ieee.org/document/6322258)<br>
+<i>2012 International Green Computing Conference (IGCC)</i>.<br>
+[(pdf)](../files/dietterich-dereszynski-hutchinson-sheldon-ml-for-comp-sust-igcc2012.pdf)
+
 **Hutchinson, R.A.**, Liu, L-P., and Dietterich, T.G. (2011).<br>
 [Incorporating Boosted Regression Trees into Ecological Latent Variable Models](https://ojs.aaai.org/index.php/AAAI/article/view/7801)<br>
 <i>Proceedings of the Twenty-fifth Conference on Artificial Intelligence (AAAI)</i>.<br>

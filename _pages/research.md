@@ -28,6 +28,7 @@ Funded in part by the National Aeronautics and Space Administration (NASA) under
 <hr>
 <div style="text-align: left">
 <img style="float: left; padding: 10px 10px 10px 10px;" src="../images/clusterMap.png" width=450>
+This project explores how developments in spatial clustering methods may help leverage broad scale community science data for building species distribution models (SDMs). Community science data span spatial and temporal scales unachievable by expert surveys alone, but they lack the structure imposed in smaller scale studies to allow adjustments for observational biases. Spatial clustering approaches can construct the necessary structure after surveys have occurred, but we are working to ensure that they are effective for this purpose. 
 Funded in part by the National Science Foundation (NSF) under Grant No. III-2046678.
 </div>
 
@@ -35,5 +36,7 @@ Funded in part by the National Science Foundation (NSF) under Grant No. III-2046
 <hr>
 <div style="text-align: left">
 <img style="float: left; padding: 10px 10px 10px 10px;" src="../images/miniPlantPollNet.jpg" width=450>
+Plant-pollinator interaction networks are bipartite networks representing the mutualistic interactions between a set of plant species and a set of pollinator species. Data on these networks are collected by field biologists, who count visits from
+pollinators to flowers. Ecologists study the structure and function of these networks for scientific, conservation, and agricultural purposes. Our work investigates how matrix and tensor factorization techniques can help elucidate the structure of these imperfectly observed networks and aid predictions about new potential links.
 Funded in part by the National Science Foundation (NSF) under Grant No. III-1910118.
 </div>

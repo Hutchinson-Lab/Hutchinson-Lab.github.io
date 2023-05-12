@@ -43,12 +43,12 @@ Nahian is a PhD student of computer science. He studies machine learning, with a
 <br>
 
 ### Andrew Droubay
+<p>
 <div style="text-align: left">
 <img style="float: left; padding: 10px 10px 10px 10px;" src="../images/profiles/andrew.png" width="200">
 TBA
 </div>
-<br>
-<br>
+</p>
 
 ### Louise Henderson
 <div style="text-align: left">
@@ -73,14 +73,14 @@ Benny<br>
 ## Alumni
 
 ### Mark Roth, MS 2021
-<img style="float: left; padding: 10px 10px 10px 10px;" src="../images/profiles/MR.png" width="200">
+<img src="../images/profiles/MR.png" width="200">
 
 ### Eugene Seo, PhD 2021
-<img style="float: left; padding: 10px 10px 10px 10px;" src="../images/profiles/ES.png" width="200">
+<img src="../images/profiles/ES.png" width="200">
 
 ### Vishnupriya Nochikaduthekkedath Reghunathan, MEng 2020
-<img style="float: left; padding: 10px 10px 10px 10px;" src="../images/profiles/VNR.png" width="200">
+<img src="../images/profiles/VNR.png" width="200">
 
 ### Liqiang He, MS 2017
-<img style="float: left; padding: 10px 10px 10px 10px;" src="../images/profiles/LHe.png" width="200">
+<img src="../images/profiles/LHe.png" width="200">
 

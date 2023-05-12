@@ -54,6 +54,7 @@ TBA
 <br>
 <br>
 <br>
+<br>
 
 ### Louise Henderson
 <div style="text-align: left">
@@ -68,6 +69,7 @@ TBA
 
 
 ## Honorary Members
+<hr>
 Jupiter<br>
 <img src="../images/profiles/jupiter.png" width="200"> 
 
@@ -79,7 +81,7 @@ Benny<br>
 
 
 ## Alumni
-
+<hr>
 ### Mark Roth, MS 2021
 <img src="../images/profiles/MR.png" width="200">
 

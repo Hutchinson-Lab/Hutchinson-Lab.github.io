@@ -43,18 +43,22 @@ Nahian is a PhD student of computer science. He studies machine learning, with a
 <br>
 
 ### Andrew Droubay
-<p>
 <div style="text-align: left">
 <img style="float: left; padding: 10px 10px 10px 10px;" src="../images/profiles/andrew.png" width="200">
 TBA
 </div>
-</p>
+<br>
+<br>
+<br>
+<br>
 
 ### Louise Henderson
 <div style="text-align: left">
-<img style="float: left; padding: 10px 10px 10px 10px;" src="bio-photo.jpg" width="200">
+<img style="float: left; padding: 10px 10px 10px 10px;" src="../images/bio-photo.jpg" width="200">
 TBA
 </div>
+<br>
+<br>
 <br>
 <br>
 

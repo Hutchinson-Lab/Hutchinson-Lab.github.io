@@ -11,11 +11,11 @@ redirect_from:
 <div style="text-align: left">
 <img style="float: left; padding: 10px 10px 10px 10px;" src="../images/profiles/HutchinsonPhoto.jpg" width=200>
 Rebecca is the lead PI of the ML QuESt Lab. 
-She is an Associate Professor at <a href="https://oregonstate.edu">Oregon State University</a>, with a joint appointment across the [School of Electrical Engineering and Computer Science](https://engineering.oregonstate.edu/EECS) and the [Department of Fisheries, Wildlife, and Conservation Sciences](https://fwcs.oregonstate.edu/). 
-She is also affiliated with the [Center for Quantitative Life Sciences](https://cqls.oregonstate.edu/) and the [Collaborative Robotics and Intelligent Systems (CoRIS) Institute](https://engineering.oregonstate.edu/CoRIS). 
-She became interested in interdisciplinary work in machine learning and quantitative ecology during her postdoctoral studies with the [Institute for Computational Sustainability](https://computational-sustainability.cis.cornell.edu/) and as an NSF SEES Fellow, advised by [Tom Dietterich](https://web.engr.oregonstate.edu/~tgd/) and [Matt Betts](https://flel.forestry.oregonstate.edu/) . 
-Prior to that, she completed her PhD at [Carnegie Mellon University](https://csd.cmu.edu/) with [Tom Mitchell](http://www.cs.cmu.edu/~tom/).<br>
-[Email](mailto:rah@oregonstate.edu) [Google Scholar](https://scholar.google.com/citations?user=1pnbx9QAAAAJ&hl=en) [LinkedIn](https://www.linkedin.com/in/rebecca-hutchinson-56567753/) 
+She is an Associate Professor at <a href="https://oregonstate.edu">Oregon State University</a>, with a joint appointment across the <a href="https://engineering.oregonstate.edu/EECS">School of Electrical Engineering and Computer Science</a> and the <a href="https://fwcs.oregonstate.edu/">Department of Fisheries, Wildlife, and Conservation Sciences</a>. 
+She is also affiliated with the <a href="https://cqls.oregonstate.edu/">Center for Quantitative Life Sciences</a> and the <a href="https://engineering.oregonstate.edu/CoRIS">Collaborative Robotics and Intelligent Systems (CoRIS) Institute</a>. 
+She became interested in interdisciplinary work in machine learning and quantitative ecology during her postdoctoral studies with the <a href="https://computational-sustainability.cis.cornell.edu/">Institute for Computational Sustainability</a> and as an NSF SEES Fellow, advised by <a href="https://web.engr.oregonstate.edu/~tgd/">Tom Dietterich</a> and <a href="https://flel.forestry.oregonstate.edu/">Matt Betts</a>. 
+Prior to that, she completed her PhD at <a href="https://csd.cmu.edu/">Carnegie Mellon University</a> with <a href="http://www.cs.cmu.edu/~tom/">Tom Mitchell</a>.<br>
+<a href="mailto:rah@oregonstate.edu">Email</a> <a href="https://scholar.google.com/citations?user=1pnbx9QAAAAJ&hl=en">Google Scholar</a> <a href="https://www.linkedin.com/in/rebecca-hutchinson-56567753/">LinkedIn</a> 
 </div>
   
 ### Laurel Hopkins

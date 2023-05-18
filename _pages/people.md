@@ -21,8 +21,8 @@ Prior to that, she completed her PhD at <a href="https://csd.cmu.edu/">Carnegie 
 
 <div style="float: left; text-align: center">
 <img style="float: left; padding: 10px 10px 10px 10px;" src="../images/profiles/HutchinsonPhoto.jpg" width=200>
-<p><a href="mailto:rah@oregonstate.edu">Email</a> <a href="https://scholar.google.com/citations?user=1pnbx9QAAAAJ&hl=en">Google Scholar</a></p> 
-<p><a href="https://www.linkedin.com/in/rebecca-hutchinson-56567753/">LinkedIn</a></p>
+<p font-size:10px><a href="mailto:rah@oregonstate.edu">Email</a> <a href="https://scholar.google.com/citations?user=1pnbx9QAAAAJ&hl=en">Google Scholar</a>
+<a href="https://www.linkedin.com/in/rebecca-hutchinson-56567753/">LinkedIn</a></p>
 </div>
 <div style="text-align: left">
 Rebecca is the lead PI of the ML QuESt Lab. 

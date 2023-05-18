@@ -19,7 +19,7 @@ Prior to that, she completed her PhD at <a href="https://csd.cmu.edu/">Carnegie 
 </div> -->
 
 <div style="text-align: left">
-<div style="float: left; text-align: left">
+<div style="float: left; text-align: justify">
 <img style="float: left; padding: 10px 10px 10px 10px;" src="../images/profiles/HutchinsonPhoto.jpg" width=200>
 <a href="mailto:rah@oregonstate.edu">Email</a> <a href="https://scholar.google.com/citations?user=1pnbx9QAAAAJ&hl=en">Google Scholar</a> <a href="https://www.linkedin.com/in/rebecca-hutchinson-56567753/">LinkedIn</a> 
 </div>

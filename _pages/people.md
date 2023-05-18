@@ -41,12 +41,16 @@ Jing is a PhD candidate in computer science, studying on model evaluation in mac
 </div>
 <br><br>
 
+
 ### Nahian Ahmed
 <div style="text-align: left">
 <img style="float: left; padding: 10px 10px 10px 10px;" src="../images/profiles/nahian.jpeg" width="200">
 Nahian is a PhD student of computer science. He studies machine learning, with a focus on evaluation, and applications in computational sustainability. He is interested in intuitive and engaging ways of learning about machine learning.
 </div>
 <br><br>
+<br><br>
+<br><br>
+
 
 ### Andrew Droubay
 <div style="text-align: left">
@@ -55,12 +59,17 @@ TBA
 </div>
 <br><br>
 
+
+
 ### Louise Henderson
 <div style="text-align: left">
 <img style="float: left; padding: 10px 10px 10px 10px;" src="../images/bio-photo.jpg" width="200">
 TBA
 </div>
 <br><br>
+<br><br>
+<br><br>
+
 
 ## Honorary Members
 <hr>

@@ -37,7 +37,7 @@ Laurel is a PhD student and NASA FINESST (Future Investigators in NASA Earth and
 <a href="https://www.linkedin.com/in/jingw29/">LinkedIn</a></p>
 </div>
 <div style="text-align: left">
-Jing is a PhD candidate in computer science, studying on model evaluation in machine learning, specifically developing cross-validation methods for geospatial problems and applying them on birds and housing datasets.
+Jing is a PhD candidate in computer science, studying on model evaluation in machine learning, specifically developing cross-validation methods for geospatial problems and applying them on birds and housing datasets. Previously, she obtained her M.S. in Computer Science from University of South Carolina, M.A. in Applied Economics from Fudan University, and B.A in Finance from Huazhong University of Science and Technology. 
 </div>
 <br>
 

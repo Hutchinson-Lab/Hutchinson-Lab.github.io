@@ -29,7 +29,8 @@ Prior to that, she completed her PhD at <a href="https://csd.cmu.edu/">Carnegie 
 <div style="text-align: left">
 Laurel is a PhD student and NASA FINESST (Future Investigators in NASA Earth and Space Science Technology) recipient. Laurel's work is at the intersection of deep learning, remote sensing, and ecology. She studies deep learning architectures and various remote sensing products (i.e., satellite imagery datasets).
 </div>
-<br>
+<br><br><br>
+
 
 ### Jing Wang
 <div style="float: left; text-align: center; font-size:12px">
@@ -40,7 +41,7 @@ Laurel is a PhD student and NASA FINESST (Future Investigators in NASA Earth and
 <div style="text-align: left">
 Jing is a PhD candidate in computer science, studying on model evaluation in machine learning, specifically developing cross-validation methods for geospatial problems and applying them on birds and housing datasets. Previously, she obtained her M.S. in Computer Science from University of South Carolina, M.A. in Applied Economics from Fudan University, and B.A in Finance from Huazhong University of Science and Technology. 
 </div>
-<br>
+<br><br><br>
 
 
 ### Nahian Ahmed
@@ -50,7 +51,7 @@ Jing is a PhD candidate in computer science, studying on model evaluation in mac
 <div style="text-align: left">
 Nahian is a PhD student of computer science. He studies machine learning, with a focus on evaluation, and applications in computational sustainability. He is interested in intuitive and engaging ways of learning about machine learning.
 </div>
-<br>
+<br><br><br>
 
 
 
@@ -61,7 +62,7 @@ Nahian is a PhD student of computer science. He studies machine learning, with a
 <div style="text-align: left">
 TBA
 </div>
-<br>
+<br><br><br><br><br><br><br>
 
 
 

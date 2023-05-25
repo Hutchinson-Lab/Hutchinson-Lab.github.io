@@ -1,0 +1,10 @@
+@article{hutchinson2015penalized,
+  title={Penalized likelihood methods improve parameter estimates in occupancy models},
+  author={Hutchinson, Rebecca A and Valente, Jonathon J and Emerson, Sarah C and Betts, Matthew G and Dietterich, Thomas G},
+  journal={Methods in Ecology and Evolution},
+  volume={6},
+  number={8},
+  pages={949--959},
+  year={2015},
+  publisher={Wiley Online Library}
+}

@@ -31,7 +31,7 @@ redirect_from:
 ### Rebecca Hutchinson
 <div class="person">
   <div class="person-header">
-    <img class="bio-img" src="../images/profiles/HutchinsonPhoto.jpg" width="200">
+    <img style="  float: left; padding: 10px 10px 10px 10px;" src="../images/profiles/HutchinsonPhoto.jpg" width="200">
     <p style="font-size: 12px;"><a href="mailto:rah@oregonstate.edu">Email</a> <a href="https://scholar.google.com/citations?user=1pnbx9QAAAAJ&hl=en">Google Scholar</a>
     <a href="https://www.linkedin.com/in/rebecca-hutchinson-56567753/">LinkedIn</a></p>
   </div>
@@ -47,7 +47,7 @@ redirect_from:
 ### Laurel Hopkins, MS 2018
 <div class="person">
   <div class="person-header">
-  <img class="bio-img" src="../images/profiles/laurel.png" width="200">
+  <img style="float: left; padding: 10px 10px 10px 10px;" src="../images/profiles/laurel.png" width="200">
   </div>
   <div class="bio-text">
     Laurel is a PhD student and NASA FINESST (Future Investigators in NASA Earth and Space Science Technology) recipient. Laurel's work is at the intersection of deep  learning, remote sensing, and ecology. She studies deep learning architectures and various remote sensing products (i.e., satellite imagery datasets).
@@ -101,6 +101,9 @@ Cosmo<br>
 
 Benny<br>
 <img src="../images/profiles/Benny.jpg" width="200">
+
+Leo and Lucy<br>
+<img src="../images/profiles/leolucy.jpg" width="200">
 
 
 ## Alumni

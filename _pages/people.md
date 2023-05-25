@@ -16,6 +16,7 @@ redirect_from:
   .person-header {
   text-align: left;
   font-size: 12px;
+  float:left;
   flex-basis: 200px;
   flex-grow: 0;
   flex-shrink: 0;
@@ -83,8 +84,8 @@ redirect_from:
 
 ### Nahian Ahmed
 <div class="person">
-  <div style="person-header">
-    <img style="float: left; padding: 10px 10px 10px 10px;" src="../images/profiles/nahian.jpeg" width="200">
+  <div class="person-header">
+    <img src="../images/profiles/nahian.jpeg" width="200">
   </div>
   <div class="bio-text">
   Nahian is a PhD student of computer science. He studies machine learning, with a focus on evaluation, and applications in computational sustainability. He is interested in intuitive and engaging ways of learning about machine learning.

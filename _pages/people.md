@@ -6,6 +6,12 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<style>
+  .bio {
+  text-align: left;
+  color: red;
+  }
+</style>
   
 ### Rebecca Hutchinson
 <div style="float: left; text-align: center; font-size:12px">
@@ -13,7 +19,7 @@ redirect_from:
 <p><a href="mailto:rah@oregonstate.edu">Email</a> <a href="https://scholar.google.com/citations?user=1pnbx9QAAAAJ&hl=en">Google Scholar</a>
 <a href="https://www.linkedin.com/in/rebecca-hutchinson-56567753/">LinkedIn</a></p>
 </div>
-<div style="text-align: left">
+<div class="bio">
 Rebecca is the lead PI of the ML QuESt Lab. 
 She is an Associate Professor at <a href="https://oregonstate.edu">Oregon State University</a>, with a joint appointment across the <a href="https://engineering.oregonstate.edu/EECS">School of Electrical Engineering and Computer Science</a> and the <a href="https://fwcs.oregonstate.edu/">Department of Fisheries, Wildlife, and Conservation Sciences</a>. 
 She is also affiliated with the <a href="https://cqls.oregonstate.edu/">Center for Quantitative Life Sciences</a> and the <a href="https://engineering.oregonstate.edu/CoRIS">Collaborative Robotics and Intelligent Systems (CoRIS) Institute</a>. 

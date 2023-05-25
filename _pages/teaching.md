@@ -17,7 +17,7 @@ redirect_from:
   - Spring 2016
 - Special Topics: TBD (AI 539)
   - ***upcoming: Spring 2024***
-- Engingeering Computation and Algorithmic Thinking: An Introduction through a Biological Lens (ENGR 103)
+- Engineering Computation and Algorithmic Thinking: An Introduction through a Biological Lens (ENGR 103)
   - ***upcoming: Winter 2024***
 - Use and Abuse of Data: Critical Thinking in Science (BDS 211).
   - ***upcoming: Spring 2024***

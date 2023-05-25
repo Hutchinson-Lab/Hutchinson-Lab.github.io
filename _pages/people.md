@@ -91,7 +91,7 @@ TBA
 
 ### Louise Henderson
 <div class="person">
-<img style="float: left; padding: 10px 10px 10px 10px;" src="../images/Louise.jpg" width="200">
+<img style="float: left; padding: 10px 10px 10px 10px;" src="../images/profiles/louise.jpg" width="200">
 </div>
 <div class="bio-text">
 Louise is pursuing an M.S. and a Ph.D. in artificial intelligence at Oregon State University. She received a B.S. in physics, and later a B.S. in computer science, also from Oregon State University. Prior to attending graduate school, Louise worked as a software engineer, developing software to support manufacturing processes and automation.

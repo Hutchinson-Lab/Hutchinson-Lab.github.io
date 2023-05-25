@@ -14,7 +14,6 @@ redirect_from:
   }
   
   .person-header {
-  font-size: 12px;
   text-align: center;
   }
   
@@ -33,7 +32,7 @@ redirect_from:
 <div class="person">
   <div class="person-header">
     <img class="bio-img" src="../images/profiles/HutchinsonPhoto.jpg" width="200">
-    <p><a href="mailto:rah@oregonstate.edu">Email</a> <a href="https://scholar.google.com/citations?user=1pnbx9QAAAAJ&hl=en">Google Scholar</a>
+    <p style="font-size: 12px;"><a href="mailto:rah@oregonstate.edu">Email</a> <a href="https://scholar.google.com/citations?user=1pnbx9QAAAAJ&hl=en">Google Scholar</a>
     <a href="https://www.linkedin.com/in/rebecca-hutchinson-56567753/">LinkedIn</a></p>
   </div>
   <div class="bio-text">

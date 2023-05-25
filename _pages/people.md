@@ -9,12 +9,12 @@ redirect_from:
 <style>
   .person {
   margin-bottom: 3em;
-  display: flex;
-  flex-direction: row;
+  display: inline-block;
   }
   
   .person-header {
   text-align: center;
+  font-size: 12px;
   }
   
   .bio-text {
@@ -30,9 +30,11 @@ redirect_from:
   
 ### Rebecca Hutchinson
 <div class="person">
+  <div class="person-header">
     <img style="  float: left; padding: 10px 10px 10px 10px;" src="../images/profiles/HutchinsonPhoto.jpg" width="200">
-    <p style="font-size: 12px;"><a href="mailto:rah@oregonstate.edu">Email</a> <a href="https://scholar.google.com/citations?user=1pnbx9QAAAAJ&hl=en">Google Scholar</a>
+    <p><a href="mailto:rah@oregonstate.edu">Email</a> <a href="https://scholar.google.com/citations?user=1pnbx9QAAAAJ&hl=en">Google Scholar</a>
     <a href="https://www.linkedin.com/in/rebecca-hutchinson-56567753/">LinkedIn</a></p>
+  </div>
   <div class="bio-text">
     Rebecca is the lead PI of the ML QuESt Lab. 
     She is an Associate Professor at <a href="https://oregonstate.edu">Oregon State University</a>, with a joint appointment across the <a href="https://engineering.oregonstate.edu/EECS">School of Electrical Engineering and Computer Science</a> and the <a href="https://fwcs.oregonstate.edu/">Department of Fisheries, Wildlife, and Conservation Sciences</a>. 

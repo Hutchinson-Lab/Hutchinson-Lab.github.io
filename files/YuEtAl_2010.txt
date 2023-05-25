@@ -1,0 +1,8 @@
+@inproceedings{yu2010modeling,
+  title={Modeling experts and novices in citizen science data for species distribution modeling},
+  author={Yu, Jun and Wong, Weng-Keen and Hutchinson, Rebecca A},
+  booktitle={2010 IEEE International Conference on Data Mining},
+  pages={1157--1162},
+  year={2010},
+  organization={IEEE}
+}

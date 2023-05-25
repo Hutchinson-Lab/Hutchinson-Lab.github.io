@@ -1,0 +1,8 @@
+@inproceedings{seo2018predicting,
+  title={Predicting links in plant-pollinator interaction networks using latent factor models with implicit feedback},
+  author={Seo, Eugene and Hutchinson, Rebecca},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={32},
+  number={1},
+  year={2018}
+}

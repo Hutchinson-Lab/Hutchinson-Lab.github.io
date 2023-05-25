@@ -1,0 +1,8 @@
+@inproceedings{hutchinson2017species,
+  title={Species distribution modeling of citizen science data as a classification problem with class-conditional noise},
+  author={Hutchinson, Rebecca and He, Liqiang and Emerson, Sarah},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={31},
+  number={1},
+  year={2017}
+}

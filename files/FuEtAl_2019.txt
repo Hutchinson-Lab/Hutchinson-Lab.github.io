@@ -1,0 +1,10 @@
+@article{fu2019link,
+  title={Link prediction under imperfect detection: Collaborative filtering for ecological networks},
+  author={Fu, Xiao and Seo, Eugene and Clarke, Justin and Hutchinson, Rebecca A},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  volume={33},
+  number={8},
+  pages={3117--3128},
+  year={2019},
+  publisher={IEEE}
+}

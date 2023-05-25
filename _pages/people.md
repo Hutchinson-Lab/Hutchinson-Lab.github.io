@@ -38,13 +38,11 @@ redirect_from:
 <div class="person">
   <div class="person-header">
     <img src="../images/profiles/HutchinsonPhoto.jpg">
-    <div>
       <p>
         <a href="mailto:rah@oregonstate.edu">Email</a> <br>
         <a href="https://scholar.google.com/citations?user=1pnbx9QAAAAJ&hl=en">Google Scholar</a><br>
         <a href="https://www.linkedin.com/in/rebecca-hutchinson-56567753/">LinkedIn</a><br>
        </p>
-    </div>
   </div>
   <div class="bio-text">
     Rebecca is the lead PI of the ML QuESt Lab. 

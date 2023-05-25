@@ -1,0 +1,9 @@
+@article{robinson2021benchmark,
+  title={Benchmark bird surveys help quantify counting accuracy in a citizen-science database},
+  author={Robinson, W Douglas and Hallman, Tyler A and Hutchinson, Rebecca A},
+  journal={Frontiers in Ecology and Evolution},
+  volume={9},
+  pages={568278},
+  year={2021},
+  publisher={Frontiers Media SA}
+}

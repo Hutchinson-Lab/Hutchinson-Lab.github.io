@@ -1,0 +1,9 @@
+@inproceedings{seo2021stateconet,
+  title={StatEcoNet: Statistical Ecology Neural Networks for Species Distribution Modeling},
+  author={Seo, Eugene and Hutchinson, Rebecca A and Fu, Xiao and Li, Chelsea and Hallman, Tyler A and Kilbride, John and Robinson, W Douglas},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={35},
+  number={1},
+  pages={513--521},
+  year={2021}
+}

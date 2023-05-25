@@ -1,0 +1,9 @@
+@inproceedings{hutchinson2011incorporating,
+  title={Incorporating boosted regression trees into ecological latent variable models},
+  author={Hutchinson, Rebecca and Liu, Li-Ping and Dietterich, Thomas},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={25},
+  number={1},
+  pages={1343--1348},
+  year={2011}
+}

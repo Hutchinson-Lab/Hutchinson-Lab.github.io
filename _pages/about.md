@@ -12,7 +12,11 @@ Thanks for visiting the ML QuESt Lab! We are a team of scholars interested in de
 
 News
 ======
-May 2022: Rebecca Hutchinson was promoted to Associate Professor with indefinite tenure.
+May 2022: Rebecca Hutchinson was promoted to Associate Professor with indefinite tenure. Rebecca will be on sabbatical for the 2022/2023 academic year.
+
+February 2022: Our paper, led by Laurel Hopkins, has been published in Landscape Ecology.  
+
+December 2021: Mark Roth successfully defended his MS project, On the Role of Spatial Clustering Algorithms in Building Species Distribution Models from Community Science Data. Mark has accepted a Data Scientist position with [Climate](https://www.climate.com/).
 
 July 2021: Eugene Seo passed her PhD defense on Machine Learning Techniques to Model Species Interactions and Distributions Under Imperfect Detection. She will begin a postdoc at Brown University in the fall. 
 

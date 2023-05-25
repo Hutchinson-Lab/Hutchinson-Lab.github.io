@@ -1,0 +1,8 @@
+@inproceedings{yu2014latent,
+  title={A latent variable model for discovering bird species commonly misidentified by citizen scientists},
+  author={Yu, Jun and Hutchinson, Rebecca and Wong, Weng-Keen},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={28},
+  number={1},
+  year={2014}
+}

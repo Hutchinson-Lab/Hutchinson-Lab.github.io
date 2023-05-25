@@ -1,0 +1,8 @@
+@article{hochachka2012project,
+  title={Project and analysis design for broad-scale citizen science},
+  author={Hochachka, WM and Fink, D and Hutchinson, RA and Sheldon, D and Wong, WK},
+  journal={Trends Ecol. Evol},
+  volume={27},
+  pages={130--137},
+  year={2012}
+}

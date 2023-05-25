@@ -1,0 +1,10 @@
+@article{valente2017distinguishing,
+  title={Distinguishing distribution dynamics from temporary emigration using dynamic occupancy models},
+  author={Valente, Jonathon J and Hutchinson, Rebecca A and Betts, Matthew G},
+  journal={Methods in Ecology and Evolution},
+  volume={8},
+  number={12},
+  pages={1707--1716},
+  year={2017},
+  publisher={Wiley Online Library}
+}

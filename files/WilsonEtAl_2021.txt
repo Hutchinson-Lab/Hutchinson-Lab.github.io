@@ -1,0 +1,9 @@
+@article{wilson2021climate,
+  title={Climate change and local host availability drive the northern range boundary in the rapid expansion of a specialist insect herbivore, Papilio cresphontes},
+  author={Wilson, J Keaton and Casajus, Nicolas and Hutchinson, Rebecca A and McFarland, Kent P and Kerr, Jeremy T and Berteaux, Dominique and Larriv{\'e}e, Maxim and Prudic, Kathleen L},
+  journal={Frontiers in Ecology and Evolution},
+  volume={9},
+  pages={579230},
+  year={2021},
+  publisher={Frontiers Media SA}
+}

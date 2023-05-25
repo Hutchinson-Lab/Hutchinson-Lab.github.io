@@ -30,11 +30,9 @@ redirect_from:
   
 ### Rebecca Hutchinson
 <div class="person">
-  <div class="person-header">
     <img style="  float: left; padding: 10px 10px 10px 10px;" src="../images/profiles/HutchinsonPhoto.jpg" width="200">
     <p style="font-size: 12px;"><a href="mailto:rah@oregonstate.edu">Email</a> <a href="https://scholar.google.com/citations?user=1pnbx9QAAAAJ&hl=en">Google Scholar</a>
     <a href="https://www.linkedin.com/in/rebecca-hutchinson-56567753/">LinkedIn</a></p>
-  </div>
   <div class="bio-text">
     Rebecca is the lead PI of the ML QuESt Lab. 
     She is an Associate Professor at <a href="https://oregonstate.edu">Oregon State University</a>, with a joint appointment across the <a href="https://engineering.oregonstate.edu/EECS">School of Electrical Engineering and Computer Science</a> and the <a href="https://fwcs.oregonstate.edu/">Department of Fisheries, Wildlife, and Conservation Sciences</a>. 
@@ -64,16 +62,17 @@ redirect_from:
 <div style="text-align: left">
 Jing is a PhD candidate in computer science, studying on model evaluation in machine learning, specifically developing cross-validation methods for geospatial problems and applying them on birds and housing datasets. Previously, she obtained her M.S. in Computer Science from University of South Carolina, M.A. in Applied Economics from Fudan University, and B.A in Finance from Huazhong University of Science and Technology. 
 </div>
-<br><br><br>
 
 
 ### Nahian Ahmed
+<div class="person">
 <div style="float: left; text-align: center; font-size:12px">
 <img style="float: left; padding: 10px 10px 10px 10px;" src="../images/profiles/nahian.jpeg" width="200">
 </div>
 <div style="text-align: left">
 Nahian is a PhD student of computer science. He studies machine learning, with a focus on evaluation, and applications in computational sustainability. He is interested in intuitive and engaging ways of learning about machine learning.
 </div>
+  </div>
 
 ### Andrew Droubay
 <div class="person">
@@ -88,7 +87,7 @@ TBA
 <img style="float: left; padding: 10px 10px 10px 10px;" src="../images/bio-photo.jpg" width="200">
 </div>
 <div style="text-align: left">
-TBA
+Louise is pursuing an M.S. and a Ph.D. in artificial intelligence at Oregon State University. She received a B.S. in physics, and later a B.S. in computer science, also from Oregon State University. Prior to attending graduate school, Louise worked as a software engineer, developing software to support manufacturing processes and automation.
 </div>
 
 ## Honorary Members

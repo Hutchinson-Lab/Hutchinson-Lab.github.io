@@ -1,0 +1,10 @@
+@article{prudic2017ebutterfly,
+  title={eButterfly: leveraging massive online citizen science for butterfly conservation},
+  author={Prudic, Kathleen L and McFarland, Kent P and Oliver, Jeffrey C and Hutchinson, Rebecca A and Long, Elizabeth C and Kerr, Jeremy T and Larriv{\'e}e, Maxim},
+  journal={Insects},
+  volume={8},
+  number={2},
+  pages={53},
+  year={2017},
+  publisher={MDPI}
+}

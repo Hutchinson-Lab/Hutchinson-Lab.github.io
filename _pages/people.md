@@ -109,21 +109,6 @@ redirect_from:
   </div>
 </div>
 
-## Honorary Members
-<hr>
-Jupiter<br>
-<img src="../images/profiles/jupiter.png" > 
-
-Cosmo<br>
-<img src="../images/profiles/Cosmo.jpg">
-
-Benny<br>
-<img src="../images/profiles/Benny.jpg">
-
-Leo and Lucy<br>
-<img src="../images/profiles/leolucy.jpg">
-
-
 ## Alumni
 <hr>
 ### Mark Roth, MS 2021
@@ -137,4 +122,18 @@ Leo and Lucy<br>
 
 ### Liqiang He, MS 2017
 <img src="../images/profiles/LHe.png" >
+
+## Honorary Members
+<hr>
+Jupiter<br>
+<img src="../images/profiles/jupiter.png" > 
+
+Cosmo<br>
+<img src="../images/profiles/Cosmo.jpg">
+
+Benny<br>
+<img src="../images/profiles/Benny.jpg">
+
+Leo and Lucy<br>
+<img src="../images/profiles/leolucy.jpg">
 

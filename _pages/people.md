@@ -32,8 +32,10 @@ redirect_from:
 <div class="person">
   <div class="person-header">
     <img style="  float: left; padding: 10px 10px 10px 10px;" src="../images/profiles/HutchinsonPhoto.jpg" width="200">
+    <div>
     <p><a href="mailto:rah@oregonstate.edu">Email</a> <br><a href="https://scholar.google.com/citations?user=1pnbx9QAAAAJ&hl=en">Google Scholar</a><br>
     <a href="https://www.linkedin.com/in/rebecca-hutchinson-56567753/">LinkedIn</a><br></p>
+    </div>
   </div>
   <div class="bio-text">
     Rebecca is the lead PI of the ML QuESt Lab. 
@@ -57,7 +59,7 @@ redirect_from:
 
 ### Jing Wang
 <div class="person">
- <div class="person-header"
+ <div class="person-header">
 <img style="float: left; padding: 10px 10px 10px 10px;" src="../images/profiles/wangjing.jpg" width=200>
 <p><a href="mailto:wangji9@oregonstate.edu">Email</a> 
 <a href="https://www.linkedin.com/in/jingw29/">LinkedIn</a></p>
@@ -89,7 +91,7 @@ TBA
 
 ### Louise Henderson
 <div class="person">
-<img style="float: left; padding: 10px 10px 10px 10px;" src="../images/louise.jpg" width="200">
+<img style="float: left; padding: 10px 10px 10px 10px;" src="../images/Louise.jpg" width="200">
 </div>
 <div class="bio-text">
 Louise is pursuing an M.S. and a Ph.D. in artificial intelligence at Oregon State University. She received a B.S. in physics, and later a B.S. in computer science, also from Oregon State University. Prior to attending graduate school, Louise worked as a software engineer, developing software to support manufacturing processes and automation.

@@ -14,11 +14,11 @@ redirect_from:
   }
   
   .person-header {
-  text-align: center;
+  text-align: left;
   font-size: 12px;
   flex-basis: 200px;
-	flex-grow: 0;
-	flex-shrink: 0;
+  flex-grow: 0;
+  flex-shrink: 0;
   }
   
   .bio-text {
@@ -79,26 +79,29 @@ Jing is a PhD candidate in computer science, studying on model evaluation in mac
 <div style="person-header">
 <img style="float: left; padding: 10px 10px 10px 10px;" src="../images/profiles/nahian.jpeg" width="200">
 </div>
-<div style="text-align: left">
+<div class="bio-text">
 Nahian is a PhD student of computer science. He studies machine learning, with a focus on evaluation, and applications in computational sustainability. He is interested in intuitive and engaging ways of learning about machine learning.
 </div>
   </div>
 
 ### Andrew Droubay
 <div class="person">
-
+<div class="person-header">
 <img style="float: left; padding: 10px 10px 10px 10px;" src="../images/profiles/andrew.png" width="200">
 </div>
-<div style="text-align: left">
+<div class="bio-text">
 TBA
+</div>
 </div>
 
 ### Louise Henderson
 <div class="person">
+<div class="person-header">
 <img style="float: left; padding: 10px 10px 10px 10px;" src="../images/profiles/louise.jpg" width="200">
 </div>
 <div class="bio-text">
 Louise is pursuing an M.S. and a Ph.D. in artificial intelligence at Oregon State University. She received a B.S. in physics, and later a B.S. in computer science, also from Oregon State University. Prior to attending graduate school, Louise worked as a software engineer, developing software to support manufacturing processes and automation.
+</div>
 </div>
 
 ## Honorary Members

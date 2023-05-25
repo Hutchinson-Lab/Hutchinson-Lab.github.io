@@ -1,0 +1,10 @@
+@article{barry2021integrating,
+  title={Integrating multi-method surveys and recovery trajectories into occupancy models},
+  author={Barry, Brent R and Moriarty, Katie and Green, David and Hutchinson, Rebecca A and Levi, Taal},
+  journal={Ecosphere},
+  volume={12},
+  number={12},
+  pages={e03886},
+  year={2021},
+  publisher={Wiley Online Library}
+}

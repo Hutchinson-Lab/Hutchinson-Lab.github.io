@@ -2,7 +2,7 @@
 title: "A comparison of remotely sensed environmetnal predictors for SDMs"
 collection: posts
 type: "Undergraduate course"
-permalink: /blog/2014-spring-teaching-1
+permalink: /blog/A comparison of remotely sensed environmetnal predictors for SDMs
 venue: "Landscape Ecology"
 date: 2022-02-16
 location: "City, Country"

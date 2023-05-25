@@ -12,9 +12,6 @@ main:
   - title: "Blog"
     url: /year-archive/
    
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Teaching"
     url: /teaching/    
     

@@ -1,0 +1,8 @@
+@inproceedings{dietterich2012machine,
+  title={Machine learning for computational sustainability.},
+  author={Dietterich, Thomas G and Dereszynski, Ethan W and Hutchinson, Rebecca A and Sheldon, Dan},
+  booktitle={IGCC},
+  pages={1},
+  year={2012},
+  organization={Citeseer}
+}

@@ -12,3 +12,5 @@ K-fold Cross-validation (KFCV) randomly divides a training set into K non-overla
 KFCV provides unbiased estimates with independent, identically distributed (iid) data. But does it also work well on geospatial data?
 
 Geospatial learning problems are frequently characterized by spatial autocorrelation in the input features and the potential for covariate shift at test time. These realities violate the iid assumption.
+
+To be continued...

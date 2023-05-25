@@ -1,6 +1,6 @@
 ---
 title: "A comparison of remotely sensed environmetnal predictors for SDMs"
-collection: teaching
+collection: posts
 type: "Undergraduate course"
 permalink: /blog/2014-spring-teaching-1
 venue: "Landscape Ecology"

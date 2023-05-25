@@ -1,0 +1,9 @@
+@article{jones2019landscape,
+  title={Landscape patterns and diversity of meadow plants and flower-visitors in a mountain landscape},
+  author={Jones, Julia A and Hutchinson, Rebecca and Moldenke, Andy and Pfeiffer, Vera and Helderop, Edward and Thomas, Elaina and Griffin, Josh and Reinholtz, Amanda},
+  journal={Landscape Ecology},
+  volume={34},
+  pages={997--1014},
+  year={2019},
+  publisher={Springer}
+}

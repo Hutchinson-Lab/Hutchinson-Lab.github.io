@@ -37,8 +37,11 @@ redirect_from:
   <div class="person-header">
     <img style="  float: left; padding: 10px 10px 10px 10px;" src="../images/profiles/HutchinsonPhoto.jpg" width="200">
     <div>
-    <p><a href="mailto:rah@oregonstate.edu">Email</a> <br><a href="https://scholar.google.com/citations?user=1pnbx9QAAAAJ&hl=en">Google Scholar</a><br>
-    <a href="https://www.linkedin.com/in/rebecca-hutchinson-56567753/">LinkedIn</a><br></p>
+    <p style="margin-left: 10px;">
+      <a href="mailto:rah@oregonstate.edu">Email</a> <br>
+      <a href="https://scholar.google.com/citations?user=1pnbx9QAAAAJ&hl=en">Google Scholar</a><br>
+      <a href="https://www.linkedin.com/in/rebecca-hutchinson-56567753/">LinkedIn</a><br>
+     </p>
     </div>
   </div>
   <div class="bio-text">
@@ -64,34 +67,36 @@ redirect_from:
 ### Jing Wang
 <div class="person">
  <div class="person-header">
-<img style="float: left; padding: 10px 10px 10px 10px;" src="../images/profiles/wangjing.jpg" width=200>
-<p><a href="mailto:wangji9@oregonstate.edu">Email</a> 
-<a href="https://www.linkedin.com/in/jingw29/">LinkedIn</a></p>
+  <img style="float: left; padding: 10px 10px 10px 10px;" src="../images/profiles/wangjing.jpg" width=200>
+  <p style="margin-left: 10px;">
+    <a href="mailto:wangji9@oregonstate.edu">Email</a> <br>
+    <a href="https://www.linkedin.com/in/jingw29/">LinkedIn</a>
+   </p>
 </div>
-<div class="bio-text">
-Jing is a PhD candidate in computer science, studying on model evaluation in machine learning, specifically developing cross-validation methods for geospatial problems and applying them on birds and housing datasets. Previously, she obtained her M.S. in Computer Science from University of South Carolina, M.A. in Applied Economics from Fudan University, and B.A in Finance from Huazhong University of Science and Technology. 
-</div>
+  <div class="bio-text">
+  Jing is a PhD candidate in computer science, studying on model evaluation in machine learning, specifically developing cross-validation methods for geospatial problems and applying them on birds and housing datasets. Previously, she obtained her M.S. in Computer Science from University of South Carolina, M.A. in Applied Economics from Fudan University, and B.A in Finance from Huazhong University of Science and Technology. 
+  </div>
 </div>
 
 
 ### Nahian Ahmed
 <div class="person">
-<div style="person-header">
-<img style="float: left; padding: 10px 10px 10px 10px;" src="../images/profiles/nahian.jpeg" width="200">
-</div>
-<div class="bio-text">
-Nahian is a PhD student of computer science. He studies machine learning, with a focus on evaluation, and applications in computational sustainability. He is interested in intuitive and engaging ways of learning about machine learning.
-</div>
+  <div style="person-header">
+    <img style="float: left; padding: 10px 10px 10px 10px;" src="../images/profiles/nahian.jpeg" width="200">
   </div>
+  <div class="bio-text">
+  Nahian is a PhD student of computer science. He studies machine learning, with a focus on evaluation, and applications in computational sustainability. He is interested in intuitive and engaging ways of learning about machine learning.
+  </div>
+</div>
 
 ### Andrew Droubay
 <div class="person">
-<div class="person-header">
-<img style="float: left; padding: 10px 10px 10px 10px;" src="../images/profiles/andrew.png" width="200">
-</div>
-<div class="bio-text">
-TBA
-</div>
+  <div class="person-header">
+  <img style="float: left; padding: 10px 10px 10px 10px;" src="../images/profiles/andrew.png" width="200">
+  </div>
+  <div class="bio-text">
+  TBA
+  </div>
 </div>
 
 ### Louise Henderson

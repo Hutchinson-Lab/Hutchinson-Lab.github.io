@@ -1,0 +1,10 @@
+@article{shirley2013species,
+  title={Species distribution modelling for the people: unclassified landsat TM imagery predicts bird occurrence at fine resolutions},
+  author={Shirley, SM and Yang, Z and Hutchinson, RA and Alexander, JD and McGarigal, K and Betts, MG},
+  journal={Diversity and Distributions},
+  volume={19},
+  number={7},
+  pages={855--866},
+  year={2013},
+  publisher={Wiley Online Library}
+}

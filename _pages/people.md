@@ -9,12 +9,16 @@ redirect_from:
 <style>
   .person {
   margin-bottom: 3em;
-  display: inline-block;
+  display: flex;
+  flex-direction: row;
   }
   
   .person-header {
   text-align: center;
   font-size: 12px;
+  flex-basis: 200px;
+	flex-grow: 0;
+	flex-shrink: 0;
   }
   
   .bio-text {

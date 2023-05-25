@@ -38,7 +38,7 @@ redirect_from:
 ### Rebecca Hutchinson
 <div class="person">
   <div class="person-header">
-    <img style="  float: left; " src="../images/profiles/HutchinsonPhoto.jpg" width="200">
+    <img src="../images/profiles/HutchinsonPhoto.jpg" width="200">
     <div>
     <p>
       <a href="mailto:rah@oregonstate.edu">Email</a> <br>
@@ -59,7 +59,7 @@ redirect_from:
 ### Laurel Hopkins, MS 2018
 <div class="person">
   <div class="person-header">
-  <img style="float: left; padding: 10px 10px 10px 10px;" src="../images/profiles/laurel.png" width="200">
+  <img src="../images/profiles/laurel.png" width="200">
   </div>
   <div class="bio-text">
     Laurel is a PhD student and NASA FINESST (Future Investigators in NASA Earth and Space Science Technology) recipient. Laurel's work is at the intersection of deep  learning, remote sensing, and ecology. She studies deep learning architectures and various remote sensing products (i.e., satellite imagery datasets).
@@ -70,8 +70,8 @@ redirect_from:
 ### Jing Wang
 <div class="person">
  <div class="person-header">
-  <img style="float: left; padding: 10px 10px 10px 10px;" src="../images/profiles/wangjing.jpg" width=200>
-  <p style="margin-left: 10px;">
+  <img src="../images/profiles/wangjing.jpg" width=200>
+  <p>
     <a href="mailto:wangji9@oregonstate.edu">Email</a> <br>
     <a href="https://www.linkedin.com/in/jingw29/">LinkedIn</a>
    </p>
@@ -85,7 +85,7 @@ redirect_from:
 ### Nahian Ahmed
 <div class="person">
   <div class="person-header">
-    <img src="../images/profiles/nahian.jpeg" width="200">
+    <img src="../images/profiles/nahian.jpeg">
   </div>
   <div class="bio-text">
   Nahian is a PhD student of computer science. He studies machine learning, with a focus on evaluation, and applications in computational sustainability. He is interested in intuitive and engaging ways of learning about machine learning.
@@ -95,7 +95,7 @@ redirect_from:
 ### Andrew Droubay
 <div class="person">
   <div class="person-header">
-  <img style="float: left; padding: 10px 10px 10px 10px;" src="../images/profiles/andrew.png" width="200">
+  <img src="../images/profiles/andrew.png" width="200">
   </div>
   <div class="bio-text">
   TBA
@@ -105,7 +105,7 @@ redirect_from:
 ### Louise Henderson
 <div class="person">
 <div class="person-header">
-<img style="float: left; padding: 10px 10px 10px 10px;" src="../images/profiles/louise.jpg" width="200">
+<img src="../images/profiles/louise.jpg" width="200">
 </div>
 <div class="bio-text">
 Louise is pursuing an M.S. and a Ph.D. in artificial intelligence at Oregon State University. She received a B.S. in physics, and later a B.S. in computer science, also from Oregon State University. Prior to attending graduate school, Louise worked as a software engineer, developing software to support manufacturing processes and automation.

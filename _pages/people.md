@@ -112,7 +112,13 @@ redirect_from:
 ## Alumni
 <hr>
 ### Mark Roth, MS 2021
-<img src="../images/profiles/MR.png">
+<div class="person">
+  <div class="person-header"><img src="../images/profiles/MR.png">
+  </div>
+  <div class="bio-text">
+  Mark graduated with a masters degree in Computer Science from Oregon State University in 2021 where he studied unsupervised machine learning algorithms and how they can improve species distribution models in the context of community-science collected data. His research centered on biodiversity and he completed parallel coursework in conservation and machine learning to better understand the interdisciplinary challenges of his research problem. After graduation, Mark accepted a role as a Data Scientist at <a href="https://www.climate.com">Climate</a>, an agricultural technology company.
+  </div>
+</div>
 
 ### Eugene Seo, PhD 2021
 <img src="../images/profiles/ES.png">

@@ -121,7 +121,18 @@ redirect_from:
 </div>
 
 ### Eugene Seo, PhD 2021
-<img src="../images/profiles/ES.png">
+<div class="person">
+  <div class="person-header"><img src="../images/profiles/ES.png">
+    <p>
+        <a href="mailto:eugene_seo@brown.edu">Email</a> <br>
+        <a href="https://scholar.google.com/citations?user=o8Bwi3EAAAAJ&hl=en">Google Scholar</a><br>
+        <a href="https://www.linkedin.com/in/eugene-seo/">LinkedIn</a><br>
+       </p>
+  </div>
+  <div class="bio-text">
+  Eugene earned a Ph.D. degree in Computer Science from Oregon State University in 2021. During her Ph.D. study, she focused on proposing machine learning frameworks for predicting plant-pollinator interactions and modeling bird species distributions. Following graduation, as a Postdoctoral Research Associate at Brown University, she studied machine learning models to estimate aboveground biomass density using Global Ecosystem Dynamics Investigation (GEDI) data.
+  </div>
+</div>
 
 ### Vishnupriya Nochikaduthekkedath Reghunathan, MEng 2020
 <img src="../images/profiles/VNR.png" >

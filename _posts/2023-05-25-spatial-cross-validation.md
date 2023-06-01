@@ -13,10 +13,12 @@ KFCV provides unbiased estimates with independent, identically distributed (iid)
 
 Geospatial learning problems are frequently characterized by spatial autocorrelation in the input features and the potential for covariate shift at test time. These realities violate the iid assumption. Now let us explain the two concepts a little bit.
 
-- Spatial autocorrelation 
+- **Spatial autocorrelation**
+
 It is key concept in geostatistics which describes the spatial variation of a feature. In most cases, spatial autocorrelation is positive as nearby areas or sites tend to have similar feature values. For example, the precipitation of your city is more similar to that of the neighboring city than that of another city far away. You may check the [Chapter 13 of Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/spatial-autocorrelation.html) for more detailed intro.
 
-- Covariate shift
+- **Covariate shift**
+
 Geospatial problems may exhibit different kinds of data shift, which happens when the joint distribution of features and responses differs between the training and test sets.
 Covariate shift arises frequently when feature distribution of training set is different from that of test set while the functional relationship keeps the same. For example, when considering whether to translocate a threatened species to a currently unoccupied region, natural resource managers may need to construct an Species Distribution Model with data from a currently occupied region and predict habitat suitability in the new area.
 

@@ -17,9 +17,9 @@ redirect_from:
   
   .topic-header {
     text-align: left;
-    font-size: 12px;
+<!--     font-size: 12px; -->
     float:left;
-    flex-basis: 200px;
+    flex-basis: 450px;
     flex-grow: 0;
     flex-shrink: 0;
     margin-left: 10px;
@@ -31,8 +31,8 @@ redirect_from:
   }
   
   img {
-    width: 400px;
-    border-radius: 5px;
+    width: 450px;
+    border-radius: 10px;
   }
 </style>
 

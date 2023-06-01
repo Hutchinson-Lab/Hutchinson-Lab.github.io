@@ -39,9 +39,9 @@ redirect_from:
   <div class="person-header">
     <img src="../images/profiles/HutchinsonPhoto.jpg">
       <p>
-        <a href="mailto:rah@oregonstate.edu">Email</a> <br>
-        <a href="https://scholar.google.com/citations?user=1pnbx9QAAAAJ&hl=en">Google Scholar</a><br>
-        <a href="https://www.linkedin.com/in/rebecca-hutchinson-56567753/">LinkedIn</a><br>
+        <a href="mailto:rah@oregonstate.edu"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a> <br>
+        <a href="https://scholar.google.com/citations?user=1pnbx9QAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-fw"></i> Google Scholar</a><br>
+        <a href="https://www.linkedin.com/in/rebecca-hutchinson-56567753/"><i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a><br>
        </p>
   </div>
   <div class="bio-text">
@@ -95,7 +95,7 @@ redirect_from:
     <img src="../images/profiles/andrew.png">
   </div>
   <div class="bio-text">
-    TBA
+    Andrew is a MS and PhD student in Computer Science researching machine learning for forecasting and anomaly detection problems. He takes inspiration from ecology and sustainability applications to develop novel learning models, with a particular interest in problems across space and time. He is a team member of both the <a href="https://agaid.org/">Agriculture for AI (AgAID) Institute</a> and of the <a href="https://www.ppicenter.org/">Pervasive Personalized Intelligence (PPI) Center</a>. Previously, he previously earned a BS in Computer Science and Mathematics at Roanoke College, where he also worked as a web developer.
   </div>
 </div>
 

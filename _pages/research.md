@@ -31,7 +31,7 @@ redirect_from:
   }
   
   img {
-    width: 200px;
+    width: 400px;
     border-radius: 5px;
   }
 </style>

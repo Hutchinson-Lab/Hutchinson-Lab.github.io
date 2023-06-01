@@ -33,6 +33,7 @@ redirect_from:
   
   img {
     width: 450px;
+    height: 450px;
     border-radius: 10px;
   }
 </style>

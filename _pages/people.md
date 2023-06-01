@@ -95,7 +95,7 @@ redirect_from:
     <img src="../images/profiles/andrew.png">
   </div>
   <div class="bio-text">
-    TBA
+    Andrew is a MS and PhD student in Computer Science using machine learning for forecasting and detection. He takes inspiration from ecology and sustainability applications to develop novel learning models, with a particular interest in problems across space and time. He is a team member of both the <a href="https://agaid.org/">Agriculture for AI (AgAID) Institute</a> and of the <a href="https://www.ppicenter.org/">Pervasive Personalized Intelligence (PPI) Center</a>. He previously earned a BS in Computer Science and Mathematics at Roanoke College, where he also worked as a web developer.
   </div>
 </div>
 

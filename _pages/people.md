@@ -39,9 +39,9 @@ redirect_from:
   <div class="person-header">
     <img src="../images/profiles/HutchinsonPhoto.jpg">
       <p>
-        <a href="mailto:rah@oregonstate.edu">Email</a> <br>
-        <a href="https://scholar.google.com/citations?user=1pnbx9QAAAAJ&hl=en"><i class=".ai-google-scholar"></i> Google Scholar</a><br>
-        <a href="https://www.linkedin.com/in/rebecca-hutchinson-56567753/">LinkedIn</a><br>
+        <a href="mailto:rah@oregonstate.edu"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a> <br>
+        <a href="https://scholar.google.com/citations?user=1pnbx9QAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-fw"></i> Google Scholar</a><br>
+        <a href="https://www.linkedin.com/in/rebecca-hutchinson-56567753/"><i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a><br>
        </p>
   </div>
   <div class="bio-text">

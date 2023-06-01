@@ -15,7 +15,6 @@ redirect_from:
   
   .person-header {
     text-align: left;
-    text-decoration: none;
     font-size: 12px;
     float:left;
     flex-basis: 200px;
@@ -23,6 +22,10 @@ redirect_from:
     flex-shrink: 0;
     margin-left: 10px;
     margin-right: 10px;
+  }
+  
+  a.person-header {
+      text-decoration: none;
   }
   
   .bio-text {
@@ -42,7 +45,7 @@ redirect_from:
       <p>
         <a href="mailto:rah@oregonstate.edu"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a> <br>
         <a href="https://scholar.google.com/citations?user=1pnbx9QAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-fw"></i> Google Scholar</a><br>
-        <a href="https://www.linkedin.com/in/rebecca-hutchinson-56567753/"><i class="fa fa-fw fa-brands fa-linkedin-in" aria-hidden="true"></i> LinkedIn</a><br>
+        <a href="https://www.linkedin.com/in/rebecca-hutchinson-56567753/"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a><br>
        </p>
   </div>
   <div class="bio-text">

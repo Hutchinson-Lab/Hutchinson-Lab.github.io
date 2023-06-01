@@ -40,8 +40,8 @@ redirect_from:
     <img src="../images/profiles/HutchinsonPhoto.jpg">
       <p>
         <a href="mailto:rah@oregonstate.edu">Email</a> <br>
-        <a href="https://scholar.google.com/citations?user=1pnbx9QAAAAJ&hl=en">Google Scholar</a><br>
-        <a href="https://www.linkedin.com/in/rebecca-hutchinson-56567753/"><i class="fa-brands fa-linkedin-in"></i> LinkedIn</a><br>
+        <a href="https://scholar.google.com/citations?user=1pnbx9QAAAAJ&hl=en"><i class=".ai-google-scholar"></i> Google Scholar</a><br>
+        <a href="https://www.linkedin.com/in/rebecca-hutchinson-56567753/">LinkedIn</a><br>
        </p>
   </div>
   <div class="bio-text">

@@ -7,6 +7,53 @@ redirect_from:
   - /resume
 ---
 
+
+<style>
+  .topic {
+    margin-bottom: 2em;
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .topic-header {
+    text-align: left;
+    font-size: 12px;
+    float:left;
+    flex-basis: 200px;
+    flex-grow: 0;
+    flex-shrink: 0;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  
+  .topic-text {
+    text-align: left;
+  }
+  
+  img {
+    width: 200px;
+    border-radius: 5px;
+  }
+</style>
+
+
+
+## Spatial Cross-validation for Geospatial Data
+<div class="topic">
+  <div class="topic-header">
+    <img src="../images/scv2.jpg">
+  </div>
+  <div class="topic-text">
+    Geospatial learning problems are frequently characterized by spatial autocorrelated input features and by the potential covariate shift at test time.
+    These realities violate the classical iid assumption which most cross-validation methods rely on to estimate the generalization error. We investigate theoretical criteria for unbiased cross-validation estimators in the geospatial setting, develop a framework for choosing an appropriate strategy to estimate model error, and develop new cross-validation algorithms for challenging scenarios.
+    Funded in part by the National Science Foundation (NSF) under Grant No. III-2046678 and by the United States Department of Agriculture National Institute of Food and Agriculture (USDA-NIFA) award No. 2021-67021-35344 (AgAID AI Institute)
+  </div>  
+</div>
+
+
+
+
+
 ## Spatial Cross-validation for Geospatial Data
 <hr>
 <div style="text-align: left">

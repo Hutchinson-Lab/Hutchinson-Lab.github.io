@@ -56,7 +56,7 @@ redirect_from:
 ## Environmental Predictors from Satellite Imagery
 <div class="topic">
   <div class="topic-header">
-    <img src="../images/satellite.jpg">
+    <img src="../images/satellite.png">
   </div>
   <div class="topic-text">
     Species distribution models (SDMs) generally require environmental variables as model inputs. It is common to use satellite imagery to derive the environmental variables, however, there are a number of methods for turning satellite data into environmental variables. We compare different methods for establishing environmental variables from satellite imagery. Specifically, we evaluate 1) summarizing the raw bands and transformations and/or indices of the raw bands (e.g., Tasseled Cap transformations, NDVI, EVI) and 2) directly analyzing the satellite imagery with convolutional neural networks (CNNs).
@@ -68,7 +68,7 @@ Funded in part by the National Aeronautics and Space Administration (NASA) under
 ## Spatial Clustering for Species Distribution Modeling from Community Science Data
 <div class="topic">
   <div class="topic-header">
-    <img src="../images/clusterMap.jpg">
+    <img src="../images/clusterMap.png">
   </div>
   <div class="topic-text">
     This project explores how developments in spatial clustering methods may help leverage broad scale community science data for building species distribution models (SDMs). Community science data span spatial and temporal scales unachievable by expert surveys alone, but they lack the structure imposed in smaller scale studies to allow adjustments for observational biases. Spatial clustering approaches can construct the necessary structure after surveys have occurred, but we are working to ensure that they are effective for this purpose. 

@@ -8,6 +8,7 @@ author_profile: true
 Ibrahim, S., Fu, X., **Hutchinson, R.A.**, and **Seo, E.** (2023).<br> 
 [Under-counted tensor completion with neural incorporation of attributes](https://icml.cc/Conferences/2023).<br> 
 *Proceedings of the 40th International Conference on Machine Learning (ICML 2023),* to appear.<br>
+[(arxiv)](https://arxiv.org/abs/2306.03273)
 
 **Hopkins, L.M.**, Hallman, T.A., Kilbride, J., Robinson, W.D., **Hutchinson, R.A.** (2022).<br>
 [A comparison of remotely sensed environmental predictors for avian distributions](https://link.springer.com/article/10.1007/s10980-022-01406-y). <br>

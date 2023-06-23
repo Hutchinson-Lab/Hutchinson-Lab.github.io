@@ -138,8 +138,17 @@ redirect_from:
   </div>
 </div>
 
-### Vishnupriya Nochikaduthekkedath Reghunathan, MEng 2020
-<img src="../images/profiles/VNR.png" >
+### Vishnupriya NR, MEng 2021
+<div class="person">
+  <div class="person-header"><img src="../images/profiles/VNR.png" >
+ <p>
+        <a href="https://www.linkedin.com/in/vishnupriyanr/">LinkedIn</a><br>
+   </p>
+  </div>
+  <div class="bio-text">
+  Vishnu completed her master's degree in Computer Science, specializing in Machine Learning and Statistics, at Oregon State University in 2021. During her studies, she worked on analyzing over-dispersed count data in species distribution modeling. After graduation, Vishnu joined the Sam's Club AI Labs, Walmart, as an ML Software/Data Engineer, focusing on data pipelines and enhancing the communication aspects of AI systems.
+ </div>
+</div>
 
 ### Liqiang He, MS 2017
 <img src="../images/profiles/LHe.png" >

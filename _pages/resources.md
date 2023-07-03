@@ -32,3 +32,5 @@ OSU's [AI Seminar Series](https://engineering.oregonstate.edu/EECS/research/AI-s
 
 OSU's [Ecology, Evolution, and Conservation Biology (EECB) Seminar Series](https://fwcs.oregonstate.edu/fwcs/ecology-evolution-and-conservation-biology-seminar-series)
 
+## For Prospective Students
+I am not able to respond to all the emails I receive from prospective students. If you are interested in joining the ML QuESt Lab, the best way to proceed is to apply to the graduate program that most interests you. If you list my name as a potential advisor, I am likely to see your application. I advise students in the [AI](https://engineering.oregonstate.edu/academics/degrees/artificial-intelligence) and [CS](https://engineering.oregonstate.edu/Academics/Degrees/computer-science) graduate programs. I am interested in co-advising in the [FWCS graduate programs](https://fwcs.oregonstate.edu/fisheries-and-wildlife/graduate) as well; we would need to identify a co-advisor and funding source. 

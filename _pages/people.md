@@ -57,7 +57,7 @@ redirect_from:
   </div>  
 </div>
 
-### Laurel Hopkins
+### Laurel Hopkins, MS 2018
 <div class="person">
   <div class="person-header">
     <img src="../images/profiles/laurel.png">

@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+Prudic, K.L., Zylstra E.R., Melkonoff N.A., Laura, R.E., **Hutchinson, R.A.** (2023).<br>
+[Community scientists produce open data for understanding insects and climate change](https://doi.org/10.1016/j.cois.2023.101081).<br>
+*Current Opinion in Insect Science*, in press.<br>
+
 Ibrahim, S., Fu, X., **Hutchinson, R.A.**, and **Seo, E.** (2023).<br> 
 [Under-counted tensor completion with neural incorporation of attributes](https://icml.cc/Conferences/2023).<br> 
 *Proceedings of the 40th International Conference on Machine Learning (ICML 2023),* to appear.<br>

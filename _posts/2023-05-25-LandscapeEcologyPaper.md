@@ -9,6 +9,7 @@ tags:
   - Oregon 2020 Project
 ---
 
+<style>
   img {
     width: 200px;
 <!--     height: 600px; -->

@@ -9,6 +9,8 @@ tags:
   - Oregon 2020 Project
 ---
 
+There are many options when establishing environmntal variables from satellite imagery. First, one must select a satellite dataset (e.g., Landsat, MODIS, Sentinel). Second is deciding how to summarize the data (i.e., how to turn satellite imagery into input feature vectors). With the many satellite imagery datasets and methods of summarization, there is an open question of which environmental variables are best suited for SDMs. To help address this question, we compared the predictive power of several sets of environmental variables derived from Landsat satellite imagery in predicting 13 bird species across the state of Oregon, USA. This work was done in collaboration with the [Oregon 2020 Project](https://oregon2020.com/) and was published in [Landscape Ecology](https://link.springer.com/article/10.1007/s10980-022-01406-y). 
+
 <style>
   img {
     width: 200px;
@@ -16,8 +18,6 @@ tags:
     border-radius: 10px;
   }
 </style>
-
-There are many options when establishing environmntal variables from satellite imagery. First, one must select a satellite dataset (e.g., Landsat, MODIS, Sentinel). Second is deciding how to summarize the data (i.e., how to turn satellite imagery into input feature vectors). With the many satellite imagery datasets and methods of summarization, there is an open question of which environmental variables are best suited for SDMs. To help address this question, we compared the predictive power of several sets of environmental variables derived from Landsat satellite imagery in predicting 13 bird species across the state of Oregon, USA. This work was done in collaboration with the [Oregon 2020 Project](https://oregon2020.com/) and was published in [Landscape Ecology](https://link.springer.com/article/10.1007/s10980-022-01406-y). 
 
 ## Background
 

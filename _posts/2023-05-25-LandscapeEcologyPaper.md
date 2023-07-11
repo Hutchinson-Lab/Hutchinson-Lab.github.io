@@ -5,11 +5,11 @@ permalink: /posts/2023/05/A_comparison_of_remotely_sensed_environmetnal_predicto
 tags:
   - species distribution models
   - remote sensing
-  - landsat
+  - Landsat
   - Oregon 2020 Project
 ---
 
-There are many options when establishing environmntal variables from satellite imagery. First, one must select a satellite dataset (e.g., Landsat, MODIS, Sentinel). Second is deciding how to summarize the data (i.e., how to turn satellite imagery into input feature vectors). With the many satellite imagery datasets and methods of summarization, there is an open question of which environmental variables are best suited for SDMs. To help address this question, we compared the predictive power of several sets of environmental variables derived from Landsat satellite imagery in predicting 13 bird species across the state of Oregon, USA. This work was done in collaboration with the [Oregon 2020 Project](https://oregon2020.com/) and was published in [Landscape Ecology]https://link.springer.com/article/10.1007/s10980-022-01406-y). 
+There are many options when establishing environmntal variables from satellite imagery. First, one must select a satellite dataset (e.g., Landsat, MODIS, Sentinel). Second is deciding how to summarize the data (i.e., how to turn satellite imagery into input feature vectors). With the many satellite imagery datasets and methods of summarization, there is an open question of which environmental variables are best suited for SDMs. To help address this question, we compared the predictive power of several sets of environmental variables derived from Landsat satellite imagery in predicting 13 bird species across the state of Oregon, USA. This work was done in collaboration with the [Oregon 2020 Project](https://oregon2020.com/) and was published in [Landscape Ecology](https://link.springer.com/article/10.1007/s10980-022-01406-y). 
 
 ## Background
 
@@ -21,7 +21,7 @@ Our primary objectives were to:
 1. Identify which of the spectral bands, indices, or transformations of spectral bands consistently informed the highest performing SDMs across several bird species
 2. Examine whether data from additional seasons improved SDM performance
 3. Explore whether standard deviations or textural metrics improved SDM performance
-To answer the above questions, we modeled 13 bird species in the state of Oregon with different spectral predictor sets (i.e., sets of input variables).
+To answer the above questions, we modeled 13 bird species in the state of Oregon with different spectral predictor sets (i.e., sets of input variables)
 
 ### Spectral predictor sets
 We developed spectral predictor sets based on previous SDM studies. Specifically, we analyzed the multispectral bands, their associated Tasseled Cap transformations, and eight single-valued indices derived from the spectral bands: NDMI, NDVI, NBR, NBR2, EVI, SAVI, MSAVI, NDSI. We computed the mean,
@@ -36,6 +36,11 @@ balanced random forests to address the high class imbalance (significantly more 
 
 ### Evaluation
 We split data into spatial blocks to address potential spatial autocorrelation and then evaluated models with 10-fold cross validation. We used area under the receiver operating characteristic curve (AUC) and computed 95% DeLong confidence intervals to evaluate model performance.
+
+<figure>
+    <img src="/images/LE _Fig1.png>
+    <figcaption>Figure 1. **Mean AUCs of the spectral predictor sets for each of the summary methods averaged across all 13 species. Black dots indicate outliers that fall outside the whiskers of the box plots.**</figcaption>
+</figure>
 
 ## Results
 **Objective 1: Raw bands consistently informed the highest performing SDMs.** The raw bands was the top performing predictor set, with a mean AUC of 0.8990 (Figure 1 - Summer means). The next highest performing spectral predictor set, the Tasseled Cap transformation, did not statistically differ in performance from the raw bands (p-value = 0.9989, Nemenyi post-hoc Friedman). The highest performing index was NDVI which exhibited moderate evidence of being statistically different from the raw bands (p-value = 0.0709, Nemenyi post-hoc Friedman) with a mean AUC of 0.08485.

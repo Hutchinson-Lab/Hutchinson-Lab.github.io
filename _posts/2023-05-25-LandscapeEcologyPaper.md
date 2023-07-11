@@ -37,6 +37,8 @@ balanced random forests to address the high class imbalance (significantly more 
 ### Evaluation
 We split data into spatial blocks to address potential spatial autocorrelation and then evaluated models with 10-fold cross validation. We used area under the receiver operating characteristic curve (AUC) and computed 95% DeLong confidence intervals to evaluate model performance.
 
+    <img src="../images/clusterMap.png">
+
 <figure>
     <img src="../images/LE_Fig1.png>
     <figcaption>Figure 1. Mean AUCs of the spectral predictor sets for each of the summary methods averaged across all 13 species. Black dots indicate outliers that fall outside the whiskers of the box plots.</figcaption>

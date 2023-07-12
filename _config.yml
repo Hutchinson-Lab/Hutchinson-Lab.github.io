@@ -82,7 +82,7 @@ analytics:
 author:
 #  name             : "Hutchinson Lab"
   avatar           : "profile.png"
-  bio              : "Welcome! We are a team of scholars interested in developing and applying machine learning methodology in service of ecology and conservation."
+  bio              : "Welcome! We are a team of scholars developing and applying machine learning methodology in service of ecology and conservation."
   location         : "Corvallis, OR"
   employer         : "Oregon State University"
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

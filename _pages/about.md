@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for visiting the ML QuESt Lab! We are a team of scholars interested in developing and applying machine learning methodology in service of ecology and conservation.
+Thanks for visiting the ML QuESt Lab! We are a team of scholars developing and applying machine learning methodology in service of ecology and conservation.
 
 News
 ======

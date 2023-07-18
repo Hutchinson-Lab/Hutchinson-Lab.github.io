@@ -119,6 +119,18 @@ redirect_from:
 
 ## Alumni
 <hr>
+### Chelsea Li, BS 2023
+<div class="person">
+  <div class="person-header"><img src="../images/profiles/CL.png">
+    <p>
+  <a href="https://www.linkedin.com/in/chelsea-li-86b6b5188/">LinkedIn</a><br>
+     </p>
+  </div>
+  <div class="bio-text">
+  Chelsea graduated with a bachelor's degree in Computer Science from Oregon State University in 2023, with a focus on web and mobile application development. During her first year as an undergraduate research assistant at the ML QuESt Lab, she worked on hyperparameter tuning methods and evaluation metrics. Later on, Chelsea interned at Lucidyne Technologies, Inc., where she worked on computer vision applications; Amazon AWS Elemental, where she focused on computer networks and broadcasting services; and Microsoft, where she contributed to containerization methods and data ingestion for Bing's backend processes. After graduating, she accepted a software engineering position at Microsoft's Bing department.
+  </div>
+</div>
+
 ### Mark Roth, MS 2021
 <div class="person">
   <div class="person-header"><img src="../images/profiles/MR.png">

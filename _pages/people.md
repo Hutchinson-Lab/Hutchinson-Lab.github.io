@@ -121,7 +121,7 @@ redirect_from:
 <hr>
 ### Chelsea Li, BS 2023
 <div class="person">
-  <div class="person-header"><img src="../images/profiles/CL.png">
+  <div class="person-header"><img src="../images/profiles/CL.jpg">
     <p>
   <a href="https://www.linkedin.com/in/chelsea-li-86b6b5188/">LinkedIn</a><br>
      </p>

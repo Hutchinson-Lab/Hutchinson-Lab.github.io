@@ -1,7 +1,7 @@
 ---
 title: 'A comparison of remotely sensed environmental predictors for SDMs'
 date: 2023-05-25
-permalink: /posts/2023-05-A_comparison_of_remotely_sensed_environmetnal_predictors_for_SDMs/
+permalink: /posts/2023/05/A_comparison_of_remotely_sensed_environmetnal_predictors_for_SDMs/
 tags:
   - species distribution models
   - remote sensing
@@ -37,7 +37,7 @@ balanced random forests to address the high class imbalance (significantly more 
 ### Evaluation
 We split data into spatial blocks to address potential spatial autocorrelation and then evaluated models with 10-fold cross validation. We used area under the receiver operating characteristic curve (AUC) and computed 95% DeLong confidence intervals to evaluate model performance.
 
-<img src="../images/LE_Fig1.png">
+<img src="/images/LE_Fig1.png">
 
 ## Results
 **Objective 1: Raw bands consistently informed the highest performing SDMs.** The raw bands was the top performing predictor set, with a mean AUC of 0.8990 (Figure 1 - Summer means). The next highest performing spectral predictor set, the Tasseled Cap transformation, did not statistically differ in performance from the raw bands (p-value = 0.9989, Nemenyi post-hoc Friedman). The highest performing index was NDVI which exhibited moderate evidence of being statistically different from the raw bands (p-value = 0.0709, Nemenyi post-hoc Friedman) with a mean AUC of 0.08485.

@@ -41,6 +41,9 @@ We split data into spatial blocks to address potential spatial autocorrelation a
 <p align="center">
   <img src="/images/LE_Fig1.png" width="75%" height="75%" />
 </p>
+<p align = "center">
+Fig.1 - **Mean AUCs of the spectral predictor sets for each of the summary methods averaged across all 13 species.** Black dots indicate outliers that fall outside the whiskers of the box plots.
+</p>
 
 **Objective 1: Raw bands consistently informed the highest performing SDMs.** The raw bands was the top performing predictor set, with a mean AUC of 0.8990 (Figure 1 - Summer means). The next highest performing spectral predictor set, the Tasseled Cap transformation, did not statistically differ in performance from the raw bands (p-value = 0.9989, Nemenyi post-hoc Friedman). The highest performing index was NDVI which exhibited moderate evidence of being statistically different from the raw bands (p-value = 0.0709, Nemenyi post-hoc Friedman) with a mean AUC of 0.08485.
 

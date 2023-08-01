@@ -38,7 +38,7 @@ redirect_from:
   }
 </style>
   
-### PI: Rebecca Hutchinson
+### Rebecca Hutchinson
 <div class="person">
   <div class="person-header">
     <img src="../images/profiles/HutchinsonPhoto.jpg">

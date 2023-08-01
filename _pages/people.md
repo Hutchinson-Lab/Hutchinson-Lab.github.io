@@ -166,6 +166,15 @@ redirect_from:
  </div>
 </div>
 
+### Justin Clarke, BS 2019
+<div class="person">
+  <div class="person-header"><img src="../images/profiles/JC.png">
+  </div>
+  <div class="bio-text">
+  Justin Clarke earned his BS in computer science from Oregon State University with a focus on modeling interactions between species in ecological networks. He later interned at NASA’s Ames Research Center where he developed methods to explain decisions made by deep neural networks in UAV navigation. Justin went on to continue his education as an MS/PhD student in computer science at the University of Massachusetts, Amherst, with research focuses on causal inference, explainability, and generalization. 
+ </div>
+</div>
+
 ### Liqiang He, MS 2017
 <img src="../images/profiles/LHe.png" >
 

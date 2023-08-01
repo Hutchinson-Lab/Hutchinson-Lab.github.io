@@ -106,7 +106,7 @@ redirect_from:
     <img src="../images/profiles/andrew.png">
   </div>
   <div class="bio-text">
-    Andrew is a MS and PhD student in Computer Science researching machine learning for forecasting and anomaly detection problems. He takes inspiration from ecology and sustainability applications to develop novel learning models, with a particular interest in problems across space and time. He is a team member of both the <a href="https://agaid.org/">Agriculture for AI (AgAID) Institute</a> and of the <a href="https://www.ppicenter.org/">Pervasive Personalized Intelligence (PPI) Center</a>. Previously, he earned a BS in Computer Science and Mathematics at Roanoke College, where he also worked as a web developer.
+    Andrew is a MS and PhD student in Computer Science researching machine learning for forecasting and anomaly detection problems. He takes inspiration from ecology and sustainability applications to develop novel learning models, with a particular interest in problems across space and time. Co-advised by <a href="https://web.engr.oregonstate.edu/~wongwe/">Weng-Keen Wong</a>, Andrew is a team member of both the <a href="https://agaid.org/">Agriculture for AI (AgAID) Institute</a> and of the <a href="https://www.ppicenter.org/">Pervasive Personalized Intelligence (PPI) Center</a>. Previously, he earned a BS in Computer Science and Mathematics at Roanoke College, where he also worked as a web developer.
   </div>
 </div>
 

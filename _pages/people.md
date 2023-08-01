@@ -59,7 +59,7 @@ redirect_from:
 
 
 ## Current Students
-
+<hr>
 ### Laurel Hopkins, MS 2018
 <div class="person">
   <div class="person-header">

@@ -38,7 +38,7 @@ redirect_from:
   }
 </style>
   
-### Rebecca Hutchinson
+### PI: Rebecca Hutchinson
 <div class="person">
   <div class="person-header">
     <img src="../images/profiles/HutchinsonPhoto.jpg">
@@ -56,6 +56,9 @@ redirect_from:
     Prior to that, she completed her PhD at <a href="https://csd.cmu.edu/">Carnegie Mellon University</a> with <a href="http://www.cs.cmu.edu/~tom/">Tom Mitchell</a>.
   </div>  
 </div>
+
+
+## Current Students
 
 ### Laurel Hopkins, MS 2018
 <div class="person">

@@ -24,7 +24,12 @@ Here we use Alaskan Birds Dataset to demonstrate the performance of various CV m
 
 This dataset records observations of 15 bird species across three national parks in Alaska, USA. These surveys were conducted during May-June, 2004-2006 in Katmai National Park and Preserve (KATM) and Lake Clark National Park and Preserve (LACL), and during May-June, 2008 in Aniakchak National Monument and Preserve (ANIA). The features are the proportions of eight land cover classes: water, wetland (wetland vegetation), shrub (shrub vegetation), dshrub (dwarf shrub or herbaceous vegetation), dec (deciduous forest), mixed (mixed deciduous and evergreen forest), spruce (evergreen forest), baresnow (bareground or perennial ice and snow) within a 50-m or 150-m radius circular area around each survey site. We set up a balanced binary classification task for the most prevalent bird species, Golden-crowned Sparrow (GCSP). The training set consists of 710 data points (355 non-detections and 355 detections) collected from KATM and LACL in 2004-2006. The test set contains 134 data points (67 non-detections and 67 detections) collected from ANIA in 2008. 
 
-![image](https://github.com/Hutchinson-Lab/Hutchinson-Lab.github.io/assets/17716760/422cc66d-d90e-4eec-a9f7-8826049ce8eb)
+<p align="center">
+  <img src="https://github.com/Hutchinson-Lab/Hutchinson-Lab.github.io/assets/17716760/422cc66d-d90e-4eec-a9f7-8826049ce8eb" width="50%" height="50%" />
+</p>
+<p align = "center">
+Fig.1 - .
+</p>
 
 To be continued...
 

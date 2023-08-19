@@ -28,8 +28,21 @@ This dataset records observations of 15 bird species across three national parks
   <img src="https://github.com/Hutchinson-Lab/Hutchinson-Lab.github.io/assets/17716760/422cc66d-d90e-4eec-a9f7-8826049ce8eb" width="50%" height="50%" />
 </p>
 <p align = "center">
-Fig.1 - .
+Fig.1 Alaskan Birds Dataset: training samples are from Katmai and Lake Clark, and test samples are from Aniakchak. Each red point represents a data point.
 </p>
+
+We explore five classification models for each SDM: Ridge classifier (Ridge), Linear SVM (LSVM), K-Nearest Neighbors (KNN), Random Forest (RF), and Naive Bayes (NB),
+and compare their test errors with the CV error estimates. We set the hyperparameters block size and buffer size equal to the maximal semivariogram range 0.82 degree.
+
+<p align="center">Table 1: test error (targets) and 10-fold CV estimates (best estimates in each column in bold).</p>
+
+| Model        | Test error    | KFCV   | IWCV       | BLCV       | BFCV       |
+|--------------|-----------|------------|------------|------------|------------|
+| Ridge         | 0.1866   | 0.3225       |**0.2526**    |0.2777      |0.2881      |
+| LSVM         | 0.1866    | 0.3211       |**0.2488**     |0.2723    |0.2791        |
+| KNN            | 0.3284  | 0.3113       |0.2780      |0.3030    |**0.3251**    |
+| RF             | 0.3657  | 0.3169       |0.2911      |0.3176    |**0.3343**   |
+| NB             | 0.4030  | 0.3521       |0.2938    |0.3230      |**0.3597**     |
 
 To be continued...
 

@@ -22,19 +22,19 @@ Cross-validation methods to account for covariate shift have been developed in n
 Do these exsiting CV methods provide accurate predictions on model errors? As a motivating example, when considering whether to translocate a threatened species to a currently unoccupied region, natural resource managers may need to construct a species distribution model (SDM) with data from a currently occupied region and predict habitat suitability in the new area.
 Here we use Alaskan Birds Dataset to demonstrate the performance of various CV methods in model evaluation. 
 
-This dataset records observations of 15 bird species across three national parks in Alaska, USA. These surveys were conducted during May-June, 2004-2006 in Katmai National Park and Preserve (KATM) and Lake Clark National Park and Preserve (LACL), and during May-June, 2008 in Aniakchak National Monument and Preserve (ANIA). The features are the proportions of eight land cover classes: water, wetland (wetland vegetation), shrub (shrub vegetation), dshrub (dwarf shrub or herbaceous vegetation), dec (deciduous forest), mixed (mixed deciduous and evergreen forest), spruce (evergreen forest), baresnow (bareground or perennial ice and snow) within a 50-m or 150-m radius circular area around each survey site. We set up a balanced binary classification task for the most prevalent bird species, Golden-crowned Sparrow (GCSP). The training set consists of 710 data points (355 non-detections and 355 detections) collected from KATM and LACL in 2004-2006. The test set contains 134 data points (67 non-detections and 67 detections) collected from ANIA in 2008. 
+This dataset records observations of 15 bird species across three national parks in Alaska, USA. These surveys were conducted during May-June, 2004-2006 in Katmai National Park and Preserve (KATM) and Lake Clark National Park and Preserve (LACL), and during May-June, 2008 in Aniakchak National Monument and Preserve (ANIA). The features are the proportions of eight land cover classes: water, wetland (wetland vegetation), shrub (shrub vegetation), dshrub (dwarf shrub or herbaceous vegetation), dec (deciduous forest), mixed (mixed deciduous and evergreen forest), spruce (evergreen forest), baresnow (bareground or perennial ice and snow) within a 50-m or 150-m radius circular area around each survey site. We set up a balanced binary classification task for the most prevalent bird species, Golden-crowned Sparrow (GCSP). The training set consists of 710 data points (355 non-detections and 355 detections) collected from KATM and LACL in 2004-2006. The test set contains 134 data points (67 non-detections and 67 detections) collected from ANIA in 2008 (Figure 1). 
 
 <p align="center">
   <img src="https://github.com/Hutchinson-Lab/Hutchinson-Lab.github.io/assets/17716760/422cc66d-d90e-4eec-a9f7-8826049ce8eb" width="50%" height="50%" />
 </p>
 <p align = "center">
-Fig.1 Alaskan Birds Dataset: training samples are from Katmai and Lake Clark, and test samples are from Aniakchak. Each red point represents a data point.
+Figure 1: Alaskan Birds Dataset. Training samples are from Katmai and Lake Clark, and test samples are from Aniakchak. Each red point represents a data point.
 </p>
 
 We explore five classification models for each SDM: Ridge classifier (Ridge), Linear SVM (LSVM), K-Nearest Neighbors (KNN), Random Forest (RF), and Naive Bayes (NB),
-and compare their test errors with the CV error estimates. We set the hyperparameters block size and buffer size equal to the maximal semivariogram range 0.82 degree.
+and compare their test errors with the CV error estimates (Table 1).
 
-<p align="center">Table 1: test error (targets) and 10-fold CV estimates (best estimates in each column in bold).</p>
+<p align="center">Table 1: Test errors (targets) and 10-fold CV estimates (best estimates in each column in bold).</p>
 
 | Model        | Test error    | KFCV   | IWCV       | BLCV       | BFCV       |
 |--------------|-----------|------------|------------|------------|------------|

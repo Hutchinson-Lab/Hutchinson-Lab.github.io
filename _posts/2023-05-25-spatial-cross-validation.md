@@ -31,8 +31,8 @@ This dataset records observations of 15 bird species across three national parks
 Figure 1: Alaskan Birds Dataset. Training samples are from Katmai and Lake Clark, and test samples are from Aniakchak. Each red point represents a data point.
 </p>
 
-We explore five classification models: Ridge classifier (Ridge), Linear SVM (LSVM), K-Nearest Neighbors (KNN), Random Forest (RF), and Naive Bayes (NB),
-and compare their test errors with the CV error estimates (Table 1).
+We explored five classification models: Ridge classifier (Ridge), Linear SVM (LSVM), K-Nearest Neighbors (KNN), Random Forest (RF), and Naive Bayes (NB),
+and compared their test errors with the CV error estimates (Table 1).
 
 <p align="center">Table 1: Test errors (targets) and 10-fold CV estimates (best estimates in each column in bold).</p>
 
@@ -44,8 +44,7 @@ and compare their test errors with the CV error estimates (Table 1).
 | RF             | 0.3657  | 0.3169       |0.2911      |0.3176    |**0.3343**   |
 | NB             | 0.4030  | 0.3521       |0.2938    |0.3230      |**0.3597**     |
 
-## Discussions
-KFCV always poor and other better potential CVs?
+We found that KFCV never produced the closest model error estimates because the features are spatially autocorrelated and training and test distributions present covariate shift. The non-standard CV methods generated the best estimates but still have some potential improvements on making a more accurate estimate. How to improve the exsiting CV methods? We were also wondering in which cases these non-standard CV methods perform best?
 
 ### References
 1. Roberts, David R., et al. "Cross‐validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure." Ecography 40.8 (2017): 913-929.

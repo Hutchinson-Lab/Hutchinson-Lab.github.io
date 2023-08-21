@@ -46,6 +46,10 @@ and compared their test errors with the CV error estimates (Table 1).
 
 We found that KFCV never produced the closest model error estimates because the features are spatially autocorrelated and training and test distributions present covariate shift. The non-standard CV methods generated the best estimates but still have some potential improvements on making a more accurate estimate. How to improve the exsiting CV methods? We were also wondering in which cases these non-standard CV methods perform best?
 
+## Our work
+To address the above questions, our paper _"[Cross-validation for Geospatial Data: Estimating Generalization Performance in Geostatistical Problems](https://openreview.net/forum?id=VgJhYu7FmQ&referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR))"_ created a framework to sort out geospatial datasets into four scenarios and suggested the best CV method for each one. We demonstrated them in simulation and real dataset experiments. We also developed a new CV algorithem Importance Weighted Buffered Cross-Validation (IBCV) which performs best when training and test sets present spatial independce and covariate shift properties at the same time. Theoretically，we proved a criterion for unbiased cross-validation and IBCV is unbiased.
+
+
 ### References
 1. Roberts, David R., et al. "Cross‐validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure." Ecography 40.8 (2017): 913-929.
 2. Pohjankukka, Jonne, et al. "Estimating the prediction performance of spatial models via spatial k-fold cross validation." International Journal of Geographical Information Science 31.10 (2017): 2001-2019.

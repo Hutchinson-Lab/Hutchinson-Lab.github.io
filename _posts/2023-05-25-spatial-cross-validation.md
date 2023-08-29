@@ -18,10 +18,10 @@ Covariate shift arises when feature distribution of the training set is differen
 A few cross-validation procedures have been developed to address the two above properties (Figure 1). Blocking cross-validation (BLCV) groups geographically proximal points into the same block. Buffered cross-validation (BFCV) places a buffer between training and validation folds and removes points within the buffer so that they are used in neither set. These spatial strategies have been implemented in some software packages, e.g., [sperrorest](https://cran.r-project.org/web/packages/sperrorest/), [ENMeval](https://cran.r-project.org/web/packages/ENMeval/), and [blockCV](https://cran.r-project.org/web/packages/blockCV/). 
 Cross-validation methods to account for covariate shift have been developed in non-spatial settings, most notably including importance-weighted cross-validation ([IWCV](https://www.statistik.tu-dortmund.de/~wornowiz/RuLSIF.txt)), which rectifies the loss function with the ratio between the test and training probability densities. 
 <p align="center">
-<img width="670" alt="image" src="https://github.com/Hutchinson-Lab/Hutchinson-Lab.github.io/assets/17716760/00b21c2b-9a59-4a32-83cc-4a90816194a9">
+<img width="720" alt="image" src="https://github.com/Hutchinson-Lab/Hutchinson-Lab.github.io/assets/17716760/6fa64cb0-3460-41a6-8b75-41a62c05547d">
 </p>
 <p align="center">
-Figure 1: Visualization of how different CV methods split 1800 training data points on a $60 \times 60$ landscape into 9 folds. (a) Each color represents a fold. (b) An example of BLCV with block size of 12 grid cells, each assigned to one of the 9 folds. (c) BFCV and IBCV were based on a grid with 20x20 cells. This example shows fold 5 as the validation fold, where training samples in its surrounding buffer region (buffer size = 12) have been removed.
+Figure 1: Visualization of how different CV methods split 1800 training data points on a $60 \times 60$ landscape into 9 folds. (a) Each color represents a fold. (b) An example of BLCV with block size of 12 grid cells, each assigned to one of the 9 folds. (c) BFCV was based on a grid with 20x20 cells. This example shows fold 5 as the validation fold, where training samples in its surrounding buffer region (buffer size = 12) have been removed.
 </p>
 
 ## Motivating Example
@@ -53,12 +53,17 @@ and compared their test errors with the CV error estimates (Table 1).
 In this scenario where the features are spatially autocorrelated and the training and test distributions present covariate shift, we found that KFCV never produced the closest model error estimates. The non-standard CV methods generated the best estimates but still show room for improvement. We wondered: How can we get generalization performances estimates from cross-validation that match the true test errors more closely? When is it appropriate to use these different types of cross-validation?
 
 ## Our work
-To address these questions, our paper _"[Cross-validation for Geospatial Data: Estimating Generalization Performance in Geostatistical Problems](https://openreview.net/forum?id=VgJhYu7FmQ&referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR))"_ created a framework to sort geospatial datasets into four scenarios that would help practitioners choose an appropriate CV approach. We demonstrated them with experiments on simulated and real datasets. We also developed a new CV algorithm called Importance Weighted Buffered Cross-Validation (IBCV) which generally outperforms the existing CV methods when training and test sets present spatial independence and covariate shift at the same time (Table 2). Theoretically，we proved a criterion for unbiased cross-validation and the unbiasedness of IBCV.
+To address these questions, our paper _"[Cross-validation for Geospatial Data: Estimating Generalization Performance in Geostatistical Problems](https://openreview.net/forum?id=VgJhYu7FmQ&referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR))"_ created a framework to sort geospatial datasets into four scenarios that would help practitioners choose an appropriate CV approach. We demonstrated them with experiments on simulated and real datasets. We also developed a new CV algorithm called Importance Weighted Buffered Cross-Validation (IBCV) which makes improvements sometimes on the existing CV methods when training and test sets present spatial independence and covariate shift at the same time (Table 2). Theoretically，we proved a criterion for unbiased cross-validation and the unbiasedness of IBCV.
 
-<p align="center">Table 2: Test errors (targets) and 10-fold CV estimates (best estimates in each column in bold). BLCV-best, BFCV-best and IBCV-best estimates are selected from the best ones from a peak-to-peak comparison. BLCV-range, BFCV-range, and IBCV-range set the hyperparameters based on the range of spatial autocorrelation in the features. A dash line means setting the tuning parameters based on the range gives the best value (i.e., the methods are equivalent). </p>
-<p align="center">
-  <img width="670" alt="image" src="https://github.com/Hutchinson-Lab/Hutchinson-Lab.github.io/assets/17716760/33c83ccd-bbd5-40d5-81a6-ec0e99153344">
-</p>
+<p align="center">Table 2: Test errors (targets) and 10-fold CV estimates (best estimates in each column in bold). </p>
+
+| Model        | Test error    | KFCV   | IWCV       | BLCV       | BFCV       | IBCV |
+|--------------|-----------|------------|------------|------------|------------| ------------|
+| Ridge         | 0.1866   | 0.3225       |0.2526   |0.2777      |0.2881      | **0.2374**|
+| LSVM         | 0.1866    | 0.3211       |0.2488    |0.2723    |0.2791        |**0.2244**|
+| KNN            | 0.3284  | 0.3113       |0.2780      |0.3030    |**0.3251**    |0.2542|
+| RF             | 0.3657  | 0.3169       |0.2911      |0.3176    |**0.3343**   |0.2998|
+| NB             | 0.4030  | 0.3521       |0.2938    |0.3230      |**0.3597**     |0.2748|
 
 
 ### References

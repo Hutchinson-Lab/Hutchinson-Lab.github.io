@@ -1,7 +1,7 @@
 ---
 title: 'How to Evaluate ML Models in Geospatial Settings?'
 date: 2023-09-18
-permalink: /posts/2023/05/spatial_cross_validation/
+permalink: /posts/2023/09/spatial_cross_validation/
 tags:
   - spatial autocorrelation
   - covariate shift

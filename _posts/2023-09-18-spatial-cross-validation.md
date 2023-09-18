@@ -8,10 +8,11 @@ tags:
   - geospatial
   - cross-validation
 ---
-## Introduction
+
 Standard K-fold Cross-validation (KFCV) randomly divides a training set into K non-overlapping folds and iteratively holds out one fold at a time, training a model on the remainder (i.e., training folds) and measuring error on the held-out fold (i.e., validation fold). The average of these model errors across folds is the estimate of generalization performance for an unseen test set.
 KFCV provides unbiased performance estimates when applied to independent, identically distributed (iid) data. But does it also work well on geospatial data?
 
+## Background
 Geospatial learning problems are frequently characterized by spatial autocorrelation in the input features and the potential for covariate shift at test time. These realities violate the iid assumption. **Spatial autocorrelation** is a key concept in geostatistics which describes the spatial variation of a feature. In most cases, spatial autocorrelation is positive as nearby areas or sites tend to have similar feature values. For example, the precipitation of your city is more similar to that of the neighboring city than that of another city far away. **Covariate shift** is one kind of data shift that may occur in geospatial analyses. Data shift refers to any circumstance in which the joint distribution of features and responses differs between the training and test sets.
 Covariate shift arises when feature distribution of the training set is different from that of the test set, while the functional relationship of the features to the response variable remains the same. 
 

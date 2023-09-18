@@ -72,3 +72,4 @@ To address these questions, our paper _"[Cross-validation for Geospatial Data: E
 2. Pohjankukka, Jonne, et al. "Estimating the prediction performance of spatial models via spatial k-fold cross validation." International Journal of Geographical Information Science 31.10 (2017): 2001-2019.
 3. Sugiyama, Masashi, Matthias Krauledat, and Klaus-Robert Müller. "Covariate shift adaptation by importance weighted cross validation." Journal of Machine Learning Research 8.5 (2007).
 4. Amundson, Courtney L., et al. "Montane-breeding bird distribution and abundance across national parks of southwestern Alaska." Journal of Fish and Wildlife Management 9.1 (2018): 180-207.
+

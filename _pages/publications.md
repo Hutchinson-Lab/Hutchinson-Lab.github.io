@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+**Wang, J.**, **Hopkins, L.M.**, Hallman, T.A., Robinson, W.D., **Hutchinson, R.A.** (2023). <br>
+[Cross-validation for Geospatial Data: Estimating Generalization Performance in Geostatistical Problems](https://openreview.net/forum?id=VgJhYu7FmQ). <br>
+*Transactions in Machine Learning Research (TMLR)*, in press. <br>
+[(pdf)](http://Hutchinson-Lab.github.io/files/wang2023.pdf) [(code)](https://github.com/Hutchinson-Lab/Cross-validation-for-Geospatial-Data) <br>
+
 Prudic, K.L., Zylstra E.R., Melkonoff N.A., Laura, R.E., **Hutchinson, R.A.** (2023).<br>
 [Community scientists produce open data for understanding insects and climate change](https://doi.org/10.1016/j.cois.2023.101081).<br>
 *Current Opinion in Insect Science*, in press.<br>

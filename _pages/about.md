@@ -12,6 +12,8 @@ Thanks for visiting the ML QuESt Lab! We are a team of scholars developing and a
 
 News
 ======
+September 2023: New [paper](https://openreview.net/forum?id=VgJhYu7FmQ) out! Jing has been working hard on this one, and it's great to see it officially published. This is the beginning of our investigation into model evaluation in geospatial contexts. We learned a lot and will be continuing this line of research!
+
 May 2022: Rebecca Hutchinson was promoted to Associate Professor with indefinite tenure. Rebecca will be on sabbatical for the 2022/2023 academic year.
 
 February 2022: Our [paper](https://link.springer.com/article/10.1007/s10980-022-01406-y), led by Laurel Hopkins, has been published in Landscape Ecology.  

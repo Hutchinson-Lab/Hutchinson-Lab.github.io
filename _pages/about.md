@@ -12,6 +12,8 @@ Thanks for visiting the ML QuESt Lab! We are a team of scholars developing and a
 
 News
 ======
+November 2023: Our work on model evaluation has also been accepted at the [2023 NeurIPS Workshop on Computational Sustainability: Pitfalls and Promises from Theory to Deployment](https://www.compsust.net/compsust-2023/). This [5-page paper](http://Hutchinson-Lab.github.io/files/wang2023neuripsWksp.pdf) is an extended abstract of the 25-page TMLR paper. We are pleased that our submission was selected as one of four spotlight talks, and Jing will present at the workshop in December!
+
 September 2023: New [paper](https://openreview.net/forum?id=VgJhYu7FmQ) out! Jing Wang has been working hard on this one, and it's great to see it officially published. This is the beginning of our investigation into model evaluation in geospatial contexts. We learned a lot and will be continuing this line of research!
 
 May 2022: Rebecca Hutchinson was promoted to Associate Professor with indefinite tenure. Rebecca will be on sabbatical for the 2022/2023 academic year.

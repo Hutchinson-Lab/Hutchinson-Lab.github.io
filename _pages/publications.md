@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+**Wang, J.**, Hallman, T.A., **Hopkins, L.M.**, Kilbride, J.B., Robinson, W.D., **Hutchinson, R.A.** (2023). <br>
+Model Evaluation for Geospatial Problems. <br>
+*2023 NeurIPS Workshop on Computational Sustainability: Pitfalls and Promises from Theory to Deployment*. <br>
+[(pdf)](http://Hutchinson-Lab.github.io/files/wang2023neuripsWksp.pdf)
+***Selected for a spotlight talk***<br> 
+
 **Wang, J.**, **Hopkins, L.M.**, Hallman, T.A., Robinson, W.D., **Hutchinson, R.A.** (2023). <br>
 [Cross-validation for Geospatial Data: Estimating Generalization Performance in Geostatistical Problems](https://openreview.net/forum?id=VgJhYu7FmQ). <br>
 *Transactions in Machine Learning Research (TMLR)*, in press. <br>

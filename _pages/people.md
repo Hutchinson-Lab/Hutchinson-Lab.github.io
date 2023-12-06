@@ -130,7 +130,7 @@ redirect_from:
   </div>
 </div>
 
-### Fiona Stanley Jothiraj
+### Fiona Victoria
 <div class="person">
   <div class="person-header">
     <img src="../images/profiles/Fiona_photo.jpg">

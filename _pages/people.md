@@ -214,7 +214,14 @@ redirect_from:
 </div>
 
 ### Liqiang He, MS 2017
-<img src="../images/profiles/LHe.png" >
+<div class="person">
+  <div class="person-header"><img src="../images/profiles/LHe.png">
+  </div>
+  <div class="bio-text">
+  Liqiang earned an MS in computer science, working on connections between statistical models in ecology and class-conditional noise frameworks in machine learning. He continued on to pursue a PhD from Oregon State University as well, focusing on computer vision.  
+ </div>
+ 
+</div>
 
 ## Honorary Members
 <hr>

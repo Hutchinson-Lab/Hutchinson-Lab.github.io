@@ -120,6 +120,36 @@ redirect_from:
   </div>
 </div>
 
+### Annabel Wang
+<div class="person">
+  <div class="person-header">
+    <img src="../images/bio-photo.jpg">
+  </div>
+  <div class="bio-text">
+  Bio coming soon!
+  </div>
+</div>
+
+### Fiona Stanley Jothiraj
+<div class="person">
+  <div class="person-header">
+    <img src="../images/bio-photo.jpg">
+  </div>
+  <div class="bio-text">
+  Bio coming soon!
+  </div>
+</div>
+
+### Sara Rose
+<div class="person">
+  <div class="person-header">
+    <img src="../images/bio-photo.jpg">
+  </div>
+  <div class="bio-text">
+  Bio coming soon!
+  </div>
+</div>
+
 ## Alumni
 <hr>
 ### Chelsea Li, BS 2023

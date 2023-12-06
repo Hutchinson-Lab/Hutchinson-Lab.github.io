@@ -148,10 +148,13 @@ redirect_from:
 ### Sara Rose
 <div class="person">
   <div class="person-header">
-    <img src="../images/bio-photo.jpg">
+    <img src="../images/SaraRose.jpg">
+    <p>
+       <a href="https://www.linkedin.com/in/sara-rose-863424159/">LinkedIn</a><br>
+       </p>
   </div>
   <div class="bio-text">
-  Bio coming soon!
+  Sara is a master's student in the Wildlife Science program, developing an occupancy model for rare desert bats using a hybrid monitoring approach that incorporates citizen science and professional surveys at a regional scale.  She is co-advised with [Katie Dugger](https://fwcs.oregonstate.edu/users/katie-dugger). Sara received her BS from Oregon State University - Cascades in natural resources fish and wildlife conservation. She serves as a project coordinator at the [Northwest Bat Hub](https://osucascades.edu/HERS/northwest-bat-hub) on the OSU Cascades campus. In addition to her work with the bat monitoring, she has completed wildlife research internships with the Deschutes National Forest and with Cardiff University at their research center in Malaysia and monitored pygmy rabbits for the Oregon Department of Fish & Wildlife.
   </div>
 </div>
 

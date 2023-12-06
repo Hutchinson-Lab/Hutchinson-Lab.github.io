@@ -133,10 +133,15 @@ redirect_from:
 ### Fiona Stanley Jothiraj
 <div class="person">
   <div class="person-header">
-    <img src="../images/bio-photo.jpg">
+    <img src="../images/profiles/Fiona_photo.jpg">
+    <p>
+        <a href="mailto:stanleyf@oregonstate.edu">Email</a> <br>
+        <a href="https://fionavictoria.github.io/">Github Portfolio</a><br>
+        <a href="https://www.linkedin.com/in/fionavictoria/">LinkedIn</a><br>
+       </p>
   </div>
   <div class="bio-text">
-  Bio coming soon!
+  Fiona is a PhD student in Artificial Intelligence and a recipient of the Provost's Distinguished Graduate Scholarship. She is deeply committed to the cause of researching and building AI/ML systems for social good. Her primary research focus is on the intersection of machine learning and ecology. Prior to this, she obtained her M.S in Computer Science at the University of Washington Bothell and her bachelor’s in Robotics and Automation from PSG College of Technology. She has actively volunteered for a recent social cause using NLP techniques and has worked as a machine learning engineer specializing in building multimodal AI systems and developing quantization techniques for neural networks.
   </div>
 </div>
 

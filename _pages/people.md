@@ -148,7 +148,7 @@ redirect_from:
 ### Sara Rose
 <div class="person">
   <div class="person-header">
-    <img src="../images/SaraRose.jpg">
+    <img src="../images/profiles/SaraRose.jpg">
     <p>
        <a href="https://www.linkedin.com/in/sara-rose-863424159/">LinkedIn</a><br>
        </p>

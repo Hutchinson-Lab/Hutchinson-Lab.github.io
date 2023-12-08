@@ -126,7 +126,7 @@ redirect_from:
     <img src="../images/bio-photo.jpg">
   </div>
   <div class="bio-text">
-  Bio coming soon!
+  Annabel is a second-year undergraduate student at Oregon State University studying computer science, with an interest in bioinformatics. Co-mentored by Nahian and Rebecca, she is excited about entering the world of machine learning and data science, and contributing to sustainable engineering in the future.
   </div>
 </div>
 

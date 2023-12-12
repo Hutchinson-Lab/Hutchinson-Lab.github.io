@@ -123,7 +123,7 @@ redirect_from:
 ### Annabel Wang
 <div class="person">
   <div class="person-header">
-    <img src="../images/bio-photo.jpg">
+    <img src="../images/profiles/AnnabelWang.jpg">
   </div>
   <div class="bio-text">
   Annabel is a second-year undergraduate student at Oregon State University studying computer science, with an interest in bioinformatics. Co-mentored by Nahian and Rebecca, she is excited about entering the world of machine learning and data science, and contributing to sustainable engineering in the future.

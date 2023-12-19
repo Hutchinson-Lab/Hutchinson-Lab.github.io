@@ -207,6 +207,15 @@ redirect_from:
  </div>
 </div>
 
+### Demetrius Hernandez, REU 2021
+<div class="person">
+  <div class="person-header"><img src="../images/profiles/Demetrius Photo.jpg">
+  </div>
+  <div class="bio-text">
+  Demetrius earned a bachelor's degree in Computer Science from The University of Texas at El Paso in 2022. He began his journey with our lab in the summer of 2021 as a Research Experience for Undergraduates (REU) student. As a Department of Defense (DOD) SMART Scholar, he went on to serve his DOD commitment at White Sands Missile Range, where he was honored with the DOD Creative Research & Engineering Advancing Technical Equity in STEM (CREATES) Grant for collaboration with New Mexico State University. 
+ </div>
+</div>
+
 ### Justin Clarke, BS 2019
 <div class="person">
   <div class="person-header"><img src="../images/profiles/JustinClarke.jpg">

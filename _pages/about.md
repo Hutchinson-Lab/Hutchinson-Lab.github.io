@@ -12,6 +12,12 @@ Thanks for visiting the ML QuESt Lab! We are a team of scholars developing and a
 
 News
 ======
+September 2024: Laurel Hopkins successfully defended her PhD dissertation, An Evaluation of Machine Learning Methods for Satellite Imagery-based Sustainability Tasks. 
+
+August 2024: Rebecca Hutchinson has been named one of the [2024 L.L. Stewart Faculty Fellows](https://prax.oregonstate.edu/initiatives/ll-stewart-fellowship/2024-awardees). This program run by the Patricia Valian Reser Center for the Arts (PRAx) pairs scientists with artists in creative partnerships. Rebecca is thrilled to be in conversation with time-based artist [Grisha Coleman](https://www.radcliffe.harvard.edu/people/grisha-coleman).
+
+June 2024: Andrew Droubay successfully defended his MS project. Exploring Virtual Station Prediction Using Metric Learning. Andrew moved on to Deloitte as a software developer. 
+
 November 2023: Our work on model evaluation has also been accepted at the [2023 NeurIPS Workshop on Computational Sustainability: Pitfalls and Promises from Theory to Deployment](https://www.compsust.net/compsust-2023/). This [5-page paper](http://Hutchinson-Lab.github.io/files/wang2023neuripsWksp.pdf) is an extended abstract of the 25-page TMLR paper. We are pleased that our submission was selected as one of four spotlight talks, and Jing will present at the workshop in December!
 
 September 2023: New [paper](https://openreview.net/forum?id=VgJhYu7FmQ) out! Jing Wang has been working hard on this one, and it's great to see it officially published. This is the beginning of our investigation into model evaluation in geospatial contexts. We learned a lot and will be continuing this line of research!

@@ -60,20 +60,6 @@ redirect_from:
 
 ## Current Students
 <hr>
-### Laurel Hopkins, MS 2018
-<div class="person">
-  <div class="person-header">
-    <img src="../images/profiles/laurel.png">
-    <p>
-      <a href="mailto:hopkilau@oregonstate.edu">Email</a> <br>
-      <a href="https://www.linkedin.com/in/laurelhopkins/">LinkedIn</a>
-   </p>
-  </div>
-  <div class="bio-text">
-    Laurel is a PhD student and NASA FINESST (Future Investigators in NASA Earth and Space Science Technology) recipient. Laurel's work is at the intersection of deep  learning, remote sensing, and ecology. She studies deep learning architectures and various remote sensing products (i.e., satellite imagery datasets). She recieved her M.S. in Computer Science from Oregon State and her B.S. in Electrical Engineering from UC Santa Barbara. Between her undergraduate and graduate studies, Laurel worked at a medical device startup where she designed the system electronics.
-  </div>
-</div>
-
 
 ### Jing Wang
 <div class="person">
@@ -89,7 +75,6 @@ redirect_from:
   </div>
 </div>
 
-
 ### Nahian Ahmed
 <div class="person">
   <div class="person-header">
@@ -97,16 +82,6 @@ redirect_from:
   </div>
   <div class="bio-text">
     Nahian is a PhD student of computer science. He studies machine learning, with a focus on evaluation, and applications in computational sustainability. He is interested in intuitive and engaging ways of learning about machine learning.
-  </div>
-</div>
-
-### Andrew Droubay
-<div class="person">
-  <div class="person-header">
-    <img src="../images/profiles/andrew.png">
-  </div>
-  <div class="bio-text">
-    Andrew is an MS student in Computer Science researching machine learning for forecasting and anomaly detection problems. He takes inspiration from ecology and sustainability applications to develop novel learning models, with a particular interest in problems across space and time. Co-advised by <a href="https://web.engr.oregonstate.edu/~wongwe/">Weng-Keen Wong</a>, Andrew is a team member of both the <a href="https://agaid.org/">Agriculture for AI (AgAID) Institute</a> and of the <a href="https://www.ppicenter.org/">Pervasive Personalized Intelligence (PPI) Center</a>. Previously, he earned a BS in Computer Science and Mathematics at Roanoke College, where he also worked as a web developer.
   </div>
 </div>
 
@@ -120,6 +95,7 @@ redirect_from:
   </div>
 </div>
 
+<!--
 ### Annabel Wang
 <div class="person">
   <div class="person-header">
@@ -129,6 +105,7 @@ redirect_from:
   Annabel is a second-year undergraduate student at Oregon State University studying computer science, with an interest in bioinformatics. Co-mentored by Nahian and Rebecca, she is excited about entering the world of machine learning and data science, and contributing to sustainable engineering in the future.
   </div>
 </div>
+-->
 
 ### Fiona Victoria
 <div class="person">
@@ -160,6 +137,31 @@ redirect_from:
 
 ## Alumni
 <hr>
+
+### Laurel Hopkins, MS 2018, PhD 2024
+<div class="person">
+  <div class="person-header">
+    <img src="../images/profiles/laurel.png">
+    <p>
+      <a href="mailto:hopkilau@oregonstate.edu">Email</a> <br>
+      <a href="https://www.linkedin.com/in/laurelhopkins/">LinkedIn</a>
+   </p>
+  </div>
+  <div class="bio-text">
+    Laurel was a PhD student in the MLQuESt Lab and a NASA FINESST (Future Investigators in NASA Earth and Space Science Technology) recipient. Laurel's work involved deep learning, remote sensing, and ecology. She recieved her M.S. in Computer Science from Oregon State and her B.S. in Electrical Engineering from UC Santa Barbara. Between her undergraduate and graduate studies, Laurel worked at a medical device startup where she designed the system electronics.
+  </div>
+</div>
+
+### Andrew Droubay, MS 2024
+<div class="person">
+  <div class="person-header">
+    <img src="../images/profiles/andrew.png">
+  </div>
+  <div class="bio-text">
+    Andrew earned an MS in Computer Science researching machine learning for forecasting and anomaly detection problems. Co-advised by <a href="https://web.engr.oregonstate.edu/~wongwe/">Weng-Keen Wong</a>, Andrew was a team member of both the <a href="https://agaid.org/">Agriculture for AI (AgAID) Institute</a> and of the <a href="https://www.ppicenter.org/">Pervasive Personalized Intelligence (PPI) Center</a>. Previously, he earned a BS in Computer Science and Mathematics at Roanoke College, where he also worked as a web developer. After graduation, Andrew took a position in software development with Deloitte.
+  </div>
+</div>
+
 ### Chelsea Li, BS 2023
 <div class="person">
   <div class="person-header"><img src="../images/profiles/CL.jpg">

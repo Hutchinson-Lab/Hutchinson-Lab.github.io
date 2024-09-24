@@ -16,7 +16,7 @@ September 2024: Laurel Hopkins successfully defended her PhD dissertation, An Ev
 
 August 2024: Rebecca Hutchinson has been named one of the [2024 L.L. Stewart Faculty Fellows](https://prax.oregonstate.edu/initiatives/ll-stewart-fellowship/2024-awardees). This program run by the Patricia Valian Reser Center for the Arts (PRAx) pairs scientists with artists in creative partnerships. Rebecca is thrilled to be in conversation with time-based artist [Grisha Coleman](https://www.radcliffe.harvard.edu/people/grisha-coleman).
 
-June 2024: Andrew Droubay successfully defended his MS project. Exploring Virtual Station Prediction Using Metric Learning. Andrew moved on to Deloitte as a software developer. 
+June 2024: Andrew Droubay successfully defended his MS project, Exploring Virtual Station Prediction Using Metric Learning. Andrew moved on to Deloitte as a software developer. 
 
 November 2023: Our work on model evaluation has also been accepted at the [2023 NeurIPS Workshop on Computational Sustainability: Pitfalls and Promises from Theory to Deployment](https://www.compsust.net/compsust-2023/). This [5-page paper](http://Hutchinson-Lab.github.io/files/wang2023neuripsWksp.pdf) is an extended abstract of the 25-page TMLR paper. We are pleased that our submission was selected as one of four spotlight talks, and Jing will present at the workshop in December!
 

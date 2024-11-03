@@ -12,7 +12,7 @@ Thanks for visiting the ML QuESt Lab! We are a team of scholars developing and a
 
 News
 ======
-September 2024: Laurel Hopkins successfully defended her PhD dissertation, An Evaluation of Machine Learning Methods for Satellite Imagery-based Sustainability Tasks. 
+September 2024: Laurel Hopkins successfully defended her PhD dissertation, An Evaluation of Machine Learning Methods for Satellite Imagery-based Sustainability Tasks. She is moving on to a position at [LumenUs](https://belumenus.com/) analyzing satellite data to detect greenhouse gasses.
 
 August 2024: Rebecca Hutchinson has been named one of the [2024 L.L. Stewart Faculty Fellows](https://prax.oregonstate.edu/initiatives/ll-stewart-fellowship/2024-awardees). This program run by the Patricia Valian Reser Center for the Arts (PRAx) pairs scientists with artists in creative partnerships. Rebecca is thrilled to be in conversation with time-based artist [Grisha Coleman](https://www.radcliffe.harvard.edu/people/grisha-coleman).
 

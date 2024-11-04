@@ -148,7 +148,7 @@ redirect_from:
    </p>
   </div>
   <div class="bio-text">
-    Laurel was a PhD student in the MLQuESt Lab and a NASA FINESST (Future Investigators in NASA Earth and Space Science Technology) recipient. Laurel's work involved deep learning, remote sensing, and ecology. She recieved her M.S. in Computer Science from Oregon State and her B.S. in Electrical Engineering from UC Santa Barbara. After graduation, Laurel joined [LumenUs](https://belumenus.com/), analyzing satellite data to detect greenhouse gasses.
+    Laurel was a PhD student in the MLQuESt Lab and a NASA FINESST (Future Investigators in NASA Earth and Space Science Technology) recipient. Laurel's work involved deep learning, remote sensing, and ecology. She recieved her M.S. in Computer Science from Oregon State and her B.S. in Electrical Engineering from UC Santa Barbara. After graduation, Laurel joined <a href="https://belumenus.com/">LumenUs</a>, analyzing satellite data to detect greenhouse gasses.
   </div>
 </div>
 

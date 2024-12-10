@@ -79,9 +79,13 @@ redirect_from:
 <div class="person">
   <div class="person-header">
     <img src="../images/profiles/nahian.jpeg">
+     <p>
+      <a href="mailto:ahmedna@oregonstate.edu">Email</a> <br>
+       <a href="https://scholar.google.com/citations?user=cQ_tP48AAAAJ&hl=en">Google Scholar</a>
+   </p>
   </div>
   <div class="bio-text">
-    Nahian is a PhD student of computer science. He studies machine learning, with a focus on evaluation, and applications in computational sustainability. He is interested in intuitive and engaging ways of learning about machine learning.
+    Nahian is a PhD student of Computer Science. He studies machine learning, focusing on applications in computational sustainability. He received his B.S. in Computer Science and Engineering from North South University. 
   </div>
 </div>
 

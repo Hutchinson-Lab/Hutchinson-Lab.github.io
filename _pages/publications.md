@@ -6,9 +6,13 @@ author_profile: true
 ---
 
 **Ahmed, N.**, **Roth, M.**, Hallman, T.A., Robinson, W.D., **Hutchinson, R.A.** (2025). <br>
-[Spatial Clustering of Citizen Science Data Improves Downstream Species Distribution Models]([https://openreview.net/forum?id=VgJhYu7FmQ](https://aaai.org/conference/aaai/aaai-25/aisi-call/)). <br>
+Spatial Clustering of Citizen Science Data Improves Downstream Species Distribution Models. <br>
 *Proceedings of the Thirty-Ninth Conference on Artificial Intelligence (AAAI)*, to appear. <br>
 [(code)](https://github.com/Hutchinson-Lab/spatial-clustering-sdm) [(data)](https://doi.org/10.5281/zenodo.14362178) <br>
+
+**Hopkins, L.M.**, Wong, W., Kerner, H., Li, F., **Hutchinson, R.A.** (2025). <br>
+Data Augmentation Approaches for Satellite Imagery. <br>
+*Proceedings of the Thirty-Ninth Conference on Artificial Intelligence (AAAI)*, to appear. <br>
 
 **Wang, J.**, Hallman, T.A., **Hopkins, L.M.**, Kilbride, J.B., Robinson, W.D., **Hutchinson, R.A.** (2023). <br>
 Model Evaluation for Geospatial Problems. <br>

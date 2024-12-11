@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 **Ahmed, N.**, **Roth, M.**, Hallman, T.A., Robinson, W.D., **Hutchinson, R.A.** (2025). <br>
-Spatial Clustering of Citizen Science Data Improves Downstream Species Distribution Models. <br>
+[Spatial Clustering of Citizen Science Data Improves Downstream Species Distribution Models](https://aaai.org/conference/aaai/aaai-25/aisi-call/). <br>
 *Proceedings of the Thirty-Ninth Conference on Artificial Intelligence (AAAI)*, to appear. <br>
 [(code)](https://github.com/Hutchinson-Lab/spatial-clustering-sdm) [(data)](https://doi.org/10.5281/zenodo.14362178) <br>
 
 **Hopkins, L.M.**, Wong, W., Kerner, H., Li, F., **Hutchinson, R.A.** (2025). <br>
-Data Augmentation Approaches for Satellite Imagery. <br>
+[Data Augmentation Approaches for Satellite Imagery](https://aaai.org/conference/aaai/aaai-25/aisi-call/). <br>
 *Proceedings of the Thirty-Ninth Conference on Artificial Intelligence (AAAI)*, to appear. <br>
 
 **Wang, J.**, Hallman, T.A., **Hopkins, L.M.**, Kilbride, J.B., Robinson, W.D., **Hutchinson, R.A.** (2023). <br>
@@ -21,17 +21,17 @@ Model Evaluation for Geospatial Problems. <br>
 ***Selected for a spotlight talk***<br> 
 
 **Wang, J.**, **Hopkins, L.M.**, Hallman, T.A., Robinson, W.D., **Hutchinson, R.A.** (2023). <br>
-[Cross-validation for Geospatial Data: Estimating Generalization Performance in Geostatistical Problems](https://openreview.net/forum?id=VgJhYu7FmQ). <br>
-*Transactions in Machine Learning Research (TMLR)*, in press. <br>
+[Cross-validation for Geospatial Data: Estimating Generalization Performance in Geostatistical Problems](https://openreview.net/pdf?id=VgJhYu7FmQ). <br>
+*Transactions in Machine Learning Research (TMLR)*. <br>
 [(pdf)](http://Hutchinson-Lab.github.io/files/wang2023.pdf) [(code)](https://github.com/Hutchinson-Lab/Cross-validation-for-Geospatial-Data) <br>
 
 Prudic, K.L., Zylstra E.R., Melkonoff N.A., Laura, R.E., **Hutchinson, R.A.** (2023).<br>
 [Community scientists produce open data for understanding insects and climate change](https://doi.org/10.1016/j.cois.2023.101081).<br>
-*Current Opinion in Insect Science*, in press.<br>
+*Current Opinion in Insect Science*, 59.<br>
 
 Ibrahim, S., Fu, X., **Hutchinson, R.A.**, and **Seo, E.** (2023).<br> 
-[Under-counted tensor completion with neural incorporation of attributes](https://icml.cc/Conferences/2023).<br> 
-*Proceedings of the 40th International Conference on Machine Learning (ICML 2023),* to appear.<br>
+[Under-counted tensor completion with neural incorporation of attributes](https://icml.cc/virtual/2023/poster/24116).<br> 
+*Proceedings of the 40th International Conference on Machine Learning (ICML 2023).<br>
 [(arxiv)](https://arxiv.org/abs/2306.03273)
 
 **Hopkins, L.M.**, Hallman, T.A., Kilbride, J., Robinson, W.D., **Hutchinson, R.A.** (2022).<br>

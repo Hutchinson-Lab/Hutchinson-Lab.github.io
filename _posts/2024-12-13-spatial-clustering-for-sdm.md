@@ -163,7 +163,7 @@ Predicted occupancy maps show the patterns of species distributions governed by 
   <img src="/images/spatial_clustering_blog/NOFL_occu_maps.png" width="100%" height="100%" />
 </p>
 <p align = "center">
-Figure 3: Occupancy maps of Norther Flicker (<i>Colaptes auratus</i>) over southwestern Oregon, United States predicted by models built on sites defined by ten clustering approaches 
+Figure 3: Occupancy maps of Norther Flicker (<i>Colaptes auratus</i>) over southwestern Oregon, United States predicted by models built on sites defined by ten clustering approaches.
 </p>
 </center>
 

@@ -128,7 +128,7 @@ The inner workings of the two main spatial clustering algorithms - clustGeo (Cha
 
 <center>
 <p align="center">
-  <img src="/images/spatial_clustering_blog/example_map.png" width="50%" height="50%" />
+  <img src="/images/spatial_clustering_blog/example_map.png" width="100%" height="100%" />
 </p>
 <p align = "center">
 Figure 1: Simulated example of site formation by spatial clustering algorithms clustGeo and DBSC. eBird checklists from southwestern Oregon, United States are shown as red points. clustGeo starts off by assigning every point to its own cluster and then iteratively merges them. DBSC constructs a Delaynay Triangulation (DT) which is then split to form clusters.
@@ -147,7 +147,7 @@ Predictive performance summarized over all species is shown in Figure 2. The mai
 
 <center>
 <p align="center">
-  <img src="/images/spatial_clustering_blog/auc_perc_diff.png" width="50%" height="50%" />
+  <img src="/images/spatial_clustering_blog/auc_perc_diff.png" width="75%" height="75%" />
 </p>
 <p align = "center">
 Figure 2: Percentage AUC improvement over lat-long. Positive values indicate better performance than lat-long.
@@ -160,7 +160,7 @@ Predicted occupancy maps show the patterns of species distributions governed by 
 
 <center>
 <p align="center">
-  <img src="/images/spatial_clustering_blog/NOFL_occu_maps.png" width="50%" height="50%" />
+  <img src="/images/spatial_clustering_blog/NOFL_occu_maps.png" width="100%" height="100%" />
 </p>
 <p align = "center">
 Figure 3: Occupancy maps of Norther Flicker (<i>Colaptes auratus</i>) over southwestern Oregon, United States predicted by models built on sites defined by ten clustering approaches. 

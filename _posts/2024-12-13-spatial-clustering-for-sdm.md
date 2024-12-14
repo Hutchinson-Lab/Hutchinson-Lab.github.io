@@ -16,12 +16,12 @@ Citizen science biodiversity data can span large extents of space and time, but 
 
 ## Background
 
-Species distribution models (SDMs) aim to capture the patterns of species observations in relation to habitat characteristics. However, some species may be difficult to detect and can cause **imperfect detection** and false negatives. **Occupancy models** (MacKenzie et al., 2002) tackle this phenomenon by assuming that detection probability can be less than one, and consequently model the occupancy and detection processes separately, with the former being of higher scientific interest. Estimation of both occupancy and detection probabilities relies on repeated visits to sites over which occupancy is assumed to be fixed. While citizen science data can have large spatial and temporal coverage, they often require additional processing post hoc to introduce structure necessitated by occupancy models. Grouping together species observations to define sites for SDMs is the **site clustering problem**. Many potential solutions exist but they suffer from two primary reasons - (i) they either do not utilize all the training data provided to them to define sites, and/or (ii) they base their clustered sites on only geospatial features such as longitude and latitutude and do not account for similarity of species observation points in habitat/environmental feature space. In this post, we will see how **spatial clustering** algorithms remedy both of these issues, and provide additional advantages in terms of better predicitve performance of downstream SDMs. We investigated these site clustering approaches on eBird data (Sullivan et al., 2014) of 31 avian species from southwestern Oregon, United States.
+Species distribution models (SDMs) aim to capture the patterns of species observations in relation to habitat characteristics. However, some species may be difficult to detect and can cause **imperfect detection** and false negatives. **Occupancy models** (MacKenzie et al., 2002) tackle this phenomenon by assuming that detection probability can be less than one, and consequently model the occupancy and detection processes separately, with the former being of higher scientific interest. Estimation of both occupancy and detection probabilities relies on repeated visits to sites over which occupancy is assumed to be fixed. While citizen science data can have large spatial and temporal coverage, they often require additional processing **post hoc** to introduce structure necessitated by occupancy models. Grouping together species observations to define sites for SDMs is the **site clustering problem**. Many potential solutions exist but they suffer from two primary reasons - (i) they either do not utilize all the training data provided to them to define sites, and/or (ii) they base their clustered sites on only geospatial features such as longitude and latitutude and do not account for similarity of species observation points in habitat/environmental feature space. In this post, we will see how **spatial clustering** algorithms remedy both of these issues, and provide additional advantages in terms of better predicitve performance of downstream SDMs. We investigated these site clustering approaches on eBird data (Sullivan et al., 2014) of 31 avian species from southwestern Oregon, United States.
 
 
 ## Ten Approaches to Site Clustering
 
-We investigated ten candidate clustering approaches to address the site clustering problem. Their characteristics are summarized in Table 1. We include SVS for completeness, but this method has known issues with parameter identifiability.
+We investigated ten candidate clustering approaches to address the site clustering problem. Their characteristics are summarized in Table 1. We include SVS for completeness but this method has known issues with parameter identifiability.
 
 <center><p>Table 1: Properties of candidate approaches according to four Yes/No questions.</p>
 <table>
@@ -122,16 +122,16 @@ We investigated ten candidate clustering approaches to address the site clusteri
 
 
 
-The inner workings of the two main spatial clustering algorithms - clustGeo (Chavent et al., 2018), and density based spatial clustering (DBSC) (Liu et al., 2012), are outlined in Figure 1. BayesOptClustGeo and best-clustGeo are both based on clustGeo. best-clustGeo is an oracle method which gets to optimize the clustering parameters based on test performance whereas BayesOptClustGeo selects clustering parameters by maximing the average Silhouette width of clustered points.
+Inner workings of the two main spatial clustering algorithms - clustGeo (Chavent et al., 2018), and density based spatial clustering (DBSC) (Liu et al., 2012), are outlined in Figure 1. BayesOptClustGeo and best-clustGeo are both based on clustGeo. best-clustGeo is an oracle method which gets to optimize the clustering parameters based on test performance whereas BayesOptClustGeo selects clustering parameters by maximing the average Silhouette width of clustered points.
 
 
 
 <center>
 <p align="center">
-  <img src="/images/spatial_clustering_blog/example_map.png" width="65%" height="65%" />
+  <img src="/images/spatial_clustering_blog/example_map.png" width="70%" height="70%" />
 </p>
 <p align = "center">
-Figure 1: Simulated example of site formation by spatial clustering algorithms clustGeo and DBSC. eBird checklists from southwestern Oregon, United States are shown as red points. clustGeo starts off by assigning every point to its own cluster and then iteratively merges them. DBSC constructs a Delaynay Triangulation (DT) which is then split to form clusters.
+Figure 1: Simulated example of site formation by spatial clustering algorithms clustGeo and DBSC. eBird checklists from southwestern Oregon, United States are shown as red points. clustGeo starts off by assigning every point to its own cluster and then iteratively merges them. DBSC constructs a Delaunay Triangulation (DT) which is then split to form sub-graph DTs and then clusters.
 </p>
 </center>
 
@@ -139,15 +139,15 @@ Figure 1: Simulated example of site formation by spatial clustering algorithms c
 ## Predictive Performance
 
 Predictive performance summarized over all species is shown in Figure 2. The main takeaways are as follows:
-* Spatial clustering based approaches - BayesOptClustGeo and DBSC performed the best, showing how spatial clustering leads to better downstream models compared to existing approaches.
+* BayesOptClustGeo and DBSC performed the best, showing how spatial clustering leads to better downstream models compared to existing approaches.
 
 * Methods which do not factor in environmental feature space (lat-long, rounded-4, 1-kmSq) have poorer predictive performance compared to spatial clustering approaches.
 
-* Methods which discard data (2to10, 2t10-sameObs, 1-UL) fare the worst.
+* Methods which discard data (2to10, 2t10-sameObs, 1-UL) trail all other methods.
 
 <center>
 <p align="center">
-  <img src="/images/spatial_clustering_blog/auc_perc_diff.png" width="60%" height="60%" />
+  <img src="/images/spatial_clustering_blog/auc_perc_diff.png" width="55%" height="55%" />
 </p>
 <p align = "center">
 Figure 2: Percentage AUC improvement over lat-long. Positive values indicate better performance than lat-long.
@@ -156,14 +156,14 @@ Figure 2: Percentage AUC improvement over lat-long. Positive values indicate bet
 
 ## Occupancy Maps
 
-Predicted occupancy maps show the patterns of species distributions governed by the choice of site clustering approaches. Further expert analysis is required to assess reliability. 
+Predicted occupancy maps show the patterns of species distributions governed by the choice of site clustering approaches (Figure 3). Further expert analysis is required to assess reliability. 
 
 <center>
 <p align="center">
   <img src="/images/spatial_clustering_blog/NOFL_occu_maps.png" width="100%" height="100%" />
 </p>
 <p align = "center">
-Figure 3: Occupancy maps of Norther Flicker (<i>Colaptes auratus</i>) over southwestern Oregon, United States predicted by models built on sites defined by ten clustering approaches. 
+Figure 3: Occupancy maps of Norther Flicker (<i>Colaptes auratus</i>) over southwestern Oregon, United States predicted by models built on sites defined by ten clustering approaches 
 </p>
 </center>
 

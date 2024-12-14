@@ -128,7 +128,7 @@ Inner workings of the two main spatial clustering algorithms - clustGeo (Chavent
 
 <center>
 <p align="center">
-  <img src="/images/spatial_clustering_blog/example_map.png" width="70%" height="70%" />
+  <img src="/images/spatial_clustering_blog/example_map.png" width="75%" height="75%" />
 </p>
 <p align = "center">
 Figure 1: Simulated example of site formation by spatial clustering algorithms clustGeo and DBSC. eBird checklists from southwestern Oregon, United States are shown as red points. clustGeo starts off by assigning every point to its own cluster and then iteratively merges them. DBSC constructs a Delaunay Triangulation (DT) which is then split to form sub-graph DTs and then clusters.

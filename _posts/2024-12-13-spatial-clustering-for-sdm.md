@@ -143,7 +143,7 @@ Predictive performance summarized over all species is shown in Figure 2. The mai
 
 * Methods which do not factor in environmental feature space (lat-long, rounded-4, 1-kmSq) have weaker predictive performance compared to spatial clustering approaches.
 
-* Methods which discard data (2to10, 2t10-sameObs, 1-UL) trail all other methods.
+* Methods which discard data (2to10, 2to10-sameObs, 1-UL) trail all other methods.
 
 <center>
 <p align="center">

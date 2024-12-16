@@ -141,7 +141,7 @@ Figure 1: Simulated example of site formation by spatial clustering algorithms c
 Predictive performance summarized over all species is shown in Figure 2. The main takeaways are as follows:
 * BayesOptClustGeo and DBSC performed the best, showing how spatial clustering leads to better downstream models compared to existing approaches.
 
-* Methods which do not factor in environmental feature space (lat-long, rounded-4, 1-kmSq) have poorer predictive performance compared to spatial clustering approaches.
+* Methods which do not factor in environmental feature space (lat-long, rounded-4, 1-kmSq) have weaker predictive performance compared to spatial clustering approaches.
 
 * Methods which discard data (2to10, 2t10-sameObs, 1-UL) trail all other methods.
 

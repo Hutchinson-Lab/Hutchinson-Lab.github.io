@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+Nguyen, T., Ibrahim, S., **Hutchinson, R.A.**, and Fu, X. (2025). <br>
+Under-Counted Matrix Completion Without Detection Features. <br>
+*2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, to appear. <br>
+
 **Ahmed, N.**, **Roth, M.**, Hallman, T.A., Robinson, W.D., **Hutchinson, R.A.** (2025). <br>
 [Spatial Clustering of Citizen Science Data Improves Downstream Species Distribution Models](https://aaai.org/conference/aaai/aaai-25/aisi-call/). <br>
 *Proceedings of the Thirty-Ninth Conference on Artificial Intelligence (AAAI)*, to appear. <br>

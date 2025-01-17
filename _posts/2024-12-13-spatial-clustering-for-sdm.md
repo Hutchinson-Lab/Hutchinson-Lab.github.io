@@ -39,87 +39,86 @@ We investigated ten candidate clustering approaches to address the site clusteri
     <tr>
       <td>1</td>
       <td>SVS</td>
-      <td style="background-color:#D41159; color:white;">No</td>
-      <td style="background-color:#D41159; color:white;">No</td>
-      <td style="background-color:#D41159; color:white;">No</td>
-      <td style="background-color:#D41159; color:white;">No</td>
+      <td style="background-color:#40B0A6; color:black;">No</td>
+      <td style="background-color:#40B0A6; color:black;">No</td>
+      <td style="background-color:#40B0A6; color:black;">No</td>
+      <td style="background-color:#40B0A6; color:black;">No</td>
     </tr>
     <tr>
       <td>2</td>
       <td>1/UL</td>
-      <td style="background-color:#D41159; color:white;">No</td>
-      <td style="background-color:#1A85FF; color:white;">Yes</td>
-      <td style="background-color:#D41159; color:white;">No</td>
-      <td style="background-color:#D41159; color:white;">No</td>
+      <td style="background-color:#40B0A6; color:black;">No</td>
+      <td style="background-color:#E1BE6A; color:black;">Yes</td>
+      <td style="background-color:#40B0A6; color:black;">No</td>
+      <td style="background-color:#40B0A6; color:black;">No</td>
     </tr>
     <tr>
       <td>3</td>
       <td>lat-long</td>
-      <td style="background-color:#1A85FF; color:white;">Yes</td>
-      <td style="background-color:#D41159; color:white;">No</td>
-      <td style="background-color:#D41159; color:white;">No</td>
-      <td style="background-color:#D41159; color:white;">No</td>
+      <td style="background-color:#E1BE6A; color:black;">Yes</td>
+      <td style="background-color:#40B0A6; color:black;">No</td>
+      <td style="background-color:#40B0A6; color:black;">No</td>
+      <td style="background-color:#40B0A6; color:black;">No</td>
     </tr>
     <tr>
       <td>4</td>
       <td>2to10</td>
-      <td style="background-color:#1A85FF; color:white;">Yes</td>
-      <td style="background-color:#1A85FF; color:white;">Yes</td>
-      <td style="background-color:#D41159; color:white;">No</td>
-      <td style="background-color:#D41159; color:white;">No</td>
+      <td style="background-color:#E1BE6A; color:black;">Yes</td>
+      <td style="background-color:#E1BE6A; color:black;">Yes</td>
+      <td style="background-color:#40B0A6; color:black;">No</td>
+      <td style="background-color:#40B0A6; color:black;">No</td>
     </tr>
     <tr>
       <td>5</td>
       <td>2to10-sameObs</td>
-      <td style="background-color:#1A85FF; color:white;">Yes</td>
-      <td style="background-color:#1A85FF; color:white;">Yes</td>
-      <td style="background-color:#D41159; color:white;">No</td>
-      <td style="background-color:#D41159; color:white;">No</td>
+      <td style="background-color:#E1BE6A; color:black;">Yes</td>
+      <td style="background-color:#E1BE6A; color:black;">Yes</td>
+      <td style="background-color:#40B0A6; color:black;">No</td>
+      <td style="background-color:#40B0A6; color:black;">No</td>
     </tr>
     <tr>
       <td>6</td>
       <td>rounded-4</td>
-      <td style="background-color:#1A85FF; color:white;">Yes</td>
-      <td style="background-color:#D41159; color:white;">No</td>
-      <td style="background-color:#1A85FF; color:white;">Yes</td>
-      <td style="background-color:#D41159; color:white;">No</td>
+      <td style="background-color:#E1BE6A; color:black;">Yes</td>
+      <td style="background-color:#40B0A6; color:black;">No</td>
+      <td style="background-color:#E1BE6A; color:black;">Yes</td>
+      <td style="background-color:#40B0A6; color:black;">No</td>
     </tr>
     <tr>
       <td>7</td>
       <td>1-kmSq</td>
-      <td style="background-color:#1A85FF; color:white;">Yes</td>
-      <td style="background-color:#D41159; color:white;">No</td>
-      <td style="background-color:#1A85FF; color:white;">Yes</td>
-      <td style="background-color:#D41159; color:white;">No</td>
+      <td style="background-color:#E1BE6A; color:black;">Yes</td>
+      <td style="background-color:#40B0A6; color:black;">No</td>
+      <td style="background-color:#E1BE6A; color:black;">Yes</td>
+      <td style="background-color:#40B0A6; color:black;">No</td>
     </tr>
     <tr>
       <td>8</td>
       <td>best-clustGeo</td>
-      <td style="background-color:#1A85FF; color:white;">Yes</td>
-      <td style="background-color:#D41159; color:white;">No</td>
-      <td style="background-color:#1A85FF; color:white;">Yes</td>
-      <td style="background-color:#1A85FF; color:white;">Yes</td>
+      <td style="background-color:#E1BE6A; color:black;">Yes</td>
+      <td style="background-color:#40B0A6; color:black;">No</td>
+      <td style="background-color:#E1BE6A; color:black;">Yes</td>
+      <td style="background-color:#E1BE6A; color:black;">Yes</td>
     </tr>
     <tr>
       <td>9</td>
       <td>BayesOptClustGeo</td>
-      <td style="background-color:#1A85FF; color:white;">Yes</td>
-      <td style="background-color:#D41159; color:white;">No</td>
-      <td style="background-color:#1A85FF; color:white;">Yes</td>
-      <td style="background-color:#1A85FF; color:white;">Yes</td>
+      <td style="background-color:#E1BE6A; color:black;">Yes</td>
+      <td style="background-color:#40B0A6; color:black;">No</td>
+      <td style="background-color:#E1BE6A; color:black;">Yes</td>
+      <td style="background-color:#E1BE6A; color:black;">Yes</td>
     </tr>
     <tr>
       <td>10</td>
       <td>DBSC</td>
-      <td style="background-color:#1A85FF; color:white;">Yes</td>
-      <td style="background-color:#D41159; color:white;">No</td>
-      <td style="background-color:#1A85FF; color:white;">Yes</td>
-      <td style="background-color:#1A85FF; color:white;">Yes</td>
+      <td style="background-color:#E1BE6A; color:black;">Yes</td>
+      <td style="background-color:#40B0A6; color:black;">No</td>
+      <td style="background-color:#E1BE6A; color:black;">Yes</td>
+      <td style="background-color:#E1BE6A; color:black;">Yes</td>
     </tr>
   </tbody>
 </table>
 </center>
-
 
 
 Inner workings of the two main spatial clustering algorithms - clustGeo (Chavent et al., 2018), and density based spatial clustering (DBSC) (Liu et al., 2012), are outlined in Figure 1. BayesOptClustGeo and best-clustGeo are both based on clustGeo. best-clustGeo is an oracle method which gets to optimize the clustering parameters based on test performance whereas BayesOptClustGeo selects clustering parameters by maximing the average Silhouette width of clustered points.

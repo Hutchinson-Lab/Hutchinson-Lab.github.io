@@ -12,7 +12,9 @@ Thanks for visiting the ML QuESt Lab! We are a team of scholars developing and a
 
 News
 ======
-December 2024: Rebecca is giving a keynote presentation at the NeurIPS Climate Change AI [Workshop on Tackling Climate Change with Machine Learning](https://www.climatechange.ai/events/neurips2024). 
+February 2025: Our team has two papers at [AAAI in the AI for Social Impact Track](https://aaai.org/conference/aaai/aaai-25/main-technical-track/) - check out our Publications page for links. Nahian Ahmed and Laurel Hopkins will attend to present posters.
+
+December 2024: Rebecca gave a keynote presentation at the NeurIPS Climate Change AI [Workshop on Tackling Climate Change with Machine Learning](https://www.climatechange.ai/events/neurips2024). 
 
 September 2024: Laurel Hopkins successfully defended her PhD dissertation, An Evaluation of Machine Learning Methods for Satellite Imagery-based Sustainability Tasks. She is moving on to a position at [LumenUs](https://belumenus.com/) analyzing satellite data to detect greenhouse gasses.
 

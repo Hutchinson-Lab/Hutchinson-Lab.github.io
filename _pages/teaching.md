@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 ## Rebecca's Teaching at OSU
-- Machine Learning Topics in Species Distribution Modeling (FW 599)
+- Machine Learning Topics in Species Distribution Modeling (FW 532, formerly FW 599)
+  - Fall 2024
   - Fall 2023
   - Fall 2021
   - Fall 2020
@@ -16,11 +17,13 @@ redirect_from:
   - Fall 2017
   - Spring 2016
 - Special Topics: Machine Learning Challenges in the Real World (AI 539; developed by [Kiri Wagstaff](https://www.wkiri.com/))
-  - ***upcoming: Winter 2024***
-- Engineering Computation and Algorithmic Thinking: An Introduction through a Biological Lens (ENGR 103)
-  - ***upcoming: Spring 2024***
+  - Winter 2024
+- Engineering Computation and Algorithmic Thinking: One Planet (ENGR 103)
+  - Spring 2025
+  - Spring 2024
 - Use and Abuse of Data: Critical Thinking in Science (BDS 211).
-  - ***upcoming: Spring 2024***
+  - Winter 2025
+  - Spring 2024
   - Spring 2022
   - Spring 2021
   - Spring 2019

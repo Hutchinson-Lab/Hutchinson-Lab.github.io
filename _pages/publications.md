@@ -17,6 +17,7 @@ Under-Counted Matrix Completion Without Detection Features. <br>
 **Hopkins, L.M.**, Wong, W., Kerner, H., Li, F., **Hutchinson, R.A.** (2025). <br>
 [Data Augmentation Approaches for Satellite Imagery](https://aaai.org/conference/aaai/aaai-25/aisi-call/). <br>
 *Proceedings of the Thirty-Ninth Conference on Artificial Intelligence (AAAI)*, to appear. <br>
+[(pdf)](http://Hutchinson-Lab.github.io/files/Hopkins_AAAI_2025.pdf) [(code)](https://github.com/Hutchinson-Lab/Data-Augmentation-Approaches-for-Satellite-Imagery)
 
 **Wang, J.**, Hallman, T.A., **Hopkins, L.M.**, Kilbride, J.B., Robinson, W.D., **Hutchinson, R.A.** (2023). <br>
 Model Evaluation for Geospatial Problems. <br>

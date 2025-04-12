@@ -10,7 +10,7 @@ Under-Counted Matrix Completion Without Detection Features. <br>
 *2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, to appear. <br>
 
 **Ahmed, N.**, **Roth, M.**, Hallman, T.A., Robinson, W.D., **Hutchinson, R.A.** (2025). <br>
-[Spatial Clustering of Citizen Science Data Improves Downstream Species Distribution Models](https://aaai.org/conference/aaai/aaai-25/aisi-call/). <br>
+[Spatial Clustering of Citizen Science Data Improves Downstream Species Distribution Models](https://ojs.aaai.org/index.php/AAAI/article/view/34993). <br>
 *Proceedings of the Thirty-Ninth Conference on Artificial Intelligence (AAAI)*, to appear. <br>
 [(pdf)](http://Hutchinson-Lab.github.io/files/Spatial_Clustering_for_SDM.pdf) [(code)](https://github.com/Hutchinson-Lab/Spatial-Clustering-for-SDM) [(data)](https://doi.org/10.5281/zenodo.14362178) <br>
 

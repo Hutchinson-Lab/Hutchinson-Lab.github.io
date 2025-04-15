@@ -142,7 +142,7 @@ redirect_from:
 ### Natalie Rugg
 <div class="person">
   <div class="person-header">
-    <img src="../images/profiles/Natalie_Rugg.jpg">
+    <img src="../images/profiles/Natalie_Rugg.jpeg">
     <p>
        <a href="https://www.linkedin.com/in/natalie-rugg-a770a6191/">LinkedIn</a><br>
        <a href="https://orcid.org/0009-0007-3259-2177">ORCID</a><br>

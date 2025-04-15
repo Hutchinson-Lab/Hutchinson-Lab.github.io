@@ -139,6 +139,22 @@ redirect_from:
   </div>
 </div>
 
+### Natalie Rugg
+<div class="person">
+  <div class="person-header">
+    <img src="../images/profiles/Natalie_Rugg.jpg">
+    <p>
+       <a href="https://www.linkedin.com/in/natalie-rugg-a770a6191/">LinkedIn</a><br>
+       <a href="https://orcid.org/0009-0007-3259-2177">ORCID</a><br>
+       <a href="https://www.researchgate.net/profile/Natalie-Rugg">ResearchGate</a><br>
+       </p>
+  </div>
+  <div class="bio-text">
+  Natalie is a master's student in the Wildlife Science program and an Ecologist with the <a href="https://research.fs.usda.gov/pnw">US Forest Service Pacific Northwest Research Station</a> Bioacoustics Lab. She is developing occupancy models for western screech-owls across the Northwest Forest Plan area and exploring modelling methods using automated detection of wildlife species classified by a deep convolutional neural network, PNW-Cnet. She is co-advised by <a href="http://www.damonlesmeister.com/damonlesmeister.html">Damon Lesmseister</a> from the <a href="http://www.damonlesmeister.com/bioacoustics.html">PNW Bioacoustics Lab</a>. Natalie received her B.S. in Biology from California State University - Chico in 2017 with a focus on mammalian and avian conservation.
+  </div>
+</div>
+
+
 ## Alumni
 <hr>
 

@@ -1,0 +1,9 @@
+@inproceedings{ahmed2025spatial,
+  title={Spatial Clustering of Citizen Science Data Improves Downstream Species Distribution Models},
+  author={Ahmed, Nahian and Roth, Mark and Hallman, Tyler A and Robinson, W Douglas and Hutchinson, Rebecca A},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={27},
+  pages={27775--27783},
+  year={2025}
+}

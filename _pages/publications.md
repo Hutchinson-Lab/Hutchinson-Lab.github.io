@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+Shen, F., **Jothiraj, F.V.S.**, **Hutchinson, R.A.**, Hallman, T.A., Curtis, J.R., Robinson, W.D. (2025). <br>
+[Species distribution model performance improves when habitat characterizations are centered on detected individuals instead of observers.](https://doi.org/10.1016/j.ecolind.2025.113546) <br>
+*Ecological Indicators*, 176. <br> 
+[(pdf)](http://Hutchinson-Lab.github.io/files/shen2025.pdf)
+
 Nguyen, T., Ibrahim, S., **Hutchinson, R.A.**, and Fu, X. (2025). <br>
 Under-Counted Matrix Completion Without Detection Features. <br>
 *2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, to appear. <br>

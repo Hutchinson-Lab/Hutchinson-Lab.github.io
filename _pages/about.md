@@ -12,6 +12,8 @@ Thanks for visiting the ML QuESt Lab! We are a team of scholars developing and a
 
 News
 ======
+July 2025: Rebecca is honored to have received a named position in the OSU College of Engineering. She will be the [Kearney Faculty Scholar](https://engineering.oregonstate.edu/about/endowed-faculty-named-positions) for the next two years. 
+
 February 2025: Our team has two papers at [AAAI in the AI for Social Impact Track](https://aaai.org/conference/aaai/aaai-25/main-technical-track/) - check out our Publications page for links. Nahian Ahmed and Laurel Hopkins will attend to present posters.
 
 December 2024: Rebecca gave a keynote presentation at the NeurIPS Climate Change AI [Workshop on Tackling Climate Change with Machine Learning](https://www.climatechange.ai/events/neurips2024). 

@@ -12,6 +12,8 @@ Thanks for visiting the ML QuESt Lab! We are a team of scholars developing and a
 
 News
 ======
+November 2025: Rebecca is excited to be part of the 2026 cohort of [Faculty Fellows](https://nwcasc.uw.edu/wp-content/uploads/sites/23/2025/11/2025-26-New-Fellows-Announcement.pdf) with the [Northwest Climate Adaptation Science Center (CASC)](https://nwcasc.uw.edu/).
+
 July 2025: Rebecca is honored to have received an endowed position in the OSU College of Engineering. She will be the [Kearney Faculty Scholar](https://engineering.oregonstate.edu/about/endowed-faculty-named-positions) for the next two years. 
 
 February 2025: Our team has two papers at [AAAI in the AI for Social Impact Track](https://aaai.org/conference/aaai/aaai-25/main-technical-track/) - check out our Publications page for links. Nahian Ahmed and Laurel Hopkins will attend to present posters.

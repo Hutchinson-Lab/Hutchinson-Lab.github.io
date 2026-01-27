@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+Binder, W., Ruprecht, J.S., Rabe, J., Metz, M.C., **Hutchinson, R.A.**, Stahler, D.R., and Levi, T. (2026). <br> 
+[Diets, dominance hierarchies, and kleptoparasitism drive asymmetrical interactions between wolves and cougars.](https://www.pnas.org/doi/10.1073/pnas.2511397123) <br>
+*Proceedings of the National Academy of Sciences*, 123 (6). <br>
+
 Shen, F., **Jothiraj, F.V.S.**, **Hutchinson, R.A.**, Hallman, T.A., Curtis, J.R., Robinson, W.D. (2025). <br>
 [Species distribution model performance improves when habitat characterizations are centered on detected individuals instead of observers.](https://doi.org/10.1016/j.ecolind.2025.113546) <br>
 *Ecological Indicators*, 176. <br> 

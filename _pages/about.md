@@ -12,6 +12,12 @@ Thanks for visiting the ML QuESt Lab! We are a team of scholars developing and a
 
 News
 ======
+September 2026: Natalie Rugg's work modeling Western Screech Owls is out in the Journal of Avian Biology. In addition to being the first chapter of her MS thesis, it has been the foundation of a great learning experience for our team!
+
+August 2026: Nahian Ahmed led a major effort that has been published in Methods in Ecology and Evolution! This is the next step in our investigation into the question of how to form sites for occupancy models from unstructured data. More to come!
+
+June 2026: Jing Wang successfully defended her PhD thesis, Estimating Generalization Performance in Geospatial Problems. Congratulations, Jing!
+
 November 2025: Rebecca is excited to be part of the 2026 cohort of [Faculty Fellows](https://nwcasc.uw.edu/wp-content/uploads/sites/23/2025/11/2025-26-New-Fellows-Announcement.pdf) with the [Northwest Climate Adaptation Science Center (CASC)](https://nwcasc.uw.edu/).
 
 July 2025: Rebecca is honored to have received an endowed position in the OSU College of Engineering. She will be the [Kearney Faculty Scholar](https://engineering.oregonstate.edu/about/endowed-faculty-named-positions) for the next three years. 

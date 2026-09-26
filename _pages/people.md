@@ -61,10 +61,6 @@ redirect_from:
 ## Current Students
 <hr>
 
-### Logan Sizemore
-
-### Angela Zhu
-
 ### Nahian Ahmed
 <div class="person">
   <div class="person-header">
@@ -144,6 +140,9 @@ redirect_from:
   </div>
 </div>
 
+### Logan Sizemore
+
+### Angela Zhu
 
 ## Alumni
 <hr>

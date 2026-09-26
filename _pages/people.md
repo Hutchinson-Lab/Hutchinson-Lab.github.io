@@ -61,19 +61,9 @@ redirect_from:
 ## Current Students
 <hr>
 
-### Jing Wang
-<div class="person">
- <div class="person-header">
-  <img src="../images/profiles/wangjing.jpg">
-  <p>
-    <a href="mailto:wangji9@oregonstate.edu">Email</a> <br>
-    <a href="https://www.linkedin.com/in/jingw29/">LinkedIn</a>
-   </p>
-</div>
-  <div class="bio-text">
-    Jing is a PhD candidate in computer science, studying on model evaluation in machine learning, specifically developing cross-validation methods for geospatial problems and applying them on birds and housing datasets. Previously, she obtained her M.S. in Computer Science from University of South Carolina, M.A. in Applied Economics from Fudan University, and B.A in Finance from Huazhong University of Science and Technology. 
-  </div>
-</div>
+### Logan Sizemore
+
+### Angela Zhu
 
 ### Nahian Ahmed
 <div class="person">
@@ -158,12 +148,24 @@ redirect_from:
 ## Alumni
 <hr>
 
+### Jing Wang, PhD 2026
+<div class="person">
+ <div class="person-header">
+  <img src="../images/profiles/wangjing.jpg">
+  <p>
+    <a href="https://www.linkedin.com/in/jingw29/">LinkedIn</a>
+   </p>
+</div>
+  <div class="bio-text">
+    Jing was a PhD student in computer science, studying on model evaluation in machine learning. Previously, she obtained her M.S. in Computer Science from University of South Carolina, M.A. in Applied Economics from Fudan University, and B.A in Finance from Huazhong University of Science and Technology. 
+  </div>
+</div>
+
 ### Laurel Hopkins, MS 2018, PhD 2024
 <div class="person">
   <div class="person-header">
     <img src="../images/profiles/laurel.png">
     <p>
-      <a href="mailto:hopkilau@oregonstate.edu">Email</a> <br>
       <a href="https://www.linkedin.com/in/laurelhopkins/">LinkedIn</a>
    </p>
   </div>

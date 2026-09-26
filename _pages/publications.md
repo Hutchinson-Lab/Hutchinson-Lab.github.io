@@ -4,6 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**Rugg, N.**, Jenkins, J., **Hutchinson, R.A.**, and Lesmeister, D. (2026). <br>
+Western screech-owl occupancy is higher in warm, dry landscapes with diverse topography. <br>
+*Journal of Avian Biology*, to appear. <br>
+
+**Ahmed, N.**, Roth, M., Hallman, T.A., Robinson, W.D., and **Hutchinson, R.A.** (2026). <br>
+[A comparison of clustering approaches to create sites for occupancy models from opportunistic biodiversity surveys.](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210x.70395) <br>
+*Methods in Ecology and Evolution*, to appear. <br>
 
 Binder, W., Ruprecht, J.S., Rabe, J., Metz, M.C., **Hutchinson, R.A.**, Stahler, D.R., and Levi, T. (2026). <br> 
 [Diets, dominance hierarchies, and kleptoparasitism drive asymmetrical interactions between wolves and cougars.](https://www.pnas.org/doi/10.1073/pnas.2511397123) <br>
